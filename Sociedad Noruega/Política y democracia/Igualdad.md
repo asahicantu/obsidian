@@ -1,0 +1,29 @@
+La igualdad de género se trata de que todos tengan las mismas oportunidades y derechos. La igualdad de género es un área importante en Noruega, tanto para los políticos como para los empleadores y la población. Pero no siempre ha sido así. Mucha gente cita a un poeta noruego, Arnulf Ødeland, que vivió a principios del siglo XX: ¡No debes tolerar tan profundamente la injusticia que no se golpea a sí misma! ¿Qué crees que quiso decir con eso?
+
+![](https://cdn.kursoria.no/pensum/elements/-_drftgy.jpg)
+
+---
+
+En esta página puedes leer sobre:
+
+-    [Discriminación](#discriminaci%C3%B3n)
+-    [Diseño universal](#dise%C3%B1o-universal)
+
+---
+
+La igualdad de género en Noruega está regulada por ley, entre otras cosas. Hay una ley separada, "Ley de Igualdad de Género y Prohibición de Discriminación", que estipula que está prohibido discriminar, discriminar y acosar.
+
+## DISCRIMINACIÓN
+
+La ley establece, entre otras cosas:
+
+_Discriminación por motivos de sexo, embarazo, licencia por maternidad o adopción, deberes de cuidado, etnia, religión, creencia, discapacidad, orientación sexual, identidad de género, expresión de género, edad, o combinaciones de estos motivos está prohibido. Etnicidad significa, entre otras cosas, origen nacional, ascendencia, color de piel e idioma._
+
+Si solicita un trabajo, no puede ser rechazada porque está embarazada. Tampoco puede ser rechazado por venir de un país en particular. Si vas al cine, el cine no puede dejarte fuera porque tienes una discapacidad. Esto quiere decir que todas las empresas y agencias que esperan ser visitadas por alguien deben facilitar la entrada a personas que, por ejemplo, dispongan de silla de ruedas.
+
+## DISEÑO UNIVERSAL
+
+El diseño universal es sobre que todas las personas, independientemente de su nivel funcional, puedan utilizar los servicios en la sociedad. Los ciegos y los deficientes visuales deben tener la oportunidad de tomar el tranvía, los sordos deben tener la oportunidad de ir a un partido de fútbol y las personas en silla de ruedas deben poder ingresar a las farmacias y conciertos. Esto significa que las empresas y agencias deben facilitar para todos, por ejemplo, usando Braille, teniendo rampas para sillas de ruedas, etc. Si no lo hacen, pueden ser multados.
+
+
+[[Política y democracia]]

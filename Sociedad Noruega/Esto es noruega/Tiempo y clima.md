@@ -1,0 +1,23 @@
+Debido a que Noruega es un país largo, puede experimentar un clima diferente en diferentes lugares en el mismo día.
+
+---
+
+En esta página puedes leer sobre:
+
+-    [Verano](#verano)
+-    [Invierno](#invierno)
+
+---
+
+En la costa oeste de Noruega, fuertes lluvias y tormentas azotan Noruega. Bergen es la ciudad donde puede llover más.
+
+## VERANO
+
+En verano suele haber entre 15 y 25 grados en el sur de Noruega. A veces puede ser de hasta 30 grados. Si hace al menos 20 grados durante toda una noche, lo llamamos noche tropical.
+
+## INVIERNO
+
+En invierno suele estar entre -10 grados y +10 grados.
+
+
+[[Esto es noruega]]

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae929f330cdd04a",
+        "id": "6e908690acc622c4",
         "type": "tabs",
         "children": [
           {
-            "id": "1077c53cd0a6c316",
+            "id": "3c6539161d2c8d89",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,9 +137,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1077c53cd0a6c316",
+  "active": "5e98ea81e5b98f7e",
   "lastOpenFiles": [
-    "Psycho/Psycho.md",
-    "README.md"
+    "Samfunnsakp norge/INTRO.md",
+    "Samfunnsakp norge/Politikk og demokrati/Politikk og demokrati.md",
+    "Samfunnsakp norge/Politikk og demokrati/De norske partiene.md",
+    "Samfunnsakp norge/Politikk og demokrati/Innvandring.md",
+    "Samfunnsakp norge/Politikk og demokrati/Offentlige tjenester.md",
+    "Samfunnsakp norge/Politikk og demokrati/Likestilling.md",
+    "Samfunnsakp norge/Politikk og demokrati/Det grønne skiftet.md",
+    "Samfunnsakp norge/Politikk og demokrati/Organisering.md",
+    "Samfunnsakp norge/Politikk og demokrati/Kongehuset.md",
+    "Samfunnsakp norge/Politikk og demokrati/Valg.md"
   ]
 }

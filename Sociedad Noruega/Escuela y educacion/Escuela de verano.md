@@ -1,0 +1,23 @@
+Hay muchos tipos de escuela de verano. Las escuelas de verano se pueden encontrar en escuelas primarias y secundarias inferiores, escuelas secundarias superiores, colegios y universidades. Por lo tanto, no es una respuesta a lo que es una escuela de verano. Pero hay algunas características comunes (similitudes), a saber, que hay una oferta de aprendizaje dentro de algo que crees que es interesante, en el verano. Las escuelas de verano no son una gran parte del plan de estudios, pero son una parte importante de las vacaciones de verano para muchas personas, por lo que puede ser bueno saber de qué se trata.
+
+![](https://cdn.kursoria.no/pensum/elements/-_fvgbhn.jpg)
+
+---
+
+En esta página puedes leer sobre:
+
+-    [Escuelas de verano para niños](#escuelas-de-verano-para-ni%C3%B1os)
+
+---
+
+Una característica común importante para las escuelas de verano, además de que se trata de aprender, es que se lleva a cabo de una manera diferente a la habitual. Esto ayuda a que las escuelas de verano sean muy populares. Por ejemplo, los niños pueden trabajar con las matemáticas en el bosque o en los parques: medir la circunferencia de los árboles usando cintas métricas, medir la altura de los árboles usando trigonometría, medir el área de un área en el parque o bosque, y actividades similares. Para aquellos que estudian en un colegio o universidad, puede haber una oferta para viajar a una escuela de verano a otro país. Entonces puedes experimentar cómo aprender lo que normalmente estudias en otra cultura. Estas escuelas de verano suelen estar reservadas para aquellos que asisten a un estudio específico, y no todos los colegios o universidades ofrecen escuela de verano.
+
+## ESCUELAS DE VERANO PARA NIÑOS
+
+Algunos municipios y organizaciones voluntarias organizan escuelas de verano . La escuela de verano no forma parte de la escuela primaria y no es obligatorio asistir a la escuela de verano. Las vacaciones de verano en Noruega pueden ser largas para los niños y puede ser agradable tener algo que hacer en el verano. En la escuela de verano, por ejemplo, puedes aprender a nadar o trabajar con una materia escolar que te guste mucho. Común a las escuelas de verano es que hay mucha actividad y aprendizaje social. Una escuela de verano puede durar desde unos días hasta unas pocas semanas.
+
+En las escuelas de verano hay profesores e instructores profesionales que trabajan. Muchos municipios ofrecen escuela de verano a los alumnos de primaria. Las escuelas de verano municipales suelen ser muy populares, y muchas de ellas también son gratuitas. También hay organizaciones que organizan escuelas de verano, incluidas organizaciones religiosas. También hay muchos equipos deportivos que organizan escuelas de verano, como asociaciones deportivas. En una escuela de verano deportiva, los niños y jóvenes pueden entrenar y jugar con atletas mayores.
+
+Una escuela de verano popular que no está dirigida por una organización religiosa es la escuela de verano de la Sociedad de Rescate. Entre otras cosas, aprendes a nadar allí. La Asociación de Turismo de Noruega (DNT) también tiene una escuela de verano, enfocada en actividades al aire libre. También es gratis.
+
+[[Escuela y educacion]]

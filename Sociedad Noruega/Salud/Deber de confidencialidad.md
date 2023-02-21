@@ -1,0 +1,17 @@
+Varios grupos ocupacionales en Noruega tienen el deber de confidencialidad. Algunos tienen un deber legal de confidencialidad. Otros tienen un deber ético profesional de confidencialidad. Algunos tienen un deber absoluto de confidencialidad. Otros tienen un deber condicional de confidencialidad.
+
+---
+
+En esta página puedes leer sobre:
+
+-    [Niños](#ni%C3%B1os)
+
+---
+
+Los profesionales de la salud tienen el deber de confidencialidad. Nadie debe saber de qué están hablando usted y su médico. Pero, hay algunas excepciones: si lo derivan a un especialista, entonces el médico puede informarle sobre las pruebas que le ha hecho, sobre los síntomas que le ha contado, etc. Simplemente lo que el especialista necesita para ayudarlo.< /p>
+
+## NIÑOS
+
+Además, si tienes entre 12 y 16 años, el personal sanitario decide si lo que dices es algo que los padres deben saber. Si tienes 15 años y pides consejo sobre anticoncepción, entonces no hay razón para que tus padres sean notificados. Sin embargo, puede ser necesario involucrar a los padres si está tratando temas que pueden ser perjudiciales para usted o para otros.
+
+Si tiene más de 16 años, el personal de salud generalmente no puede contactar a sus padres.
