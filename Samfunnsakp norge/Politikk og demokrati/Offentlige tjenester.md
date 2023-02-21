@@ -1,0 +1,59 @@
+Det offentlige har mange tilbud. Noen tilbud må man betale for, mens andre er gratis. Felles for tjenestene er at vi kaller de for det offentlige velferdstilbudet.
+
+![](https://cdn.kursoria.no/pensum/elements/pensum-for-samfunnskunnskapsproven-_ftgyhu.jpg)
+
+---
+
+På denne siden kan du lese mer om:
+
+-    [Nødetatene](https://app.norskkunnskap.no/pensum/rtehtr/cq44j7/ftgyhu#nodetatene)
+-    [Andre tjenester](https://app.norskkunnskap.no/pensum/rtehtr/cq44j7/ftgyhu#andre-tjenester)
+
+---
+
+Det er mange tjenester i det offentlige Norge. Noe er gratis å benytte seg av, mens andre koster penger.
+
+## NØDETATENE
+
+### Brannvesenet
+
+Alle kommuner har et brannvesen. Noen brannvesen er felles for flere kommuner. Brannvesenet har store røde eller gule brannbiler som rykker ut dersom det brenner. Dersom du ser en brannbil med blinkende blått lys, har du plikt til å slippe den frem. Mange bygninger har automatisk varsling til brannvesenet dersom det oppdage røyk eller brann. Telefonnummeret til brannvesenet er 110. Det skal kun brukes dersom det er nød.
+
+Mange brannvesen har også andre tjenester, for eksempel utleie av redningsvester eller feiing av pipe. Å feie pipen er viktig dersom du bor et sted som har peis. En feid pipe gjør at sjansen for pipebrann blir mindre.
+
+Brannvesenet kan også komme på besøk hjemme hos deg. Du får et varsel på forhånd, slik at du kan forberede deg. Når brannvesenet kommer, vil de gjerne se på brannslukningsapparatet ditt, rømningsveiene dine og prate litt om brannsikkerhet. 
+
+Dersom du har spørsmål om brannsikkerhet, eller trenger å snakke med brannvesenet uten at det er nød, kan du ringe til kommunen du bor i. De kan sette telefonen din videre til riktig person i brannvesenet.
+
+### Politiet
+
+Politiet har mange tjenester for publikum. De etterforsker trafikkuhell og innbrudd, de kan utstede pass, de har grensekontroll, og mye mye mer. Hvis du har spørsmål til politiet, kan du ringe 02800. Dersom det haster, for eksempel fordi du ser noen som stjeler noe eller er vitne til en ulykke, kan du ringe nødnummeret. Nødnummeret til politiet er 112.
+
+## ANDRE TJENESTER
+
+### NAV
+
+NAV er en viktig etat for mange nordmenn. NAV bistår blant annet med sykepenger, barnetrygt, dagpenger og arbeidsavklaringspenger. 
+
+### SSB
+
+Statistisk sentralbyrå (SSB) lager offisiell statistikk om forhold i Norge. 
+
+### Helfo
+
+Helfo er en etat under Helsedirektoratet. 
+
+### NOKUT
+
+Nasjonalt organ for kvalitet i utdanningen (NOKUT) godkjenner og kontrollerer høyere utdanning.
+
+### DPS
+
+Distriktpsykiatrisk senter (DPS) er et poliklinisk benhandlingssted for mennesker med angst, spiseforstyrrelser, traumer eller andre lidelser som handler om psyken.
+
+### BUP
+
+Barne- og ungdomspsykiatrisk poliklinikk (BUP) er et tilbud til barn og ungdom opp til 18 år som har læringsvansker, psykiske plager eller atferdsproblemer.
+
+
+[[Politikk og demokrati]]
