@@ -8,7 +8,7 @@ Norges konge, kong Harald, er konge; men har egentlig ingen makt. Og man trenger
 1. [[Stortinget]]
 2. [[17. mai]]
 3. [[Valg]]
-4. [[Samfunnsakp norge/INTRO]]
+4. [[Innhold]]
 5. [[Kongehuset]]
 6. [[Organisering]]
 7. [[Det grønne skiftet]]
@@ -17,4 +17,4 @@ Norges konge, kong Harald, er konge; men har egentlig ingen makt. Og man trenger
 10. [[Innvandring]]
 11. [[De norske partiene]]
 
-[[Samfunnsakp norge/INTRO]]
+[[Innhold]]

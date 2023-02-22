@@ -17,4 +17,4 @@ Her vil vi trekke frem de største hendelsene i norsk historie, med vekt på sam
 
 
 
-[[Samfunnsakp norge/INTRO]]
+[[Innhold]]

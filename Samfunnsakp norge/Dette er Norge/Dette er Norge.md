@@ -18,4 +18,4 @@ Norge er verdens 61. største land. Vi er på plass 118 over største befolkning
 12. [[Vær]]
 13. [[Måleenheter]]
 
-[[Samfunnsakp norge/INTRO]]
+[[Innhold]]

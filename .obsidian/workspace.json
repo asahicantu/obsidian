@@ -11,11 +11,136 @@
             "id": "3c6539161d2c8d89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df1420e713cb90f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Innhold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3df035ad28bba28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "788a860ea1cb6631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Å skaffe jobb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd5ecb0b2ae1178b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Innhold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bef580bd229c864d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71c98a9e3d9f56fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Innhold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d35fc74f5b1b9a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0ab56fadf7af9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Å skaffe jobb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d1f75442db51e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fa3440b9eba36c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociedad Noruega/INTRO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -81,6 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +245,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md"
+              }
             }
           }
         ]
@@ -139,15 +268,15 @@
   },
   "active": "5e98ea81e5b98f7e",
   "lastOpenFiles": [
-    "Samfunnsakp norge/INTRO.md",
-    "Samfunnsakp norge/Politikk og demokrati/Politikk og demokrati.md",
-    "Samfunnsakp norge/Politikk og demokrati/De norske partiene.md",
-    "Samfunnsakp norge/Politikk og demokrati/Innvandring.md",
-    "Samfunnsakp norge/Politikk og demokrati/Offentlige tjenester.md",
-    "Samfunnsakp norge/Politikk og demokrati/Likestilling.md",
-    "Samfunnsakp norge/Politikk og demokrati/Det grønne skiftet.md",
-    "Samfunnsakp norge/Politikk og demokrati/Organisering.md",
-    "Samfunnsakp norge/Politikk og demokrati/Kongehuset.md",
-    "Samfunnsakp norge/Politikk og demokrati/Valg.md"
+    "Samfunnsakp norge/Arbeidsliv/Arbeidskontrakt.md",
+    "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+    "Samfunnsakp norge/Arbeidsliv/Fagforeninger.md",
+    "Samfunnsakp norge/Arbeidsliv/Lønn og skatt.md",
+    "Samfunnsakp norge/Arbeidsliv/Sykefravær.md",
+    "Samfunnsakp norge/Tro og livssyn/Jul og påske.md",
+    "Samfunnsakp norge/Innhold.md",
+    "Samfunnsakp norge/Arbeidsliv/Å skaffe jobb.md",
+    "Å skaffe jobb.md",
+    "Sociedad Noruega/INTRO.md"
   ]
 }

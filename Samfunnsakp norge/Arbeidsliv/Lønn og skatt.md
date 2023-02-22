@@ -57,4 +57,4 @@ Hvis du jobber svart, driver du med svart arbeid. Det er en måte å svindle sam
 Noen former for arbeid er ikke svart arbeid, selv om du ikke betaler skatt. Dersom du hjelper noen hjemme hos dem, for eksempel med å klippe gress eller måke snø, kan du tjene opptil 6 000 kroner i året, men noen vilkår gjelder.
 
 
-[[ARBEIDSLIV]]
+[[Arbeidsliv]]

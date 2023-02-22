@@ -39,4 +39,4 @@ Når en bedrift nedbemanner, skal bedriften også sjekke om det er andre arbeids
 Når du skal søke jobb, vil mange arbeidsgivere være interessert i å snakke med en eller flere av dine gamle arbeidsgivere. På den måten kan de få vite ting som ikke står i jobbsøknaden eller kommer frem i søknad og CV. Når du avslutter et arbeidsforhold kan det være lurt å spørre sjefen om han eller hun vil stå som referanse på din neste jobbsøknad. Du kan også spørre om arbeidsgiveren vil gi deg en attest. Det er et dokument som sier når du begynte, når du sluttet, hvilke oppgaver du har jobbet med, og hvordan arbeidsgiveren synes du har løst oppgavene.
 
 
-[[ARBEIDSLIV]]
+[[Arbeidsliv]]

@@ -42,4 +42,4 @@ Tradisjonel har jordbruk, skogbruk og fiske vært de viktigste næringene i Norg
 
 For 150 år siden jobbet menn stort sett i skog, på havet eller i åkeren. Da bodde hele familier på gårdsbruk over nesten hele Norge. De rikeste gårdbrukerne kunne kjøpe arbeidskraft. For eksempel kunne en rik bonde bygge et lite hus, en husmannsplass, et sted i skogen sin. Der fikk en mann lov til å bo sammen med familien sin. Kanskje han kunne ha litt jord der han kunne dyrke mat, eller en ku. Som takk for at han og familien fikk bo der, måtte han jobbe i skogen for den rike bonden. På den måten fikk mannen et sted å bo med familien, mens den rike bonden fikk arbeidskraft. Dersom du går tur i skogen i dag, vil du kunne se rester etter husmannsplasser. Noen steder ser man ruiner eller kanskje hele bygningen, mens andre steder kan man se hvor husmannen hadde opparbeidet en tomt.
 
-[[ARBEIDSLIV]]
+[[Arbeidsliv]]

@@ -38,4 +38,4 @@ Du kan også bruke omsorgsdager hvis barnet skal til legen, eller tannlegen på 
 
 Du kan lese mer om [egenmelding](https://www.nav.no/no/person/arbeid/sykmeldt-arbeidsavklaringspenger-og-yrkesskade/sykmelding-ulike-former/egenmelding), [sykemelding](https://www.nav.no/no/person/arbeid/sykmeldt-arbeidsavklaringspenger-og-yrkesskade) og [omsorgspenger](https://www.nav.no/familie/sykdom-i-familien/nb/omsorgspenger) på NAV sine nettsider.
 
-[[ARBEIDSLIV]]
+[[Arbeidsliv]]

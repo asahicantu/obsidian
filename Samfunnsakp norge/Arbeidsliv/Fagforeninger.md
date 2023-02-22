@@ -56,4 +56,4 @@ En ting som arbeidsgiverorganisasjonene og hovedorganisasjonene forhandler om, e
 Når foreninger for arbeidsgivere, foreninger for arbeidstakere og Staten jobber sammen, kalles det for et trepartssamarbeid. Når disse tre møtes, diskuterer de viktige spørsmål om hvordan arbeidslivet fungerer. Det er et slags samarbeidsmøte, der alle skal få fortelle hva de trenger, hva de synes fungerer og hva som ikke fungerer. På den måten kan alle tre parter bidra til at arbeidslivet i Norge fungerer best mulig.
 
 
-[[ARBEIDSLIV]]
+[[Arbeidsliv]]

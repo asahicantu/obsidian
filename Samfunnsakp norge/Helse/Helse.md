@@ -8,4 +8,4 @@
 8. [[Psykisk helse]]
 9. [[Taushetsplikt]]
 
-[[Samfunnsakp norge/INTRO]]
+[[Innhold]]

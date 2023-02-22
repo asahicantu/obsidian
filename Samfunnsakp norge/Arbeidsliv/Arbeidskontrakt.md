@@ -52,4 +52,4 @@ Noen ganger endrer arbeidsforholdet seg. Kanskje man får ny lønn eller får ny
 
 -   På nettsidene til Arbeidstilsynet kan du se et eksempel på [arbeidskontrakt på mange forskjellige språk](https://www.arbeidstilsynet.no/arbeidsforhold/arbeidsavtale/maler-for-arbeidsavtaler/).
 
-[[ARBEIDSLIV]]
+[[Arbeidsliv]]

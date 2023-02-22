@@ -24,4 +24,4 @@ Det betyr at du b책de kan tro p책 hva du vil, men ogs책 at du skal f책 lov til �
 4. [[Jul og p책ske]]
 
 
-[[Samfunnsakp norge/INTRO]]
+[[Innhold]]

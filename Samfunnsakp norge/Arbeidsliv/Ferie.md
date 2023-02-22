@@ -42,4 +42,4 @@ SSB skriver at i 2019, så var det omtrent 35 millioner overnattinger på hotell
 
 Årlig kommer det rundt 3 000 cruiseskip til Norge, med rundt 1 000 000 passasjerer. For å besøke Norge med cruiseskip stilles det strenge krav til utslippene fra cruiseskipet, slik at ikke fjordene blir forurenset.
 
-[[ARBEIDSLIV]]
+[[Arbeidsliv]]

@@ -68,3 +68,5 @@ Dersom arbeidsgiveren liker søknaden din og CVen din, kan du bli innkalt til jo
 Arbeidsgivere i privat næringsliv står stort sett fritt til å ansette den de vil. Arbeidsgivere i stat, kommune og fylkeskommune, altså i _det offentlige_, må følge spesielle regler. Den som er best kvalifisert, skal ha jobben. Kvalifikasjonsprinsippet skal bidra til likebehandling. En som er godt kvalifisert, og som arbeidsgiver liker godt, får ikke nødvendigvis jobben, dersom det er en annen som er enda bedre kvalifisert. 
 
 Kvalifikasjonene står som regel opplyst i stillingsannonsen. Det kan for eksempel være krav til utdannelse eller erfaring. Dersom to personer har samme utdannelse, kan tilleggskurs eller videreutdanninger skille de to fra hverandre.
+
+[[Innhold]]

@@ -6,4 +6,4 @@
 6. [[Fritid]]
 7. [[Svangerskap og fødsel]]
 
-[[Samfunnsakp norge/INTRO]]
+[[Innhold]]
