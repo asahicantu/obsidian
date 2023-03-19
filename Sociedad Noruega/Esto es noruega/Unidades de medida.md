@@ -1,15 +1,5 @@
 Noruega sigue en gran medida las mismas unidades de medida que el resto de Europa, pero tenemos nuestro propio dinero.
 
-![](https://cdn.kursoria.no/pensum/elements/-_bgnhmj.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Dinero noruego](#dinero-noruego)
-
----
-
 Medimos la distancia en metros y kilómetros. Hay 10 metros hasta el vecino y 493 kilómetros hasta Trondheim. Un kilómetro son 1000 metros.
 
 Medimos el peso en kilogramos y gramos. Un paquete de harina pesa 2 kilos, mientras que el medicamento que voy a tomar tiene 20 gramos de principio activo. Un kilo son 1000 gramos.

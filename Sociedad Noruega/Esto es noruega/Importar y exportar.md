@@ -1,14 +1,3 @@
-Noruega es un país con ricos recursos naturales. Lo que obtenemos de la naturaleza representa nuestras principales categorías de exportación.
-
-![](https://cdn.kursoria.no/pensum/elements/-_zaxscd.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Exportación](#exportaci%C3%B3n)
-
----
 
 ## EXPORTACIÓN
 

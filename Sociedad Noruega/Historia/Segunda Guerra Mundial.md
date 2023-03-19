@@ -1,17 +1,5 @@
 La Segunda Guerra Mundial fue una guerra importante en Europa. Noruega y Suecia intentaron ser neutrales. No le fue tan bien a Noruega, y el 9 de abril de 1940, Alemania atacó Noruega.
 
-![](https://cdn.kursoria.no/pensum/elements/-_tgrfed.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [La invasión del 9 de abril de 1940](#la-invasi%C3%B3n-del-9-de-abril-de-1940)
--    [La vida durante la guerra](#la-vida-durante-la-guerra)
--    [La liberación el 8 de mayo de 1945](#la-liberaci%C3%B3n-el-8-de-mayo-de-1945)
-
----
-
 ## LA INVASIÓN DEL 9 DE ABRIL DE 1940
 
 Por la mañana, oculto por una densa niebla, el importante buque de guerra alemán Blücher navegó hacia el fiordo de Oslo. Cuando el barco llegó a Drøbak, fue descubierto por el coronel Birger Eriksen. Era el comandante de Oscarsborg, una gran fortaleza en medio del fiordo de Oslo en las afueras de Drøbak. Ordenó hundir el barco y los soldados dispararon cañones y torpedos contra Blücher. Chocaron y el barco comenzó a hundirse. Entonces el rey y el gobierno tuvieron tiempo de escapar de Oslo.

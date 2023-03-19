@@ -34,28 +34,28 @@ En los días de bandera, debes izar una bandera si tienes un asta. No es necesar
 
 ******También hay algunos días de la bandera que caen en fechas diferentes cada uno. año. Estos son el primer día de Pascua, el primer día de Pentecostés y el día de las elecciones de Storting.******
 
-## ******FESTIVOS******
+## FESTIVOS
 
-******Los días festivos, la mayoría de las tiendas estarán cerradas. Está prohibido hacer ruido, como cortar el césped o poner música a todo volumen en el exterior.******
+Los días festivos, la mayoría de las tiendas estarán cerradas. Está prohibido hacer ruido, como cortar el césped o poner música a todo volumen en el exterior.
 
--   ******Todos los domingos******
--   ******1 de enero: Año Nuevo******
--   ******Jueves Santo******
--   ******Viernes Santo******
--   ******El primer y segundo día de Pascua******
--   ******Ascensión******
--   ******El primer y segundo día de Pentecostés******
--   ******El primer y segundo día de Navidad******
+-   Todos los domingos
+-   1 de enero: Año Nuevo
+-   Jueves Santo
+-   Viernes Santo
+-   El primer y segundo día de Pascua
+-   Ascensión
+-   El primer y segundo día de Pentecostés
+-   El primer y segundo día de Navidad
 
-******Muchas de las festividades son en primavera.******
+Muchas de las festividades son en primavera.
 
-## ******OTRAS FECHAS IMPORTANTES******
+## OTRAS FECHAS IMPORTANTES
 
-******-   **8 de marzo:** Día Internacional de la Mujer
--   9 de abril: Ataque a Noruega en 1940 (Segunda Guerra Mundial)
--   24 de diciembre: Nochebuena******
+*  8 de marzo: Día Internacional de la Mujer
+* 9 de abril: Ataque a Noruega en 1940 (Segunda Guerra Mundial)
+* 24 de diciembre: Nochebuena
 
-******Además, el Día de la Madre es el segundo domingo de febrero de cada año. Es un día para honrar a todas las madres. Muchas personas comen muy bien este día y llevan flores o dulces para su madre.
+Además, el Día de la Madre es el segundo domingo de febrero de cada año. Es un día para honrar a todas las madres. Muchas personas comen muy bien este día y llevan flores o dulces para su madre.
 
 El Día del Padre se celebra de la misma manera, pero el segundo domingo de noviembre de cada año.
 

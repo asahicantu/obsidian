@@ -1,15 +1,5 @@
 El 22 de julio de 2011 tuvo lugar un importante acto terrorista en suelo noruego. Una razón importante por la que esto ha afectado mucho a Noruega son dos cosas en particular: no ha habido tantos incidentes terroristas en Noruega, y el terrorista que atacó el 22 de julio quería matar a tantos niños y jóvenes como fuera posible.
 
-![](https://cdn.kursoria.no/pensum/elements/-_edwsqa.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Después del partido](#despu%C3%A9s-del-partido)
-
----
-
 Un total de 77 personas murieron en lo que luego se denominó _un ataque a la democracia_.
 
 El terrorista, Anders Behring Breivik, vivía en una granja en las afueras de Oslo. Allí desarrolló una bomba, que escondió en un automóvil. Condujo el coche a Oslo, al barrio gubernamental. Estos son los edificios donde se encuentra el gobierno. El terrorista estacionó el auto afuera y se escapó. Cuando explotó la bomba en el automóvil, varios empleados y transeúntes resultaron muertos o heridos.

@@ -1,17 +1,5 @@
 El romanticismo nacional fue dominante en los países nórdicos en el siglo XIX.
 
-![](https://cdn.kursoria.no/pensum/elements/-_ujyhtg.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Cuentos populares](#cuentos-populares)
--    [Poesía y poesía](#poes%C3%ADa-y-poes%C3%ADa)
--    [Pinturas](#pinturas)
--    [Música](#m%C3%BAsica)
-
----
 
 En el romanticismo nacional, los noruegos estaban muy preocupados por la naturaleza, los fiordos, las montañas, el bosque y el resto del país.
 

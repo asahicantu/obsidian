@@ -4,15 +4,6 @@ Aquí puede leer más sobre Noruega, la más grande, la más pequeña, la más l
 
 ---
 
-En esta página puedes leer sobre:
-
--    [La montaña más grande, más alta, más profunda...](#la-monta%C3%B1a-m%C3%A1s-grande-m%C3%A1s-alta-m%C3%A1s-profunda-)
--    [Bordes externos](#bordes-externos)
--    [Ciudades](#ciudades)
--    [Las ciudades más grandes de Noruega son:](#las-ciudades-m%C3%A1s-grandes-de-noruega-son-)
-
----
-
 ## LA MONTAÑA MÁS GRANDE, MÁS ALTA, MÁS PROFUNDA...
 
 La montaña más alta de Noruega se llama Galdhøpiggen. Tiene 2469 metros de altura. Justo al lado de Galdhøpiggen está Glittertind, que está unos metros más abajo. En el verano, muchos noruegos van de viaje a Glittertind y Galdhøpiggen. Si vas a ir allí, debes estar bien preparado, tanto con el tipo de ropa y zapatos que usas como con lo bien entrenado que estás.

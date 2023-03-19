@@ -1,15 +1,5 @@
 Noruega es un país con muchas montañas y mucho invierno. A muchos noruegos les encanta esquiar y en invierno muchos van a las montañas. Por eso también estamos muy contentos en los Juegos Olímpicos de Invierno. Noruega también ha sido sede de los Juegos Olímpicos de Invierno dos veces: en Oslo en 1952 y en Lillehammer en 1994.
 
-![](https://cdn.kursoria.no/pensum/elements/-_jmhngb.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Juegos Olímpicos en Noruega](#juegos-ol%C3%ADmpicos-en-noruega)
-
----
-
 En Noruega, tenemos una expresión: "¡Los noruegos nacen con esquís en las piernas!". Decimos esto cuando describimos cuánto les gusta esquiar a los noruegos. Cuando llega la nieve a las montañas en noviembre y diciembre, los noruegos viajan a grandes estaciones de esquí como Trysil, Geilo, Hafjell, Oppdal y muchas más. Durante las vacaciones de invierno en la semana 10, generalmente en febrero, muchos noruegos viajan a las montañas. Algunos se hospedan en hoteles y otros tienen cabañas. A algunas personas les gusta dar largos paseos con esquís de fondo, a otras les gusta esquiar alpino ya otras les gusta jugar en la nieve. Incluso en verano, los noruegos viajan a grandes glaciares para esquiar, si no van en patines por la carretera. Los noruegos nacen con el esquí en los pies.
 
 ## JUEGOS OLÍMPICOS EN NORUEGA
@@ -18,7 +8,7 @@ Hay Juegos Olímpicos de Verano e Invierno, pero en Noruega solo hemos organizad
 
 Cuando se celebraron los Juegos Olímpicos en 1952, hacía siete años del final de la Segunda Guerra Mundial. Dos de las partes en la guerra fueron Noruega y Alemania. Muchos noruegos fueron asesinados por los alemanes, que invadieron Noruega. Por lo tanto, muchos políticos y líderes deportivos noruegos no querían que Alemania participara en los Juegos Olímpicos en suelo noruego. Al final, acordaron permitir la participación alemana. Los noruegos vitorearon cuando el equipo alemán ingresó al estadio durante la ceremonia de apertura. Fue visto como una señal de que el deporte es algo que une a las naciones, aunque una haya sido enemiga antes.
 
-En 1994, los Juegos Olímpicos de Invierno se celebraron nuevamente en Noruega. Esta vez fue en Lillehammer y sus alrededores. El gran pabellón deportivo Vikingskipet está ubicado en Hamar y fue construido para los Juegos Olímpicos de 1994. Muchos de los que participaron como atletas durante los Juegos Olímpicos de Lillehammer son celebridades en la actualidad. Estos son, por ejemplo, Bjørn Dæhlie (esquí de fondo), Johann Olav Koss (patinaje sobre hielo), Lasse Kjus (esquí alpino), Thomas Alsgaard (esquí de fondo) y Kjetil André Aamodt (esquí alpino).< /p>
+En 1994, los Juegos Olímpicos de Invierno se celebraron nuevamente en Noruega. Esta vez fue en Lillehammer y sus alrededores. El gran pabellón deportivo Vikingskipet está ubicado en Hamar y fue construido para los Juegos Olímpicos de 1994. Muchos de los que participaron como atletas durante los Juegos Olímpicos de Lillehammer son celebridades en la actualidad. Estos son, por ejemplo, Bjørn Dæhlie (esquí de fondo), Johann Olav Koss (patinaje sobre hielo), Lasse Kjus (esquí alpino), Thomas Alsgaard (esquí de fondo) y Kjetil André Aamodt (esquí alpino).
 
 El presidente del Comité Olímpico Internacional dijo que los Juegos Olímpicos de Lillehammer fueron los mejores juegos de invierno de la historia. Esta es una frase que los noruegos nunca olvidarán.
 

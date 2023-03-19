@@ -1,15 +1,3 @@
-
-![](https://cdn.kursoria.no/pensum/elements/-_frgthy.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Escandinavia](#escandinavia)
--    [Norden](#norden)
-
----
-
 Al oeste y al norte de Noruega se encuentra la costa. Tenemos tres países vecinos al este de Noruega: Rusia, Finlandia y Suecia. Compartimos la frontera nacional con ellos. Finlandia y Suecia son miembros de la UE, y debido a que Noruega es miembro del EEE, podemos ir a Finlandia y Suecia sin tener una visa. Se llama viajar libremente a través de las fronteras nacionales. Muchos noruegos viajan a Suecia para comprar comida. En Suecia, la carne, los refrescos y el alcohol suelen ser más baratos que en Noruega. Pero cuando viaje de regreso a Noruega, debe asegurarse de no haber comprado demasiado porque hay límites en cuanto a la cantidad de productos que puede traer a Noruega sin pagar aduanas.
 
 Puede leer más sobre aduanas en el [sitio web de la Aduana de Noruega](https://toll.no/no/reise-til-og-fra-norge/reise-til-norge/).

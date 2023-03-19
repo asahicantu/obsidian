@@ -1,14 +1,5 @@
 La Constitución es la ley más importante de Noruega. Todas las demás leyes son, de hecho, una aclaración de lo establecido en la Constitución.
 
-![](https://cdn.kursoria.no/pensum/elements/-_yhtgrf.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Eidsvoll, 1814](#eidsvoll-1814)
-
----
 
 ## EIDSVOLL, 1814
 

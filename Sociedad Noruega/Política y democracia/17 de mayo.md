@@ -1,16 +1,5 @@
 El 17 de mayo es el día nacional de Noruega. Muchos países celebran su día nacional con grandes desfiles militares. En Noruega decimos que el día nacional es el día del niño. Por eso miramos los trenes de los niños, comemos salchichas y helados y tenemos muchas banderas y globos.
 
-![](https://cdn.kursoria.no/pensum/elements/-_gbfvdc.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Día del niño](#d%C3%ADa-del-ni%C3%B1o)
--    [Himno nacional de Noruega](#himno-nacional-de-noruega)
-
----
-
 El 17 de mayo marca la firma de la constitución en Eidsvoll en 1814. ¡Noruega finalmente se convirtió en un país independiente! El 17 de mayo, la mayoría de las tiendas están cerradas y todos colocan banderas en balcones y jardines. Muchos también decoran su automóvil con banderas y visten el tradicional bunad del traje folclórico noruego. En muchas escuelas hay eventos y juguetes para los niños. Las bandas escolares tocan en las calles. Los trenes infantiles se organizan con todos los niños en las escuelas primarias. Luego, el cuerpo de música va primero, y luego los niños lo siguen.
 
 En Oslo, el tren de los niños sube por la puerta de Karl Johans. Luego pasan por delante del Storting, donde el presidente del Storting saluda a todos los niños. Al final de Karl Johan está el Castillo. En el balcón, el rey, la reina y otros miembros de la familia real saludan. Hay servicios festivos en muchas iglesias y la gente se visita.

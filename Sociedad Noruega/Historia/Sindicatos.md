@@ -1,16 +1,5 @@
 Una unión es una colaboración. La Unión Europea (UE) es una unión de países que quieren cooperar. Noruega no es miembro de la UE, pero hemos sido parte de otras dos uniones: la Unión de Kalmar con Noruega, Suecia y Dinamarca en el siglo XV, y la unión personal con Noruega y Suecia en el siglo XIX. Los sindicatos son importantes para entender la relación de Noruega con sus países vecinos. Hoy solemos ser buenos amigos, pero históricamente Dinamarca y Suecia han discutido mucho sobre quién debería decidir sobre Noruega.
 
-![](https://cdn.kursoria.no/pensum/elements/-_ikujyh.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [1397 - ca. 1523: La Unión de Kalmar](#1397-ca-1523-la-uni%C3%B3n-de-kalmar)
--    [1814 - 1905: La unión entre Noruega y Suecia](#1814-1905-la-uni%C3%B3n-entre-noruega-y-suecia)
-
----
-
 La unión es algo vital en la historia de Noruega. Puedes escribir muchos miles de páginas sobre cómo han funcionado los sindicatos y cómo ha afectado a Noruega estar en un sindicato. Aquí leerá sobre el Sindicato de Kalmar y el sindicato de personal con Suecia. Si desea profundizar, puede seguir nuestros enlaces publicados.
 
 ## 1397 - CA. 1523: LA UNIÓN DE KALMAR

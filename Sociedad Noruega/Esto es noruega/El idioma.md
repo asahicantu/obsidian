@@ -1,17 +1,3 @@
-El idioma noruego es similar tanto al danés como al sueco. El idioma noruego tiene muchos dialectos y dos formas de destino: bokmål y nynorsk.
-
-![](https://cdn.kursoria.no/pensum/elements/-_hyjuki.jpg)
-
----
-
-En esta página puedes leer sobre:
-
-- [DIALECTOS](#dialectos)
-- [BOKMÅL Y NYNORSK](#bokmål-y-nynorsk)
-- [APRENDER NORUEGO](#aprender-noruego)
-
----
-
 En Noruega, hay dos idiomas oficiales: el noruego y el sami. Muchos niños también aprenden inglés, español, francés o alemán en la escuela. Además, hay algunos que tienen padres de otros países, que hablan el idioma de sus padres.
 
 Hace 20-30 años, Noruega no tenía un gran canal de televisión nacional. En ese momento, se producía mucha televisión para niños en Dinamarca o Suecia. Por lo tanto, los noruegos adultos de hoy en día a menudo pueden entender el sueco y el danés mejor que los niños de hoy.

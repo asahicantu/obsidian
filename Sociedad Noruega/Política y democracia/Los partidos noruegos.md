@@ -1,30 +1,12 @@
 Hay muchas fiestas en Noruega. Algunos partidos se presentan a las elecciones en Storting, otros se presentan a las elecciones locales y algunos se presentan a las elecciones en ambos lugares. Puede unirse a un partido político y participar en la decisión de lo que el partido debe pensar sobre varios temas. Cuando hay una elección, solo puede votar por los partidos aprobados por el estado. Cualquiera puede solicitar la aprobación de su partido, pero primero debe cumplir con ciertos requisitos. Aquí aprenderás sobre las fiestas más grandes de Noruega.
 
-![](https://cdn.kursoria.no/pensum/elements/-_hujiko.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Lado derecho, lado izquierdo, gris y verde](#lado-derecho-lado-izquierdo-gris-y-verde)
--    [Partido Laborista - AP](#partido-laborista-ap)
--    [Los Conservadores - H](#los-conservadores-h)
--    [Partido del Centro - SP](#partido-del-centro-sp)
--    [Partido del Progreso - FRP](#partido-del-progreso-frp)
--    [Partido de Izquierda Socialista - SV](#partido-de-izquierda-socialista-sv)
--    [Izquierda - V](#izquierda-v)
--    [Red - R](#red-r)
--    [Partido Verde - ODM](#partido-verde-odm)
-
----
-
 A muchos noruegos les encanta hablar de política. Noruega tiene un sistema con muchos partidos. Algunas partes son significativas, otras partes son pequeñas. Tradicionalmente, el Partido Laborista y el Partido Conservador han sido los partidos más grandes. Otros países tienen pocos partidos. Estados Unidos tiene un sistema bipartidista, donde dos partidos luchan por el poder. Debido a que tenemos muchos partidos en Noruega, también tenemos algunas reglas que significan que los partidos menores no pueden unirse al Storting.
 
 ## LADO DERECHO, LADO IZQUIERDO, GRIS Y VERDE
 
 En Noruega , colocamos las partes en un eje - una línea - de izquierda a derecha. Lo llamamos el ala derecha y el ala izquierda en la política noruega. Llamamos socialistas a los partidos que ponemos de izquierda. Los partidos de derecha se llaman liberales. Hay muchas diferencias entre las partes. Una de las diferencias más evidentes entre la derecha y la izquierda en la política noruega es que los partidos de izquierda quieren que el sector público posea tanto como sea posible; por ejemplo, el estado debe administrar todos los hogares de ancianos, hospitales, escuelas, etc. Se cree que el sector privado también debe poder administrar dichas instituciones por la derecha. Hay muchas otras diferencias y matices entre las partes de cada ala. Cuando hay elecciones, siempre es emocionante ver si la izquierda o la derecha obtienen la mayor cantidad de votos. A las partes del mismo ala les gusta cooperar. Si la mayoría de la gente ha votado por partidos de izquierda, forman el gobierno y dirigen a Noruega. El partido más grande de extrema derecha en la política noruega es el Partido del Progreso. Quieren que los noruegos puedan decidir por sí mismos tanto como sea posible. En el extremo izquierdo está el rojo. Quieren que el estado sea lo más fuerte posible.
 
-Algunos partidos también están en el medio. Se llaman fiestas de centro. El Partido Popular Cristiano ha sido tradicionalmente un partido de centro y se ha sentado en ambos gobiernos con los conservadores y con los liberales.
+Algunos partidos también están en el medio. Se llaman partidos de centro. El Partido Popular Cristiano ha sido tradicionalmente un partido de centro y se ha sentado en ambos gobiernos con los conservadores y con los liberales.
 
 No siempre es tan fácil situar a los partidos en tal eje. En los últimos tiempos, algunos han comenzado a dividir los partidos en verdes y grises. Los partidos verdes son partidos que, por ejemplo, detendrán la exploración petrolera, encareciendo mucho conducir autos contaminantes. Cuando les contamos un poco sobre las fiestas a continuación, sin duda algunos estarán en desacuerdo con lo que señalamos sobre cada fiesta. Por ello, te animamos a leer un poco más sobre los partidos, por ejemplo, en las distintas webs de los partidos.
 

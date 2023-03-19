@@ -1,16 +1,5 @@
 La era vikinga se calcula a partir de aprox. 800 a aprox. 1050 años después de Cristo. Eso es hace unos 1000 años. Los vikingos noruegos eran buenos navegando por el mar y construyeron grandes barcos vikingos. Con ellos navegaron a América, entre otros lugares. También se sabía que los vikingos saqueaban otras sociedades.
 
-![](https://cdn.kursoria.no/pensum/elements/-_olikuj.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Sociedad](#sociedad)
--    [Barco vikingo](#barco-vikingo)
-
----
-
 ## SOCIEDAD
 
 Los vikingos vivían juntos en pequeñas comunidades. Había una gran diferencia entre ricos y pobres. Los vikingos más ricos, la élite, tenían grandes propiedades y muchas granjas. Comían mucha carne y tenían acceso a los mejores artículos. Para cuidar las propiedades, los vikingos ricos podían tener esclavos. Un esclavo es lo mismo que un esclavo. Los esclavos tenían que trabajar duro para cuidar de los animales en las granjas vikingas, arreglar el suelo para que las plantas pudieran crecer y construir casas y barcos. Los esclavos podían ser comprados y vendidos por vikingos ricos.

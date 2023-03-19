@@ -1,18 +1,5 @@
 Hay muchas formas de inmigración y muchos conceptos que uno encuentra.
 
-![](https://cdn.kursoria.no/pensum/elements/-_gyhuji.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Asilo](#asilo)
--    [Certificado de solicitante de asilo](#certificado-de-solicitante-de-asilo)
--    [Permiso de residencia](#permiso-de-residencia)
--    [Número D](#n%C3%BAmero-d)
-
----
-
 ## ASILO
 
 Cuando desee asilo, debe comunicarse con la policía, pero la Dirección de Inmigración de Noruega (UDI) procesa la solicitud. Si es un solicitante de asilo, necesita un permiso separado de la UDI antes de aceptar un trabajo en Noruega.

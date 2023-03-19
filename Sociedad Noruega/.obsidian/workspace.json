@@ -8,307 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27f6a61b2ced9763",
+            "id": "ea66ae4c841ae9ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escuela y educacion/Escuela secundaria.md",
+                "file": "Esto es noruega/Svalbard.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "74b3a96383d1dce7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escuela y educacion/Escuela y educacion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a6da3859775fd4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fe y vision de la vida/Libertad de religion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4d9aebee248ab2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fe y vision de la vida/Comunidades religiosas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "372f3344ede5eca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fe y vision de la vida/Cristiandad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00e144a4f78d9c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familia y ocio/Trabajo voluntario y dugnad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e2b5abd3d1fb662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familia y ocio/Jardin de ninos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5acea5ba2597609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familia y ocio/Derechos de los ninos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ac484d4d678d19b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familia y ocio/Presupuesto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a89b1cceda1b8a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familia y ocio/Ocio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e89e7e85db6b69bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familia y ocio/Embarazo y parto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f6cf32da6c8997d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familia y ocio/Embarazo y parto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afc7499462fa4f15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Familia y ocio/Familia y ocio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1abf48536b79e01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Salud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e1f18dfcd5bd882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Hospital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cceb8234ad20d03c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Farmacia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea68719182ff842c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Médico habitual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93d13519e50d88f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Dentista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b96f7cf74c08c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Anciano.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9879f0f28876d7b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Propia salud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07312276ddb09771",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Salud mental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20e26dd25c4faa84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Salud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be473157e495292a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Deber de confidencialidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9504fdb3f8088118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salud/Salud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff43b765b1b8e3ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTRO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "221e7659beeafd48",
+            "id": "3054e189a6f1e794",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -318,9 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a48781c687729129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esto es noruega/La poblacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c360f678db95928b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esto es noruega/Países vecinos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46970c39a40fa744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Política y democracia/Política y democracia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9844aa7a9abdfee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Política y democracia/Servicios públicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88c6ce1c6f74ec9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTRO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -386,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Esto es noruega/Esto es noruega.md",
+                "file": "INTRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Esto es noruega/Esto es noruega.md",
+                "file": "INTRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -426,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Esto es noruega/Esto es noruega.md"
+                "file": "INTRO.md"
               }
             }
           }
@@ -453,34 +225,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "221e7659beeafd48",
+  "active": "88c6ce1c6f74ec9f",
   "lastOpenFiles": [
-    "Esto es noruega/Montañas y glaciares.md",
-    "Esto es noruega/Esto es noruega.md",
+    "Política y democracia/Política y democracia.md",
+    "Política y democracia/Los partidos noruegos.md",
+    "Política y democracia/Inmigración.md",
+    "Política y democracia/Servicios públicos.md",
+    "Política y democracia/Igualdad.md",
+    "Política y democracia/El cambio verde.md",
+    "Política y democracia/Organización.md",
+    "Política y democracia/La casa real.md",
+    "Política y democracia/Elección.md",
+    "Política y democracia/17 de mayo.md",
     "INTRO.md",
-    "Salud/Salud.md",
-    "Salud/Deber de confidencialidad.md",
-    "Salud/Salud mental.md",
-    "Salud/Propia salud.md",
-    "Salud/Anciano.md",
-    "Salud/Dentista.md",
-    "Salud/Médico habitual.md",
-    "Salud/Farmacia.md",
-    "Salud/Hospital.md",
-    "Salud/Helsestasjon.md",
-    "Familia y ocio/Familia y ocio.md",
-    "Familia y ocio/Embarazo y parto.md",
-    "Familia y ocio/Ocio.md",
-    "Familia y ocio/Presupuesto.md",
-    "Familia y ocio/Derechos de los ninos.md",
-    "Familia y ocio/Jardin de ninos.md",
-    "Familia y ocio/Trabajo voluntario y dugnad.md",
-    "Fe y vision de la vida/Fe y vision de la vida.md",
-    "Fe y vision de la vida/Navidad y pascua.md",
-    "Fe y vision de la vida/Cristiandad.md",
-    "Fe y vision de la vida/Comunidades religiosas.md",
-    "Fe y vision de la vida/Libertad de religion.md",
-    "Escuela y educacion/Escuela y educacion.md",
+    "Historia/Historia.md",
+    "Historia/22 de julio de 2011.md",
+    "Historia/OL.md",
+    "Historia/Petroleo.md",
+    "Historia/Segunda Guerra Mundial.md",
+    "Historia/Constitución.md",
+    "Historia/Romanticismo nacional.md",
+    "Historia/Sindicatos.md",
+    "Historia/La era vikinga.md",
+    "Esto es noruega/Esto es noruega.md",
+    "Esto es noruega/Países vecinos.md",
+    "Sociedad Noruega/INTRO.md",
+    "Esto es noruega/Unidades de medida.md",
+    "Esto es noruega/Tiempo y clima.md",
+    "Esto es noruega/Transportación.md",
     "Sociedad Noruega/La vida laboral",
     "Sociedad Noruega",
     "INTRO.epub"

@@ -1,22 +1,12 @@
-Noruega es un país alargado de sur a norte, pero Noruega también consta de muchas islas. Casi 250.000 islas se encuentran a lo largo de la costa noruega. El más grande se llama Hinnøya. Noruega también tiene algunas islas que están muy lejos. Entre otras cosas, hay una isla entre África y el Polo Sur, ¡que es noruega! En este artículo aprenderás sobre tres áreas que pertenecen a Noruega, pero que no están atrapadas en el continente: Svalbard, Jan Mayen y la isla Bouvet.
+Noruega es un país alargado de sur a norte, pero Noruega también consta de muchas islas. Casi 250.000 islas se encuentran a lo largo de la costa noruega. El más grande se llama Hinnøya. Noruega también tiene algunas islas que están muy lejos. Entre otras cosas, hay una isla entre África y el Polo Sur, ¡que es noruega!.
 
-![](https://cdn.kursoria.no/pensum/elements/-_aqswde.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Svalbard](#svalbard)
--    [Jan Mayen](#jan-mayen)
--    [Isla Bouvet](#isla-bouvet-)
-
----
+En este artículo aprenderás sobre tres áreas que pertenecen a Noruega, pero que no están atrapadas en el continente: Svalbard, Jan Mayen y la isla Bouvet.
 
 La isla más grande de Noruega continental es Hinnøya. Tiene 2.204 kilómetros cuadrados y alrededor de 35.000 personas viven en la isla. Se encuentra en Lofoten, entre Bodø y Narvik. Es la isla más grande frente a la costa de Noruega continental. Pero Noruega también tiene islas lejanas: Jan Mayen se encuentra en el mar, a casi 1.000 kilómetros al oeste de Hinnøya, casi frente a Groenlandia. La isla Bouvet se encuentra en la Antártida, no lejos del Polo Sur. La isla más grande que pertenece a Noruega es Spitsbergen. Se encuentra en el archipiélago de Svalbard, 600 km al noroeste del punto más al norte de Noruega continental.
 
 ## SVALBARD
 
-Svalbard es un archipiélago ubicado en la Antártida, aproximadamente a mitad de camino entre Noruega y el norte Polo. La isla más grande que pertenece a Svalbard se llama Spitsbergen. Tiene un tamaño aproximado de 37.600 kilómetros cuadrados. Constituye más de la mitad del área de Svalbard. Svalbard tiene unos 61.000 kilómetros cuadrados, un poco más pequeña que Irlanda y Letonia y un poco más grande que Croacia y Dinamarca.
+Svalbard es un archipiélago ubicado en la Antártida, aproximadamente a mitad de camino entre Noruega y el Polo Norte. La isla más grande que pertenece a Svalbard se llama Spitsbergen. Tiene un tamaño aproximado de 37.600 kilómetros cuadrados. Constituye más de la mitad del área de Svalbard. Svalbard tiene unos 61.000 kilómetros cuadrados, un poco más pequeña que Irlanda y Letonia y un poco más grande que Croacia y Dinamarca.
 
 La gran ciudad de Svalbard, donde vive la mayoría de la gente, se llama Longyearbyen. Es Noruega quien decide sobre Svalbard. El comandante de Noruega en Svalbard se llama Gobernador. El Gobernador es el principal representante del estado y el jefe de policía. Un gobierno local lidera Svalbard. Que Noruega decida está escrito en un acuerdo llamado Tratado de Svalbard. Todos los que firmaron el acuerdo tienen el mismo derecho a pescar y pescar en Svalbard y las áreas marítimas circundantes. Los que han firmado el Tratado de Svalbard incluyen todos los países nórdicos, EE. UU., Reino Unido, Rusia, Australia y Alemania. En total, más de 40 estados han firmado. Esto significa que llamamos a Svalbard una zona económicamente libre.
 

@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "9c402cf6d8b7cd5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "adec47003f26f691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6550fee2d7580b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helse/05 Helse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37abef0c0f3805b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dette er Norge/06 Dette er Norge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "234d4ae89ecb0b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dette er Norge/06.11 Transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec616fd7ecb2d566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historie/07 Historie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b57a24a8dfa9d193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Innhold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f5569b1b667daef",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ffbc6404ebc74f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8241453d0f18369e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6beee441a46c76a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a51bf28f5e34c3c6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2baed775dc02d54d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad96ddd69f06f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56237d9bc58ab2dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Innhold.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "118ae6559353b23c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Innhold.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1eaceb7d2e881ea7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "136b8c11d5b9e756",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Innhold.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b57a24a8dfa9d193",
+  "lastOpenFiles": [
+    "Politikk og demokrati/08 Politikk og demokrati.md",
+    "Politikk og demokrati/08.10 De norske partiene.md",
+    "Politikk og demokrati/08.09 Innvandring.md",
+    "Politikk og demokrati/08.08 Offentlige tjenester.md",
+    "Politikk og demokrati/08.07 Likestilling.md",
+    "Politikk og demokrati/08.06 Det grønne skiftet.md",
+    "Politikk og demokrati/08.05 Organisering.md",
+    "Politikk og demokrati/08.04 Kongehuset.md",
+    "00-Innhold.md",
+    "Historie/07 Historie.md",
+    "Politikk og demokrati/08.03 Valg.md",
+    "Politikk og demokrati/08.01 Stortinget.md",
+    "Politikk og demokrati/08.02 17. mai.md",
+    "Historie/07.08 22. juli 2011.md",
+    "Historie/07.07 OL.md",
+    "Historie/07.06 Olje.md",
+    "Historie/07.05 Andre verdenskrig.md",
+    "Historie/07.04 Grunnloven.md",
+    "Historie/07.03 Nasjonalromantikken.md",
+    "Historie/07.02 Unioner.md",
+    "Historie/07.01 Vikingtiden.md",
+    "Dette er Norge/06 Dette er Norge.md",
+    "Dette er Norge/06.13 Måleenheter.md",
+    "Dette er Norge/06.12 Vær.md",
+    "Dette er Norge/06.11 Transport.md",
+    "Dette er Norge/06.10 Kjente nordmenn.md"
+  ]
+}

@@ -1,17 +1,5 @@
 El estado decide sobre toda Noruega y la política exterior. Además, Noruega está dividida en 11 partes llamadas condados. De esa manera, aquellos que conocen mejor el área local pueden decidir cosas un poco más locales. Los condados se dividen nuevamente en municipios.
 
-![](https://cdn.kursoria.no/pensum/elements/-_awsedr.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [El estado](#el-estado)
--    [El condado](#el-condado)
--    [El municipio](#el-municipio)
-
----
-
 ## EL ESTADO
 
 El Storting y el gobierno lideran el estado. El estado decide sobre las cosas importantes en Noruega: dónde deben ubicarse los hospitales, dónde deben ubicarse los aeropuertos, qué leyes deben aplicarse en Noruega, etc. El estado también decide qué debe pensar Noruega sobre la política exterior. ¿Debe Noruega ser miembro de la OTAN? ¿Debe Noruega ser miembro de la UE? El estado también decide qué deben aprender los niños en la escuela, es decir, el plan de estudios.

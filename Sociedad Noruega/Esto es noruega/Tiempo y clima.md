@@ -2,13 +2,6 @@ Debido a que Noruega es un país largo, puede experimentar un clima diferente en
 
 ---
 
-En esta página puedes leer sobre:
-
--    [Verano](#verano)
--    [Invierno](#invierno)
-
----
-
 En la costa oeste de Noruega, fuertes lluvias y tormentas azotan Noruega. Bergen es la ciudad donde puede llover más.
 
 ## VERANO

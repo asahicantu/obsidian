@@ -1,16 +1,5 @@
 “The green shift” es un concepto que se ha hecho visible en los últimos años. Se trata de cambiar la sociedad para que sea más respetuosa con el medio ambiente y lograr los objetivos de sostenibilidad de la ONU. Para hacer frente a esto, algunos creen que debemos extraer más petróleo y gas del mar fuera de Noruega. Otros piensan que necesitamos recoger menos. Por lo tanto, la mayoría de la gente está de acuerdo en que debemos lograr el objetivo de reducir las emisiones nocivas, pero no existe un acuerdo completo sobre cómo lograrlo.
 
-![](https://cdn.kursoria.no/pensum/elements/-_sedrft.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Coche eléctrico](#coche-el%C3%A9ctrico)
--    [Política petrolera](#pol%C3%ADtica-petrolera)
-
----
-
 ## COCHE ELÉCTRICO
 
 Una medida importante en Noruega ha sido que más personas sustituyan sus coches viejos por coches eléctricos. En el verano de 2021, había más de 400 000 autos eléctricos en Noruega y han pasado más de diez años desde que se lanzó el primer auto eléctrico real en Noruega. Una razón importante por la que los autos eléctricos se han vuelto populares en un país que está tan lejos y que a menudo tiene grandes distancias entre ciudades es que los políticos han decidido muchas ventajas para los autos eléctricos: en muchos lugares, los autos eléctricos pueden circular en transporte público. El estado ha subvencionado la compra de coches eléctricos. Esto significa que el estado ha reducido las tarifas que debe pagar si compra un automóvil eléctrico nuevo. De esa forma, un coche eléctrico será más barato que un coche fósil del mismo estándar. Un coche fósil es el nombre de un coche que funciona con combustibles fósiles, es decir, gasolina o diésel.

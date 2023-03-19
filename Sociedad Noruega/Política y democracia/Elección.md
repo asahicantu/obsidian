@@ -1,16 +1,5 @@
 Noruega es una democracia. Eso significa que la gente está eligiendo a sus líderes. Por lo tanto, se llevan a cabo elecciones para que los noruegos puedan elegir quién los representará en el Storting, en los consejos de condado y en los municipios.
 
-![](https://cdn.kursoria.no/pensum/elements/-_fvdcsx.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Elecciones parlamentarias](#elecciones-parlamentarias)
--    [Elecciones municipales y del consejo del condado](#elecciones-municipales-y-del-consejo-del-condado)
-
----
-
 En 2021, hubo elecciones en el Storting. Luego, los noruegos pudieron votar por partidos aprobados por el estado. Aquí también leerá un poco sobre cómo ser aprobado como partido.
 
 ## ELECCIONES PARLAMENTARIAS

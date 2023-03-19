@@ -4,16 +4,6 @@ Hay muchos medios de transporte diferentes que son importantes en Noruega. Pero 
 
 ---
 
-En esta página puedes leer sobre:
-
--    [Coche](#coche)
--    [Autobús, tranvía y metro](#autob%C3%BAs-tranv%C3%ADa-y-metro)
--    [Ferrocarril](#ferrocarril)
--    [Vuela](#vuela)
--    [Envíos](#env%C3%ADos)
-
----
-
 Los hábitos de viaje de los noruegos se ven muy afectados por la pandemia de COVID-19 que ha estado en el mundo y en Noruega en los últimos años. Han sido muy pocos los que han viajado al extranjero. Muchos han tenido oficinas en casa y no han necesitado viajar al trabajo. Por lo tanto, no se sabe exactamente cómo serán los hábitos de viaje de los noruegos en el futuro.
 
 ## COCHE

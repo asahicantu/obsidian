@@ -1,16 +1,5 @@
 La igualdad de género se trata de que todos tengan las mismas oportunidades y derechos. La igualdad de género es un área importante en Noruega, tanto para los políticos como para los empleadores y la población. Pero no siempre ha sido así. Mucha gente cita a un poeta noruego, Arnulf Ødeland, que vivió a principios del siglo XX: ¡No debes tolerar tan profundamente la injusticia que no se golpea a sí misma! ¿Qué crees que quiso decir con eso?
 
-![](https://cdn.kursoria.no/pensum/elements/-_drftgy.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Discriminación](#discriminaci%C3%B3n)
--    [Diseño universal](#dise%C3%B1o-universal)
-
----
-
 La igualdad de género en Noruega está regulada por ley, entre otras cosas. Hay una ley separada, "Ley de Igualdad de Género y Prohibición de Discriminación", que estipula que está prohibido discriminar, discriminar y acosar.
 
 ## DISCRIMINACIÓN
