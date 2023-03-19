@@ -1,8 +1,0 @@
-
-## EXPORTACIÓN
-
-Noruega exporta mucha energía y mucho pescado. En 2019, exportamos energía por valor de más de NOK 500 000 millones, a través de la electricidad y el petróleo. En el mismo año, exportamos pescado por un valor de NOK 112 000 millones.
-
-Otros productos que exportamos son máquinas, especialmente botes y embarcaciones.
-
-[[Esto es noruega]]
