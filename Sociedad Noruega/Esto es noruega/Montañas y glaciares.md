@@ -1,9 +1,5 @@
 En Noruega, hay muchos lugares en la naturaleza que son especialmente importantes para cuidar. Puede ser porque la naturaleza es muy especial, tal vez porque allí viven animales o plantas especiales. Luego, el estado puede optar por proteger el área mediante la creación de un parque nacional o una reserva natural.
 
-![](https://cdn.kursoria.no/pensum/elements/-_cexwzq.jpg)
-
----
-
 En esta página puedes leer sobre:
 
 -    [Ir de excursión a las montañas](#ir-de-excursi%C3%B3n-a-las-monta%C3%B1as)

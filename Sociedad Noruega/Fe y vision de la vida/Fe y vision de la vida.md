@@ -18,7 +18,7 @@ _§ 16: Todos los habitantes del reino tienen libre práctica religiosa._
 
 Esto significa que ambos pueden creer en lo que quieran, pero también que se les debe permitir conocer a otros que creen lo mismo, orar y organizar una sociedad para aquellos que creen lo mismo que ustedes. También es posible que inscriba a sus hijos en una organización religiosa o filosófica, pero hay algunos límites de edad. Puedes leer más sobre esto en el menú de la izquierda.
 
-
+[[INTRO]] 
 1. [[Libertad de religion]]
 2. [[Comunidades religiosas]]
 3. [[Cristiandad]]

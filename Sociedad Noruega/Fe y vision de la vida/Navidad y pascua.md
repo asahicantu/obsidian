@@ -4,12 +4,6 @@ La Navidad y la Pascua son dos días festivos importantes en Noruega. Hay muchos
 
 ---
 
-En esta página puedes leer sobre:
-
--    [Nochebuena](#nochebuena)
-
----
-
 El cristianismo ha tenido una gran importancia para la sociedad noruega, incluso si no eres cristiano. La Navidad celebra el nacimiento de Jesús. La Pascua marca que Jesús resucitó de entre los muertos.
 
 ## NOCHEBUENA
@@ -21,3 +15,5 @@ Para muchos noruegos, los preparativos para la Navidad empiezan el 1 de diciembr
 Es más popular comer costillas, chuletas o bacalao navideño en Nochebuena. Otros platos populares en Navidad son el lutefisk, el pavo y la salchicha navideña.
 
 Papá Noel es una figura popular en Noruega. En los viejos tiempos, se pensaba que todas las granjas tenían su duendecillo, un duendecillo vaca. El granero fue muy amable y un poco travieso. Si se sacaban gachas de avena para el establo, se aseguraba de cuidar muy bien a los animales de la granja.
+
+[[Fe y vision de la vida]]

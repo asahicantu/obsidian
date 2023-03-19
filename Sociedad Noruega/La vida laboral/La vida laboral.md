@@ -1,3 +1,8 @@
+---
+tag: journal
+publish: true
+lang: {es}
+---
 El trabajo es importante para muchos. La gran mayoría de los adultos tienen uno o más trabajos. Los estudiantes a menudo tienen trabajos de medio tiempo. Entonces pueden trabajar cuando tienen tiempo libre de sus estudios. Muchos jóvenes tienen trabajos de verano. Debido a que el mercado laboral consta de tantas formas diferentes de trabajar, las leyes y los reglamentos son importantes. Una característica del mercado laboral noruego es una fuerte organización sindical. Los sindicatos son organizaciones que trabajan para garantizar que todos los empleados tengan condiciones de trabajo seguras y buenas.
 
 En este capítulo aprenderá sobre todo el proceso desde que quiere conseguir un trabajo, hasta que finaliza su empleo. Echaremos un vistazo más de cerca a la solicitud de empleo, la entrevista de trabajo y el CV. También puede leer un poco sobre las condiciones de trabajo, como el salario, el horario laboral y las vacaciones.
@@ -18,5 +23,5 @@ Muchas personas con nombres que no son comunes en Noruega dicen que puede ser di
 4. [[Salarios e impuestos]]
 5. [[Vacaciones]]
 6. [[Baja por enfermedad]]
-7. [[Sociedad Noruega/La vida laboral/Sindicatos]]
+7. [[Sindicatos]]
 8. [[Renuncia]]

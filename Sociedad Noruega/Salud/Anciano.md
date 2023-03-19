@@ -4,13 +4,6 @@ En muchas culturas, varias generaciones viven juntas. Niños, padres y abuelos p
 
 ---
 
-En esta página puedes leer sobre:
-
--    [Ayuda a domicilio](#ayuda-a-domicilio)
--    [Enfermera a domicilio](#enfermera-a-domicilio)
-
----
-
 En los años 80 y 90, los ancianos solían ser enviados a residencias de ancianos. Se ha vuelto necesario que las personas mayores se las arreglen en casa el mayor tiempo posible. Cuando ya no puedan más, pueden trasladarse a instituciones como centros de mayores o residencias de ancianos.
 
 Para poder vivir en casa el mayor tiempo posible, hay varias ofertas.
@@ -22,3 +15,5 @@ Ayuda a domicilio ("hjemmehjelp") es una persona que puede contribuir en las tar
 ## ENFERMERA A DOMICILIO
 
 Una enfermera a domicilio es una enfermera que trabaja en el municipio. Una enfermera a domicilio también puede trabajar para una empresa privada, lo que cuesta más dinero para el usuario. La enfermera a domicilio puede preparar medicamentos, cambiar vendajes, cuidar heridas y otras tareas típicas que suelen resolverse en los hospitales. No solo las personas mayores pueden tener una enfermera a domicilio; También puede haber otras personas que necesiten la ayuda de una enfermera para recuperarse de un accidente automovilístico, una enfermedad crónica grave u otras cosas.
+
+[[Salud]]

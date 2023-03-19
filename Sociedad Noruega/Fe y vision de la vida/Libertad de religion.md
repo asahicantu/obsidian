@@ -44,3 +44,5 @@ El [El sitio web del gobierno noruego](https://www.regjeringen.no/no/tema/tro-o
 ## ASOCIACIÓN HUMANISTA
 
 La Asociación Humanista-Ética (HEF) es una de las organizaciones filosóficas más prominentes de Noruega. Los miembros no profesan religión sino la visión humano-ética de la vida. El humanismo pone al hombre en el centro y ve a la ciencia como la mejor fuente de conocimiento sobre el mundo.
+
+[[Fe y vision de la vida]]

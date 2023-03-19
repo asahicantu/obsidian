@@ -35,3 +35,5 @@ Nosotros, los humanos, hacemos muchas cosas amables pero no están escritas en n
 ¿Qué reglas no escritas varían en diferentes culturas? Algo bastante común en Noruega puede ser completamente inusual para personas de otros países.
 
 Las reglas no escritas están estrechamente relacionadas con las costumbres populares y las costumbres de la mesa.
+
+[[Familia y ocio]]

@@ -1,13 +1,5 @@
 Hay varios tipos de hospitales en Noruega. Algunos hospitales son hospitales locales. Luego pueden hacer pequeños procedimientos y tratamientos que no requieren de muchos recursos. Otros hospitales son hospitales regionales y son responsables de la población en un área específica. A menudo hay varios hospitales regionales bajo un gran hospital regional. También hay hospitales que tienen experiencia especial en algunas enfermedades o lesiones, como el cáncer y las quemaduras.
 
-![](https://cdn.kursoria.no/pensum/elements/-_wxecrv.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Ambulancia](#ambulancia)
-
 ---
 
 Si estás hospitalizado, no cuesta nada. Si solo está en una visita de un día a un médico o tiene un examen que no requiere que lo admitan, generalmente tiene que pagar un deducible. Estar en una visita de día se llama tener un examen ambulatorio.
@@ -21,3 +13,5 @@ También hay hospitales privados.
 ## AMBULANCIA
 
 Si necesitas atención médica de emergencia o una ambulancia, llama al 113 Luego acudirá al centro de comunicación de emergencias médicas.
+
+[[Salud]]

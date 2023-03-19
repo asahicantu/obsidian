@@ -33,7 +33,7 @@ La municipalidad es responsable de las escuelas secundarias superiores, pero es 
 
 Al igual que en la escuela primaria, debe haber una FAU que contribuya a que los padres de los alumnos tengan una participación real.
 
-< h2>Desarrollo de la juventud
+## Desarrollo de la juventud
 
 Debe ofrecerse a todos los municipios un servicio de salud para los alumnos de bachillerato. Antes había una enfermera de salud que era responsable de una o más escuelas secundarias. Ahora se llama enfermera de salud. Es una enfermera con formación superior en ayudar a los jóvenes física y mentalmente. La enfermera de salud a menudo tiene un día fijo de la semana en el que está presente en la escuela. La enfermera de salud puede contribuir con la educación sexual, hablar sobre el cuerpo y el desarrollo o estar disponible para los estudiantes que tengan preguntas.
 

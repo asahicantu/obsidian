@@ -1,14 +1,5 @@
 Un médico regular ("fastlege") es un médico con una responsabilidad especial para usted, similar a un médico de cabecera. Puede comunicarse con su médico habitual cuando tenga preguntas sobre su salud o si cree que está enfermo. El médico de cabecera puede examinarte, hacerte una receta, informar que estás enfermo o derivarte a un especialista. Un médico regular es responsable de muchos residentes. Si lo desea, puede cambiar de médico habitual. No cuesta nada estar en la lista de un médico regular, pero si visita al médico regular, generalmente tiene que pagar un deducible.
 
-![](https://cdn.kursoria.no/pensum/elements/-_rvtbyn.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Responsabilidades del médico de cabecera](#responsabilidades-del-m%C3%A9dico-de-cabecera)
--    [Deducible](#deducible)
-
 ---
 
 Estas son algunas palabras noruegas:
@@ -50,7 +41,7 @@ Todos los deducibles que pagas se suman. No tienes que pagar más deducibles cua
 
 -   Puede leer más sobre deducibles y excepciones en [Sitio web de Helsenorge.no](https://www.helsenorge.no/en/pay-for-health-services/user-fees-at-the-family-doctor/).
 
-< h2>Un buen consejo antes de tu cita
+## Un buen consejo antes de tu cita
 
 Un médico de cabecera puede ser responsable de hasta 2.000 habitantes. A veces puede haber un poco de tiempo de espera antes de obtener una cita con su médico habitual. Por lo tanto, es posible que desee estar un poco preparado. Un consejo puede ser escribir lo que desea discutir con su médico de cabecera. Puede haber cosas que sean importantes para usted que el médico habitual conozca para que el médico habitual tenga la oportunidad de hacer el diagnóstico correcto y ayudarlo.
 
@@ -63,3 +54,4 @@ Puede informar a su médico habitual con antelación si necesita un intérprete.
 ### Enlaces útiles
 
 -   [Helsenorge.no](https://www.helsenorge.no/en/health-rights-in-norway/right-to-an-interpreter/) tiene información sobre intérpretes.
+[[Salud]]

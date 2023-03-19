@@ -2,12 +2,13 @@ Después de la escuela secundaria, los jóvenes se han convertido en adultos jó
 
 ![](https://cdn.kursoria.no/pensum/elements/-_dcfvgb.jpg)
 
----
+   
 
 En esta página puedes leer sobre:
 
--    [Internado< /h2><p>Vivir en un internado significa que vives en la escuela. Luego vives con las personas con las que vas a la escuela, generalmente en una habitación doble con alguien del mismo sexo. Debes lavar y mantener la habitación ordenada. También tienes que lavar tu ropa tú mismo. Por regla general, la escuela secundaria popular tiene un lavadero común, donde se pueden usar lavadoras y secadoras.</p><p>Todas las escuelas secundarias populares también tienen un comedor y una cocina, donde trabajan uno o más chefs. Preparan el desayuno, el almuerzo, la cena y la cena todos los días. Debido a que los estudiantes viven en la escuela, a menudo hay muchas actividades conjuntas fuera del horario escolar; en el gimnasio, la sala de cine, la cocina, en el campo de fútbol, ​​etc.</p><h2>Precio](#internado%3C-h2%3E%3Cp%3Evivir-en-un-internado-significa-que-vives-en-la-escuela-luego-vives-con-las-personas-con-las-que-vas-a-la-escuela-generalmente-en-una-habitaci%C3%B3n-doble-con-alguien-del-mismo-sexo-debes-lavar-y-mantener-la-habitaci%C3%B3n-ordenada-tambi%C3%A9n-tienes-que-lavar-tu-ropa-t%C3%BA-mismo-por-regla-general-la-escuela-secundaria-popular-tiene-un-lavadero-com%C3%BAn-donde-se-pueden-usar-lavadoras-y-secadoras-%3C-p%3E%3Cp%3Etodas-las-escuelas-secundarias-populares-tambi%C3%A9n-tienen-un-comedor-y-una-cocina-donde-trabajan-uno-o-m%C3%A1s-chefs-preparan-el-desayuno-el-almuerzo-la-cena-y-la-cena-todos-los-d%C3%ADas-debido-a-que-los-estudiantes-viven-en-la-escuela-a-menudo-hay-muchas-actividades-conjuntas-fuera-del-horario-escolar;-en-el-gimnasio-la-sala-de-cine-la-cocina-en-el-campo-de-f%C3%BAtbol-%E2%80%8B%E2%80%8Betc-%3C-p%3E%3Ch2%3Eprecio)
--    [Puntos adicionales](#puntos-adicionales)
+[Internado](#Internado)
+[ Precio](#Precio)
+[Puntos adicionales](#puntos-adicionales)
 
 ---
 
@@ -17,7 +18,7 @@ Algunas escuelas secundarias populares están a cargo de organizaciones. Por eje
 
 En una escuela secundaria popular, no es un examen. Los estudiantes pasan la escuela secundaria popular completando. Como regla general, el año escolar dura nueve meses. La primera escuela secundaria popular en Noruega fue la escuela secundaria popular Sagatun. Se inició en 1864. La Dirección de Educación es responsable de garantizar que las escuelas secundarias populares funcionen de la manera correcta, al igual que son responsables de los jardines de infancia, las escuelas primarias y la educación secundaria superior.
 
-## INTERNADO< /H2>
+## INTERNADO
 
 VIVIR EN UN INTERNADO SIGNIFICA QUE VIVES EN LA ESCUELA. LUEGO VIVES CON LAS PERSONAS CON LAS QUE VAS A LA ESCUELA, GENERALMENTE EN UNA HABITACIÓN DOBLE CON ALGUIEN DEL MISMO SEXO. DEBES LAVAR Y MANTENER LA HABITACIÓN ORDENADA. TAMBIÉN TIENES QUE LAVAR TU ROPA TÚ MISMO. POR REGLA GENERAL, LA ESCUELA SECUNDARIA POPULAR TIENE UN LAVADERO COMÚN, DONDE SE PUEDEN USAR LAVADORAS Y SECADORAS.
 

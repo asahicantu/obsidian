@@ -13,7 +13,8 @@ Si tienes problemas con tu salud física o mental, es importante que busques ayu
 Entre las enfermedades más comunes en Noruega se encuentran tanto las enfermedades somáticas (físicas) como los trastornos mentales. Algunos pueden encontrar vergonzoso tener una enfermedad mental. Sin embargo, el servicio de salud está muy acostumbrado a ayudar a las personas que tienen enfermedades mentales, y la gran mayoría hace una vida completamente normal después de ser tratada.
 
 Las enfermedades más comunes en Noruega son las enfermedades cardiovasculares, asma, diabetes, ansiedad y diversos trastornos esqueléticos y musculares.
-	1. [[Sociedad Noruega/Salud/Helsestasjon]]
+[[INTRO]]
+	1. [[Helsestasjon]]
 	2. [[Hospital]]
 	3. [[Farmacia]]
 	4. [[Médico habitual]]
@@ -22,4 +23,4 @@ Las enfermedades más comunes en Noruega son las enfermedades cardiovasculares, 
 	7. [[Propia salud]]
 	8. [[Salud mental]]
 	9. [[Deber de confidencialidad]]
-[[Sociedad Noruega/INTRO]]
+

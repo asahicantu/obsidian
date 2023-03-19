@@ -4,13 +4,6 @@ La salud dental es importante. La mayoría de los noruegos se cepillan los dient
 
 ---
 
-En esta página puedes leer sobre:
-
--    [Gastos dentales](#gastos-dentales)
--    [Miedo dental](#miedo-dental)
-
----
-
 ## GASTOS DENTALES
 
 Reparar los dientes puede costar mucho dinero. Usted puede contribuir significativamente a una buena salud dental al cepillarse los dientes, usar hilo dental y enjuagarse con flúor todos los días. También es aconsejable no beber muchos refrescos o jugos, que dañan el esmalte de los dientes. Esto reduce la posibilidad de que el dentista tenga que hacer reparaciones costosas.
@@ -32,3 +25,5 @@ En [Sitio web de Helsenorge](https://www.helsenorge.no/betaling-for-helsetjenes
 Muchas personas tienen odontofobia o miedo dental. Una de las razones por las que los extranjeros desarrollan dentistas teme haber experimentado torturas. Pero también, muchos de los que nacieron y se criaron en Noruega tienen miedo a los dentistas. Entre otras cosas, se cree que muchas personas que han sufrido abuso sexual tienen miedo de los dentistas porque les resulta difícil meterse los dedos de otra persona en la boca. También hay algunos que han crecido con dentistas que no han mostrado mucha consideración durante el tratamiento dental y han desarrollado miedo dental a causa de ello.
 
 El sector público ha desarrollado una oferta adaptada para aquellos que temen a los dentistas, llamada TOO . Puede obtener más información sobre la oferta en [el sitio web de Tannhelsetjenestens kompetansesenter](https://www.tooinfo.no/om-too-tilbudet.478927.no.html).
+
+[[Salud]]

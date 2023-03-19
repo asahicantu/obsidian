@@ -1,0 +1,488 @@
+{
+  "main": {
+    "id": "92117fce39cfccbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65695b0bad33012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27f6a61b2ced9763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escuela y educacion/Escuela secundaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74b3a96383d1dce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Escuela y educacion/Escuela y educacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a6da3859775fd4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fe y vision de la vida/Libertad de religion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4d9aebee248ab2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fe y vision de la vida/Comunidades religiosas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "372f3344ede5eca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fe y vision de la vida/Cristiandad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00e144a4f78d9c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familia y ocio/Trabajo voluntario y dugnad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e2b5abd3d1fb662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familia y ocio/Jardin de ninos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5acea5ba2597609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familia y ocio/Derechos de los ninos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac484d4d678d19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familia y ocio/Presupuesto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a89b1cceda1b8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familia y ocio/Ocio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e89e7e85db6b69bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familia y ocio/Embarazo y parto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f6cf32da6c8997d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familia y ocio/Embarazo y parto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afc7499462fa4f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Familia y ocio/Familia y ocio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1abf48536b79e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Salud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e1f18dfcd5bd882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Hospital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cceb8234ad20d03c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Farmacia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea68719182ff842c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Médico habitual.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93d13519e50d88f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Dentista.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b96f7cf74c08c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Anciano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9879f0f28876d7b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Propia salud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07312276ddb09771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Salud mental.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20e26dd25c4faa84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Salud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be473157e495292a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Deber de confidencialidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9504fdb3f8088118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salud/Salud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff43b765b1b8e3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTRO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "221e7659beeafd48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Esto es noruega/Esto es noruega.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 25
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3f9119811464641",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd1f19f53a16fa3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "255b00e75f983dc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d36fdf3ae7c5e575",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8935a8336b7f4ac3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8724c573f1e406c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7619068098fbf4dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d8ee256bf8f4bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Esto es noruega/Esto es noruega.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "722d711e0a3ccd4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Esto es noruega/Esto es noruega.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff28859090c7d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9560cb4f7651be34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Esto es noruega/Esto es noruega.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-tts:Text to Speech": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "221e7659beeafd48",
+  "lastOpenFiles": [
+    "Esto es noruega/Montañas y glaciares.md",
+    "Esto es noruega/Esto es noruega.md",
+    "INTRO.md",
+    "Salud/Salud.md",
+    "Salud/Deber de confidencialidad.md",
+    "Salud/Salud mental.md",
+    "Salud/Propia salud.md",
+    "Salud/Anciano.md",
+    "Salud/Dentista.md",
+    "Salud/Médico habitual.md",
+    "Salud/Farmacia.md",
+    "Salud/Hospital.md",
+    "Salud/Helsestasjon.md",
+    "Familia y ocio/Familia y ocio.md",
+    "Familia y ocio/Embarazo y parto.md",
+    "Familia y ocio/Ocio.md",
+    "Familia y ocio/Presupuesto.md",
+    "Familia y ocio/Derechos de los ninos.md",
+    "Familia y ocio/Jardin de ninos.md",
+    "Familia y ocio/Trabajo voluntario y dugnad.md",
+    "Fe y vision de la vida/Fe y vision de la vida.md",
+    "Fe y vision de la vida/Navidad y pascua.md",
+    "Fe y vision de la vida/Cristiandad.md",
+    "Fe y vision de la vida/Comunidades religiosas.md",
+    "Fe y vision de la vida/Libertad de religion.md",
+    "Escuela y educacion/Escuela y educacion.md",
+    "Sociedad Noruega/La vida laboral",
+    "Sociedad Noruega",
+    "INTRO.epub"
+  ]
+}

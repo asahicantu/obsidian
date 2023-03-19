@@ -3,13 +3,6 @@ Un presupuesto es una descripción general de cómo planea disponer del dinero q
 ![](https://cdn.kursoria.no/pensum/elements/-_gtfrde.jpg)
 
 ---
-
-En esta página puedes leer sobre:
-
--    [Presupuesto de referencia de SIFO](#presupuesto-de-referencia-de-sifo)
-
----
-
 Al configurar un presupuesto, primero debe ingresar lo que espera ganar. Luego anotas los gastos que tienes. En última instancia, te queda la cantidad de la que puedes disponer libremente. Es posible que desee poner parte de este dinero en una cuenta de ahorros.
 
 ## PRESUPUESTO DE REFERENCIA DE SIFO
@@ -29,3 +22,4 @@ Este es un ejemplo de una mujer adulta que no está embarazada:
 -   Ropa y calzado: 960 NOK
 -   Cuidado personal: 880 NOK
 -   Juegos y uso multimedia: 1510 NOK
+[[Familia y ocio]]

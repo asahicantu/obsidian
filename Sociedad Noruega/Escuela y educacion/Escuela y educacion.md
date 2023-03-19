@@ -11,7 +11,6 @@ Aquí encontrará más información sobre las diferentes escuelas en Noruega:
 -   Educación secundaria y preparatoria .
 -   Folkehøgskole, que es una escuela especial donde vives en la escuela (internado).
 -   La escuela de verano es una oferta para los estudiantes de la escuela en el verano.
-< /ul>
 
 Los colegios y universidades son parte de la educación superior. Para poder estudiar educación superior, normalmente uno debe tener calificaciones de estudios. En los colegios y universidades, ya no sois alumnos, sino alumnos, y coleccionáis créditos.
 
@@ -25,3 +24,5 @@ En total, hay alrededor de 635,000 alumnos en la escuela primaria y secundaria i
 4. [[Escuela secundaria popular]]
 5. [[Escuela de Verano]]
 6. [[Educacion mas alta]]
+
+[[INTRO]]

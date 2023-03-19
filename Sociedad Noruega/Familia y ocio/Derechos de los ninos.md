@@ -59,3 +59,5 @@ Si el niño es tan mayor que tiene una opinión sobre algo , los padres deben es
 Sin embargo, se aplican algunas reglas. La Ley de la Infancia establece:
 
 _Un niño que ha cumplido los siete años y los niños menores que pueden formar sus puntos de vista deben recibir información y oportunidades para expresar sus opiniones antes de que se tomen decisiones sobre asuntos personales que afectan al niño, incluida la responsabilidad parental, la custodia y el acceso. Se dará peso a las opiniones del niño de acuerdo con su edad y madurez. Cuando el niño haya alcanzado la edad de 12 años, la opinión del niño tendrá un peso significativo._
+
+[[Familia y ocio]]

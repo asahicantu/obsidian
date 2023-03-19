@@ -4,14 +4,10 @@ El trabajo voluntario es un trabajo en el que no se le paga por trabajar. Puede 
 
 ---
 
-En esta página puedes leer sobre:
-
--    [Dugnad](#dugnad)
-
----
-
 El trabajo voluntario puede ser voluntariado en la Cruz Roja o en la Sociedad de Salvamento. La diferencia es que el trabajo voluntario a menudo significa que tienes que comprometerte por un período, que trabajas en horarios fijos y que tienes que asistir a cursos o recibir capacitación para adquirir competencia para resolver las tareas con las que tienes que trabajar.
 
 ## DUGNAD
 
 Dugnad puede ayudar a cortar el césped en la asociación de viviendas o lavar los juguetes en el jardín de infantes. Aunque es voluntario, no se llama trabajo voluntario.
+
+[[Familia y ocio]]

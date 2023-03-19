@@ -1,15 +1,5 @@
 Tu salud es esencial. Si goza de buena salud, puede participar en la vida familiar, la vida comunitaria, el trabajo y las actividades de ocio. Usted es responsable de su salud. Si tu cuerpo es una máquina, es tu trabajo lubricarlo, mantenerlo y ayudarlo cuando algo sale mal. En Noruega, muchas personas contraen enfermedades cardiovasculares y diabetes. La forma en que come y hace ejercicio puede tener un impacto significativo en el desarrollo de una enfermedad.
 
-![](https://cdn.kursoria.no/pensum/elements/-_nybtvr.jpg)
-
----
-
-En esta página puedes leer sobre:
-
--    [Enfermedades de la riqueza](#enfermedades-de-la-riqueza)
--    [Alcohol](#alcohol)
--    [Fumar tabaco](#fumar-tabaco)
-
 ---
 
 Aquí hay algunas palabras en noruego:
@@ -32,7 +22,7 @@ Sin embargo, es esencial decir que puede tener tales enfermedades incluso si no 
 
 ## ALCOHOL
 
-El alcohol es importante para muchos gente. Algunas personas lo usan para marcar algo lindo, como una boda, un nuevo trabajo que les han dado o para celebrar que es viernes. Otros son adictos al alcohol todos los días. Se llama adicción y es peligroso para el cuerpo. Una característica de ser adicto es que es difícil dejar de beber alcohol y te vuelves inquieto si no bebes alcohol. Si usted o alguien que conoce tiene problemas con el alcohol, puede, por ejemplo, ponerse en contacto con Blue Cross Norway. Ofrecen ayuda en la mayoría de lugares de Noruega.
+El alcohol es importante para mucha gente. Algunas personas lo usan para marcar algo lindo, como una boda, un nuevo trabajo que les han dado o para celebrar que es viernes. Otros son adictos al alcohol todos los días. Se llama adicción y es peligroso para el cuerpo. Una característica de ser adicto es que es difícil dejar de beber alcohol y te vuelves inquieto si no bebes alcohol. Si usted o alguien que conoce tiene problemas con el alcohol, puede, por ejemplo, ponerse en contacto con Blue Cross Norway. Ofrecen ayuda en la mayoría de lugares de Noruega.
 
 En Noruega, las bebidas con alcohol se venden hasta en un 4,7 % en las tiendas de comestibles. Esto principalmente solo se aplica a la cerveza. Si quieres una bebida con mayor grado alcohólico, debes acudir a Vinmonopolet. Es una tienda propiedad del estado.
 
@@ -59,3 +49,4 @@ El gobierno ha propuesto que se prohíba fumar en los automóviles si hay niños
 -   Puede leer más sobre los hábitos de fumar de los noruegos en  [Sitio web de FHI](https://www.fhi.no/nettpub/tobakkinorge/bruk-av-tobakk/utbredelse-av-royking-i-norge/).
 -   Si desea obtener más información sobre las reglas para fumar, puede consultar el [sitio web de Helsedirektoratet](https://www.helsedirektoratet.no/tema/tobakk-royk-og-snus/roykeloven-regler-om-roykeforbud).
 -   Para obtener ayuda para dejar de fumar, visite [Slutta.no](https://www.helsenorge.no/snus-og-roykeslutt/).
+[[Salud]]
