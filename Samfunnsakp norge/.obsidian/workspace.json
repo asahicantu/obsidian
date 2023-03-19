@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helse/05 Helse.md",
+                "file": "05-Helse/05 Helse.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dette er Norge/06 Dette er Norge.md",
+                "file": "06-Dette er Norge/06 Dette er Norge.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dette er Norge/06.11 Transport.md",
+                "file": "06-Dette er Norge/06.11 Transport.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historie/07 Historie.md",
+                "file": "07-Historie/07 Historie.md",
                 "mode": "source",
                 "source": false
               }
@@ -197,31 +197,32 @@
   },
   "active": "b57a24a8dfa9d193",
   "lastOpenFiles": [
-    "Politikk og demokrati/08 Politikk og demokrati.md",
-    "Politikk og demokrati/08.10 De norske partiene.md",
-    "Politikk og demokrati/08.09 Innvandring.md",
-    "Politikk og demokrati/08.08 Offentlige tjenester.md",
-    "Politikk og demokrati/08.07 Likestilling.md",
-    "Politikk og demokrati/08.06 Det grønne skiftet.md",
-    "Politikk og demokrati/08.05 Organisering.md",
-    "Politikk og demokrati/08.04 Kongehuset.md",
+    "sam.epub",
+    "Skole og utdanning/Untitled",
+    "01-Arbeidsliv/01-Arbeidsliv.md",
     "00-Innhold.md",
-    "Historie/07 Historie.md",
-    "Politikk og demokrati/08.03 Valg.md",
-    "Politikk og demokrati/08.01 Stortinget.md",
-    "Politikk og demokrati/08.02 17. mai.md",
-    "Historie/07.08 22. juli 2011.md",
-    "Historie/07.07 OL.md",
-    "Historie/07.06 Olje.md",
-    "Historie/07.05 Andre verdenskrig.md",
-    "Historie/07.04 Grunnloven.md",
-    "Historie/07.03 Nasjonalromantikken.md",
-    "Historie/07.02 Unioner.md",
-    "Historie/07.01 Vikingtiden.md",
-    "Dette er Norge/06 Dette er Norge.md",
-    "Dette er Norge/06.13 Måleenheter.md",
-    "Dette er Norge/06.12 Vær.md",
-    "Dette er Norge/06.11 Transport.md",
-    "Dette er Norge/06.10 Kjente nordmenn.md"
+    "08-Politikk og demokrati/08 Politikk og demokrati.md",
+    "08-Politikk og demokrati/08.10 De norske partiene.md",
+    "08-Politikk og demokrati/08.09 Innvandring.md",
+    "08-Politikk og demokrati/08.08 Offentlige tjenester.md",
+    "08-Politikk og demokrati/08.07 Likestilling.md",
+    "08-Politikk og demokrati/08.06 Det grønne skiftet.md",
+    "08-Politikk og demokrati/08.05 Organisering.md",
+    "08-Politikk og demokrati/08.04 Kongehuset.md",
+    "07-Historie/07 Historie.md",
+    "08-Politikk og demokrati/08.03 Valg.md",
+    "08-Politikk og demokrati/08.01 Stortinget.md",
+    "08-Politikk og demokrati/08.02 17. mai.md",
+    "07-Historie/07.08 22. juli 2011.md",
+    "07-Historie/07.07 OL.md",
+    "07-Historie/07.06 Olje.md",
+    "07-Historie/07.05 Andre verdenskrig.md",
+    "07-Historie/07.04 Grunnloven.md",
+    "07-Historie/07.03 Nasjonalromantikken.md",
+    "07-Historie/07.02 Unioner.md",
+    "07-Historie/07.01 Vikingtiden.md",
+    "06-Dette er Norge/06 Dette er Norge.md",
+    "06-Dette er Norge/06.13 Måleenheter.md",
+    "06-Dette er Norge/06.12 Vær.md"
   ]
 }
