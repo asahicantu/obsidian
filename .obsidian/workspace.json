@@ -4,143 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "6e908690acc622c4",
+        "id": "6e3b412cb72783db",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6539161d2c8d89",
+            "id": "9925b1e8164cbd54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "file": "Docker certified developer/Docker certified developer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df1420e713cb90f0",
+            "id": "4b107114a325d538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Samfunnsakp norge/Innhold.md",
+                "file": "Docker certified developer/Docker certified developer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3df035ad28bba28d",
+            "id": "506982a42c0c92c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "file": "Docker certified developer/Docker certified developer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "788a860ea1cb6631",
+            "id": "4e3b489c52884226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Å skaffe jobb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd5ecb0b2ae1178b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samfunnsakp norge/Innhold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bef580bd229c864d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71c98a9e3d9f56fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samfunnsakp norge/Innhold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d35fc74f5b1b9a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0ab56fadf7af9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Å skaffe jobb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d1f75442db51e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fa3440b9eba36c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sociedad Noruega/INTRO.md",
+                "file": "Docker certified developer/Docker certified developer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "53f9ffd5d1c6e699",
@@ -206,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "file": "Docker certified developer/Docker certified developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
+                "file": "Docker certified developer/Docker certified developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md"
+                "file": "Docker certified developer/Docker certified developer.md"
               }
             }
           }
@@ -254,29 +170,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5e98ea81e5b98f7e",
+  "active": "4e3b489c52884226",
   "lastOpenFiles": [
-    "Samfunnsakp norge/Arbeidsliv/Arbeidskontrakt.md",
-    "Samfunnsakp norge/Arbeidsliv/Arbeidsliv.md",
-    "Samfunnsakp norge/Arbeidsliv/Fagforeninger.md",
-    "Samfunnsakp norge/Arbeidsliv/Lønn og skatt.md",
-    "Samfunnsakp norge/Arbeidsliv/Sykefravær.md",
-    "Samfunnsakp norge/Tro og livssyn/Jul og påske.md",
-    "Samfunnsakp norge/Innhold.md",
-    "Samfunnsakp norge/Arbeidsliv/Å skaffe jobb.md",
-    "Å skaffe jobb.md",
-    "Sociedad Noruega/INTRO.md"
+    "Docker certified developer/Commands.md",
+    "Docker certified developer/Resources/Pasted image 20230729193259.png",
+    "Docker certified developer/Resources",
+    "Docker certified developer/Resources/Pasted image 20230729193353.png",
+    "Docker certified developer/Resources/Pasted image 20230729193305.png",
+    "Docker certified developer/Docker certified developer.md",
+    "This is new note.md",
+    "Untitled.md",
+    "Comma.md",
+    "Docker certified developer/Resources/Pasted image 20230729193504.png",
+    "Docker certified developer/Resources/Pasted image 20230729193500.png",
+    "Docker certified developer/Resources/Pasted image 20230729193454.png",
+    "202303281811.md",
+    "202303281809.md",
+    "202303101356.md",
+    "[(6).md",
+    "AI FORUM/AI_FORUM.md",
+    "Docker certified developer",
+    "export/AI_FORUM/uncanny.mp4",
+    "export/AI_FORUM/AI FORUM/rsc/task_rabbit.png",
+    "export/AI_FORUM/AI FORUM/rsc/paper_data.png",
+    "export/AI_FORUM/AI FORUM/rsc/midjourney_color.png",
+    "export/AI_FORUM/AI FORUM/rsc/openai_gpt_train_paper.png",
+    "export/AI_FORUM/AI FORUM/rsc",
+    "export/AI_FORUM/AI FORUM",
+    "export/AI_FORUM/plugin/chalkboard/_style.css",
+    "export/AI_FORUM/plugin/chalkboard/style.css",
+    "export/AI_FORUM/plugin/chalkboard/README.md",
+    "export/AI_FORUM/plugin/chalkboard/plugin.js",
+    "export/AI_FORUM/plugin/chalkboard/plugin (copy).js",
+    "export/AI_FORUM/plugin/chalkboard/img",
+    "export/AI_FORUM/plugin/chart/README.md",
+    "export/AI_FORUM/plugin/customcontrols/README.md",
+    "export/AI_FORUM/plugin/menu/CONTRIBUTING.md",
+    "export/AI_FORUM/plugin/menu/README.md",
+    "rsc/Pasted image 20230328180305.png.md",
+    "rsc/Pasted image 20230328165816.png.md",
+    "export/01-Intro/plugin/chalkboard/README.md",
+    "export/01-Intro/plugin/chart/README.md",
+    "export/01-Intro/plugin/customcontrols/README.md",
+    "export/01-Intro/plugin/menu/CONTRIBUTING.md",
+    "export/01-Intro/plugin/menu/README.md",
+    "AI FORUM/02-AGI.md",
+    "AI FORUM/03_GAI.md",
+    "AI FORUM/04_Brief_history.md",
+    "Untitled.canvas"
   ]
 }

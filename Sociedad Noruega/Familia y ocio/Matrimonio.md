@@ -19,3 +19,5 @@ La ley también establece que no puedes casarte con alguien en línea recta asce
 ## MATRIMONIO FORZADO Y MATRIMONIO ARREGLADO
 
 En algunos países y culturas , los matrimonios forzados o arreglados son comunes. No es necesariamente la ley, pero es una tradición. En Noruega, tanto el matrimonio forzado como el matrimonio concertado están estrictamente prohibidos. Si una de las partes del matrimonio es un ciudadano noruego, el matrimonio celebrado en el extranjero no es válido si una de las partes es menor de 18 años cuando se casan, una de las partes ya estaba casada o si el matrimonio se celebró sin ambos estando presentes.
+
+[[INTRO]]
