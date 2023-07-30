@@ -43,6 +43,8 @@ docker run -d ubuntu
 docker run -d mongo
 docker run -d redis
 docker run --name [container name] -it -d ubuntu
+docker run --name [container name] --hostname [host name] -it -d ubuntu
+
 docker image ls
 docker ps
 docker run --help | more
@@ -53,9 +55,12 @@ docker restart
 #check container names [To get hostname run 'hostname inside container']
 docker ps -a 
 #[Prints the name of the host inside the container] which matches the container id
-docker exect [container id] hostname 
+docker exec [container id] hostname 
+docker exec [container name]  hostname 
 docker ps --format '{{.Names}}'
+docker ps --filter "ancestor=ubuntu"
 $names = $(docker ps --format '{{.Names}}') | docker start $names
+
 ## Windows Location for docker images \\wsl.localhost\docker-desktop-data\data\docker\containers
 ## Linux /var/lib/docker
 ## Container ids match with folder ids inside those docker folders
@@ -65,3 +70,31 @@ $names = $(docker ps --format '{{.Names}}') | docker start $names
 
 ```
 ___
+
+## Controlling containers by ip and port
+```bash
+docker run --name nginx_1 --hostname nginxhost_1 -p 80 -d nginx
+docker run --name nginx_2 --hostname nginxhost_2 -p 81 -d nginx
+## Browse the containers by using the host port
+docker ps
+ping localhost:remote port
+```
+
+## Monitoring containers
+```bash
+docker ps
+# Display the running processes of a container
+docker top <container_id> or <container_name>
+# Display a live stream of containers resource usage statistics works with many ids or names
+docker stats <container_id> or <container_name> 
+# Provides low-level information on Docker objexts
+docker inspect <container_id> or <container_name>
+```
+
+## Removing containers
+```bash
+#running containers cannot be deleted, first they need to be stopped
+docker rm <container_id> or <container_name>
+#run container and program it to be self deleted once its lifecycle is finished
+docker run --rm <container_id> or <container_name>
+```

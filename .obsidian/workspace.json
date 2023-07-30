@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0aae044a6bbb9caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker certified developer/Docker certified developer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c75434972abe4f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker certified developer/Docker certified developer.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker certified developer/Docker certified developer.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker certified developer/Docker certified developer.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -187,16 +211,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4e3b489c52884226",
+  "active": "c75434972abe4f43",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "Docker certified developer/Networking.md",
+    "Docker certified developer/Resources/Pasted image 20230730175013.png",
+    "Docker certified developer/Docker certified developer.md",
     "Docker certified developer/Commands.md",
+    "202307301720.md",
+    "202307301719.md",
+    "202307301718.md",
     "Docker certified developer/Resources/Pasted image 20230729193259.png",
     "Docker certified developer/Resources",
     "Docker certified developer/Resources/Pasted image 20230729193353.png",
     "Docker certified developer/Resources/Pasted image 20230729193305.png",
-    "Docker certified developer/Docker certified developer.md",
     "This is new note.md",
-    "Untitled.md",
     "Comma.md",
     "Docker certified developer/Resources/Pasted image 20230729193504.png",
     "Docker certified developer/Resources/Pasted image 20230729193500.png",
@@ -211,7 +241,6 @@
     "export/AI_FORUM/AI FORUM/rsc/task_rabbit.png",
     "export/AI_FORUM/AI FORUM/rsc/paper_data.png",
     "export/AI_FORUM/AI FORUM/rsc/midjourney_color.png",
-    "export/AI_FORUM/AI FORUM/rsc/openai_gpt_train_paper.png",
     "export/AI_FORUM/AI FORUM/rsc",
     "export/AI_FORUM/AI FORUM",
     "export/AI_FORUM/plugin/chalkboard/_style.css",
@@ -230,10 +259,6 @@
     "export/01-Intro/plugin/chart/README.md",
     "export/01-Intro/plugin/customcontrols/README.md",
     "export/01-Intro/plugin/menu/CONTRIBUTING.md",
-    "export/01-Intro/plugin/menu/README.md",
-    "AI FORUM/02-AGI.md",
-    "AI FORUM/03_GAI.md",
-    "AI FORUM/04_Brief_history.md",
     "Untitled.canvas"
   ]
 }
