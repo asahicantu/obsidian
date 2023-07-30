@@ -15,7 +15,8 @@ ___
 Containers are run on a separate network stack, internal to the Docker host.
 Share the external ip address of the host through the use of NAT
 * Uses DHCP for automatic address asignment
- ![[Pasted image 20230730175013.png]]
+
+ ![[./Resources/Pasted image 20230730175013.png]]
 Docker automatically creates a masquerade rule, for each container that lets containers connect to external network.
 ```bash
 docker network inspect bridge
