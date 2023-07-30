@@ -1,3 +1,0 @@
-El jardín de infancia es una oferta para los niños más pequeños antes de que sean tan mayores que puedan empezar la escuela primaria. Es voluntario que los niños vayan al jardín de infancia. En kínder los niños recibirán cuidados, jugarán, aprenderán y desarrollarán habilidades en un ambiente social. Algunos jardines de infancia tienen temas especiales. En un jardín de infancia natural, los niños estarán mucho tiempo en la naturaleza. En un jardín de infancia de música, los niños experimentarán mucha música y tocarán instrumentos sencillos. Si no tiene a su hijo en el jardín de infantes, puede tener derecho a beneficios en efectivo.
-
-![](https://cdn.kursoria.no/pensum/elements/-_kijuhy.jpg)

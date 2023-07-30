@@ -1,0 +1,404 @@
+{
+  "main": {
+    "id": "92117fce39cfccbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65695b0bad33012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea66ae4c841ae9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06.02 Svalbard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3054e189a6f1e794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06 Esto es noruega.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a48781c687729129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06.04 La poblacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c360f678db95928b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06.05 Países vecinos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46970c39a40fa744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Política y democracia/08 Política y democracia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9844aa7a9abdfee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Fe y vision de la vida/03.02 Comunidades religiosas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb7377d8f7b0c4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Familia y ocio/04.04 Presupuesto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f9eeca23b5490e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06.01 Montañas y glaciares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "475f2ea368d66319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06.04 La poblacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7d0f5117f152274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06 Esto es noruega.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e77f1b7c5ed75439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06 Esto es noruega.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec7ddf14bfcb48bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Esto es noruega/06 Esto es noruega.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8084a282564af2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTRO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5353c628fd7db95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Salud/05 Salud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5cdfcdf25eb57ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Historia/07 Historia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8d77b2c1e35e120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07-Historia/07.07 OL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "483ae1bc90067fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Política y democracia/08 Política y democracia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "648cfeaaee1dff31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08.01 Stortighet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e89297435410b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INTRO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3f9119811464641",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd1f19f53a16fa3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "255b00e75f983dc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d36fdf3ae7c5e575",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8935a8336b7f4ac3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8724c573f1e406c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7619068098fbf4dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d8ee256bf8f4bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INTRO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "722d711e0a3ccd4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "INTRO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff28859090c7d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9560cb4f7651be34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "INTRO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-tts:Text to Speech": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "4e89297435410b03",
+  "lastOpenFiles": [
+    "08-Política y democracia/08 Política y democracia.md",
+    "08-Política y democracia/08.10 Los partidos noruegos.md",
+    "08-Política y democracia/08.09 Inmigración.md",
+    "08-Política y democracia/08.08 Servicios públicos.md",
+    "08-Política y democracia/08.07 Igualdad.md",
+    "08-Política y democracia/08.06 El cambio verde.md",
+    "08-Política y democracia/08.05 Organización.md",
+    "08-Política y democracia/08.04 La casa real.md",
+    "08-Política y democracia/08.03 Elección.md",
+    "08-Política y democracia/08.02 17 de mayo.md",
+    "08.01 Stortighet.md",
+    "08.01Política y democracia.md",
+    "INTRO.md",
+    "07-Historia/07 Historia.md",
+    "07-Historia/07.08 22 de julio de 2011.md",
+    "07-Historia/07.07 OL.md",
+    "07-Historia/07.06 Petroleo.md",
+    "07-Historia/07.05 Segunda Guerra Mundial.md",
+    "07-Historia/07.04 Constitución.md",
+    "07-Historia/07.03 Romanticismo nacional.md",
+    "07-Historia/07.02 Sindicatos.md",
+    "07-Historia/07.01 La era vikinga.md",
+    "05-Salud/05 Salud.md",
+    "06-Esto es noruega/06 Esto es noruega.md",
+    "06-Esto es noruega/06.13 Unidades de medida.md",
+    "06-Esto es noruega/06.12 Tiempo y clima.md",
+    "Sociedad Noruega/La vida laboral",
+    "Sociedad Noruega",
+    "INTRO.epub"
+  ]
+}
