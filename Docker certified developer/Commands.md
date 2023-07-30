@@ -97,4 +97,22 @@ docker inspect <container_id> or <container_name>
 docker rm <container_id> or <container_name>
 #run container and program it to be self deleted once its lifecycle is finished
 docker run --rm <container_id> or <container_name>
+
+docker kill $(docker ps -q)
+
+# kill all running containers
+docker kill $(docker ps -q)
+# delete all stopped containers
+docker rm $(docker ps -a -q)
+#delete all images with 
+docker rmi $(docker images -q)
+#update and stop a container that is in a crash-loop
+docker update –restart=no && docker stop
+# bash shell into container 
+docker exec -i -t /bin/bash**_ – if bash is not available use /bin/sh
+# bash shell with root if container is running in a different user context 
+docker exec -i -t -u root /bin/bash
 ```
+
+
+
