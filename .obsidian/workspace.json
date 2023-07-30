@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "0aae044a6bbb9caf",
+            "id": "ce6176f975cf8650",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 369.5
   },
   "right": {
     "id": "53f9ffd5d1c6e699",
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +198,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0aae044a6bbb9caf",
+  "active": "ce6176f975cf8650",
   "lastOpenFiles": [
+    "Docker certified developer/Docker certified developer.md",
+    "Docker certified developer/Commands.md",
+    "Docker certified developer/Resources/DockerNetworking.png",
+    "Docker certified developer/Resources/Pasted image 20230730175013 1.png",
+    "Docker certified developer/Networking.md",
+    "Resources/Pasted.md",
+    "Resources",
+    "().md",
     "Untitled.md",
     "Samfunnsakp norge/sam.html",
     "Sociedad Noruega/08-Política y democracia/08.08 Servicios públicos.md",
@@ -224,20 +231,13 @@
     "Sociedad Noruega/06-Esto es noruega/06.06 Geografía.md",
     "Sociedad Noruega/06-Esto es noruega/06.04 La poblacion.md",
     "Sociedad Noruega/06-Esto es noruega/06.03 Días importantes.md",
-    "Sociedad Noruega/06-Esto es noruega/06.02 Svalbard.md",
-    "Sociedad Noruega/06-Esto es noruega/06.010 Famosos noruegos.md",
-    "Sociedad Noruega/06-Esto es noruega/06.01 Montañas y glaciares.md",
-    "Sociedad Noruega/06-Esto es noruega/06 Esto es noruega.md",
     "Sociedad Noruega/06-Esto es noruega",
-    "Sociedad Noruega/04-Familia y ocio/Matrimonio.md",
     "Sociedad Noruega/04-Familia y ocio",
     "Sociedad Noruega/03-Fe y vision de la vida",
     "Sociedad Noruega/02-Escuela y educacion",
     "Sociedad Noruega/07-Historia",
     "Sociedad Noruega/05-Salud",
     "Sociedad Noruega/01-La vida laboral",
-    "Samfunnsakp norge/08-Politikk og demokrati",
-    "Docker certified developer/Resources/Pasted image 20230730175013.png",
     "Docker certified developer/Resources/Pasted image 20230729193259.png",
     "Docker certified developer/Resources/Pasted image 20230729193353.png",
     "Docker certified developer/Resources/Pasted image 20230729193305.png",
@@ -246,7 +246,6 @@
     "Docker certified developer/Resources/Pasted image 20230729193454.png",
     "export/AI_FORUM/AI FORUM/rsc/task_rabbit.png",
     "export/AI_FORUM/AI FORUM/rsc/paper_data.png",
-    "export/AI_FORUM/AI FORUM/rsc/midjourney_color.png",
     "Untitled.canvas"
   ]
 }
