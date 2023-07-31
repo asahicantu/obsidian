@@ -59,11 +59,14 @@ daemon.json
 ```bash
 systemctl start docker
 systemctl status docker
+docker info | grep  "Storage Driver"
+
 ```
 
 ### Change storage driver using dockerd
 ```bash
 systemctl stop docker
+dockerd --info
 cd /etc/docker/
 rm daemon.json
 dockerd --storage-driver devicemapper
@@ -94,3 +97,54 @@ Data is translated by Volume Driver plug-in, which is then accessed by the Conta
 	* Stored in the host system;s memory 
 ![DockerManagedData](./Resources/DockerManagedData.png)
 
+```bash
+docker volume create test_volume
+docker run -itd  --volume test_volume:/app --name master nginx
+docker exec master bash
+cd app
+apt upgrade
+apt install vim
+touch file
+vim file "This is a test file"
+echo "This is another file" > log.log
+docker volume inspect test_Volume
+docker volume rm test_volume
+docker rm master
+docker volume rm test_volume
+#can also create volumes automatically
+docker run -itd --rm --volume test_vol2:/app2 --name master nginx
+docker run -itd --rm --mouht source=test_vol2,target=/appl2 --mount source=test_vol3,target=/appl3 --name master nginx
+docker volume prune
+
+```
+Generated file can be located at:
+\\wsl.localhost\docker-desktop-data\data\docker\volumes\test_volume\_data
+
+## Docker Bindmounts
+
+* A file or directory on the host machine is mounted into a container
+* Can't use Docker CLI commands to directlly manage bind mounts
+* Sharing configuration files, source code or artifacts from the host machine to containers
+* Difference between --volume  (creates the volume) and --mount (infers existence) behaviour
+```bash
+docker run -itd --rm --volume /home/mount/test_vol3:/app --name master nginx
+docker exec -it master bash
+cd app
+echo "fssdf" > file.txt
+docker run -itd --rm --mount type=bind,source=/var/lib/docker/volumes/test_vol3/_data/config.txt,target=/app/config.cfg --volume /home/mount/test_vol3:/app --name master2 nginx
+```
+
+## Tmpfs mounts
+* Temporary, only persists in the host memory
+* When container stops, tmpfs mount is removed
+* If a contianer is commited, the tmpfs mount is not saved
+* Available only in Docker on Linux
+```bash
+docker run -itd --tmpfs  /app tomcat
+docker run -itd --mount type=tmpfs,destination=/app  tomcat
+```
+## External storage
+* Volume plug-ins enable engine deployments to be integrated weith external storage systems
+* Enables data volumes to persist beyond the lifetime of a single Docker host
+* List of Available Volume Plugins [here](https:://docs.docker.com/engine/extend/legacy_plugins)
+* Use existing drivers or write new drivers to allow underlying storage to interface with docker
