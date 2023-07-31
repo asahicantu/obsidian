@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2c301ffb3290a80",
+        "id": "eb9e694457005c26",
         "type": "tabs",
         "children": [
           {
-            "id": "daa174e4c5225ccb",
+            "id": "81800ac15fab2656",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffefbad15064d9a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker certified developer/Docker Storage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aecf6c7624cb223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Norwegian/Arbeidvokabular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "53f9ffd5d1c6e699",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker certified developer/Docker Images.md",
+                "file": "Norwegian/Arbeidvokabular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker certified developer/Docker Images.md",
+                "file": "Norwegian/Arbeidvokabular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker certified developer/Docker Images.md"
+                "file": "Norwegian/Arbeidvokabular.md"
               }
             }
           }
@@ -151,12 +175,30 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "daa174e4c5225ccb",
+  "active": "1aecf6c7624cb223",
   "lastOpenFiles": [
+    "Docker certified developer/Docker Storage.md",
+    "Norwegian/Arbeidvokabular.md",
+    "Norwegian",
+    "Docker certified developer/Resources/DockerStorage.png",
+    "Docker certified developer/Resources/DockerManagedData.png",
+    "Docker certified developer/Resources/DockerVM.png",
+    "Docker certified developer/Resources/DockerPersistentStorage.png",
+    "Docker certified developer/Docker Images.md",
+    "202307302053.md",
+    "Docker certified developer/Resources/Untitled.md",
+    "Docker certified developer/Resources/BuildDockerImage/index.html",
+    "Docker certified developer/Resources/BuildDockerImage/Nytt tekstdokument.txt",
+    "Docker certified developer/Resources/BuildDockerImage/Dockerfile",
+    "Docker certified developer/Resources/BuildDockerImage",
+    "Docker certified developer/Resources/Ny mappe",
+    "Docker certified developer/Ny mappe",
+    "Docker certified developer/Resources/Nytt tekstdokument.txt",
+    "202307302051.md",
+    "202307302050.md",
     "Docker certified developer/Overview.md",
     "Docker certified developer/Networking.md",
     "202307302026.md",
-    "Docker certified developer/Docker Images.md",
     "Docker certified developer/Resources/DockerLayeredFileSystem.png",
     "202307302023.md",
     "Docker certified developer/Resources/DockerRegistryServer.png",
@@ -177,28 +219,10 @@
     "202307301719.md",
     "Docker certified developer/Resources/DockerNetworkingOverlay.png",
     "Docker certified developer/Commands.md",
-    "Docker certified developer/Resources/DockerVM.png",
     "Docker certified developer/Resources/Pasted image 20230729193500.png",
     "Docker certified developer/Resources/DockerArchitecture.png",
     "Docker certified developer/Resources/DockerNetworking.png",
-    "Docker certified developer/Resources/DockerHost.png",
-    "Docker certified developer/Resources/DockerHost2.png",
-    "Docker certified developer/Resources/Pasted image 20230730175013 1.png",
     "Resources/Pasted.md",
-    "Resources",
-    "Untitled.md",
-    "Samfunnsakp norge/sam.html",
-    "Sociedad Noruega/08-Política y democracia/08.08 Servicios públicos.md",
-    "Sociedad Noruega/08-Política y democracia/08.10 Los partidos noruegos.md",
-    "Sociedad Noruega/08-Política y democracia/08.09 Inmigración.md",
-    "Sociedad Noruega/08-Política y democracia/08.07 Igualdad.md",
-    "Sociedad Noruega/08-Política y democracia/08.05 Organización.md",
-    "Sociedad Noruega/08-Política y democracia",
-    "Sociedad Noruega/06-Esto es noruega",
-    "Sociedad Noruega/04-Familia y ocio",
-    "Sociedad Noruega/03-Fe y vision de la vida",
-    "Sociedad Noruega/02-Escuela y educacion",
-    "Sociedad Noruega/07-Historia",
-    "Sociedad Noruega/05-Salud"
+    "Resources"
   ]
 }
