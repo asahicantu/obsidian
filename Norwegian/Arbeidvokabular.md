@@ -1,4 +1,4 @@
-|                 **Ord**                                 |                              **Oversetter**                      |
+|Ord|Oversetter|
 |-----------------------------------------------------|--------------------------------------------------------------|
 | et selskap                                          | a company                                                    |
 | en bedrift                                          | a company                                                    |
@@ -32,3 +32,30 @@
 | å avslutte                                          | to terminate                                                 |
 | å avslutte arbeidsforholdet                         | to terminate the employment relationship                     |
 | å avslutte arbeidsforholdet med en oppsigelse       | to terminate the employment relationship with a notice       |
+| tariffavtale                                        | collective agreement                                         |
+| Stillingbrøk                                        | Position fraction                                            |
+| en stillingsprosent                                 | a position                                                   |   
+| en stillingsstørrelse                               | a position                                                   |
+| en stillingsstørrelse på 100 %                      | a position of 100%                                           |
+| en stillingsstørrelse på 50 %                       | a position of 50%                                            |
+| foreldrepermisjon                                   | parental leave                                               |
+| en foreldrepermisjon                                | a parental leave                                             |
+| en fødselspermisjon                                 | a maternity leave                                            |
+| en fødselspermisjon                                 | a maternity leave                                            |
+| en omsorgspermisjon                                 | a care leave                                                 |
+| ukelig arbeidstid                                   | flexible working hours                                       |
+| oppsigelsesfrist                                    | notice period                                                |
+| oppsigelsesfrist                                    | notice period                                                |
+| famous                                              | berømt                                                       |
+| fagforeningsrepresentant                            | union representative                                         |
+| en fagforening                                      | a trade union                                                |
+| en arbeidstaker                                     | an employee                                                  |
+| en arbeidsgiver                                     | an employer                                                  |
+| en arbeidstakerorganisasjon                         | a trade union                                                |
+| en arbeidsgiverorganisasjon                         | an employer organization                                     |
+| en arbeidstakerorganisasjon                         | a trade union                                                |
+| en arbeidsgiverorganisasjon                         | an employer organization                                     |
+| en arbeidstakerorganisasjon                         | a trade union                                                |
+| yrke                                                | occupation                                                   |
+
+

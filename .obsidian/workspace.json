@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker certified developer/Docker Images.md",
+                "file": "Docker certified developer/Docker Compose.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ffefbad15064d9a9",
+            "id": "a54dbad57e2edb42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker certified developer/Docker Storage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1aecf6c7624cb223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norwegian/Arbeidvokabular.md",
+                "file": "Docker certified developer/Docker Swarm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "53f9ffd5d1c6e699",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Norwegian/Arbeidvokabular.md",
+                "file": "Docker certified developer/Docker Swarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Norwegian/Arbeidvokabular.md",
+                "file": "Docker certified developer/Docker Swarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Norwegian/Arbeidvokabular.md"
+                "file": "Docker certified developer/Docker Swarm.md"
               }
             }
           }
@@ -175,29 +164,39 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1aecf6c7624cb223",
+  "active": "a54dbad57e2edb42",
   "lastOpenFiles": [
-    "Docker certified developer/Docker Storage.md",
-    "Norwegian/Arbeidvokabular.md",
-    "Norwegian",
-    "Docker certified developer/Resources/DockerStorage.png",
-    "Docker certified developer/Resources/DockerManagedData.png",
-    "Docker certified developer/Resources/DockerVM.png",
-    "Docker certified developer/Resources/DockerPersistentStorage.png",
+    "Docker certified developer/Docker Compose.md",
+    "Docker certified developer/Docker Swarm.md",
+    "Docker certified developer/Resources/DockerCompose/ExecuteCompose.ps1",
+    "Docker certified developer/Resources/DockerCompose/mypythonapp/dbConnect.py.367019144ffc5ae830767f939aaa48ee.tmp",
+    "Docker certified developer/Resources/DockerCompose/mypythonapp/wait-for-mysql.sh",
+    "Docker certified developer/Resources/DockerCompose/mypythonapp/wait-for-myusql.sh",
+    "Docker certified developer/Resources/DockerCompose/mypythonapp/keepAlive.py",
+    "Docker certified developer/Resources/DockerCompose/mypythonapp/Dockerfile",
+    "Docker certified developer/Resources/DockerCompose/mypythonapp/docker-compose.yml",
+    "Docker certified developer/Resources/DockerCompose/mypythonapp/dbConnect.py",
+    "Docker certified developer/Resources/DockerCompose/mypythonapp",
+    "Docker certified developer/Resources/DockerCompose/buildPeopleDB.ps1",
+    "Docker certified developer/Resources/DockerCompose/mysql/Dockerfile.yaml.md",
+    "Docker certified developer/Resources/DockerArchitecture.png",
+    "Docker certified developer/Resources/DockerComposeArchitecture.png",
     "Docker certified developer/Docker Images.md",
-    "202307302053.md",
-    "Docker certified developer/Resources/Untitled.md",
-    "Docker certified developer/Resources/BuildDockerImage/index.html",
-    "Docker certified developer/Resources/BuildDockerImage/Nytt tekstdokument.txt",
-    "Docker certified developer/Resources/BuildDockerImage/Dockerfile",
-    "Docker certified developer/Resources/BuildDockerImage",
-    "Docker certified developer/Resources/Ny mappe",
-    "Docker certified developer/Ny mappe",
-    "Docker certified developer/Resources/Nytt tekstdokument.txt",
+    "Docker certified developer/Docker Storage.md",
+    "Docker certified developer/Networking.md",
+    "Docker certified developer/Overview.md",
+    "rsc/Pasted image 20230328180305.png.md",
+    "rsc/Pasted image 20230328165816.png.md",
+    "Norwegian/Arbeidvokabular.md",
+    "Docker certified developer/Resources/DockerVM.png",
     "202307302051.md",
     "202307302050.md",
-    "Docker certified developer/Overview.md",
-    "Docker certified developer/Networking.md",
+    "202307311348.md",
+    "Docker certified developer/Resources/DockerStorage.png",
+    "Docker certified developer/Resources/DockerManagedData.png",
+    "Docker certified developer/Resources/DockerPersistentStorage.png",
+    "202307302053.md",
+    "Docker certified developer/Resources/Untitled.md",
     "202307302026.md",
     "Docker certified developer/Resources/DockerLayeredFileSystem.png",
     "202307302023.md",
@@ -207,22 +206,12 @@
     "README.md",
     "GAI.md",
     "AI FORUM/AI_FORUM.md",
-    "AI FORUM/uncanny.mp4",
     "This is new note.md",
     "Untitled.canvas",
     "Comma.md",
     "().md",
     "202307301718.md",
-    "202307302019.md",
-    "202307302018.md",
-    "202307301720.md",
-    "202307301719.md",
     "Docker certified developer/Resources/DockerNetworkingOverlay.png",
-    "Docker certified developer/Commands.md",
-    "Docker certified developer/Resources/Pasted image 20230729193500.png",
-    "Docker certified developer/Resources/DockerArchitecture.png",
-    "Docker certified developer/Resources/DockerNetworking.png",
-    "Resources/Pasted.md",
-    "Resources"
+    "Docker certified developer/Resources/Pasted image 20230729193500.png"
   ]
 }
