@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker certified developer/Docker Swarm.md",
+                "file": "Norwegian/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,13 +77,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d945150b53273656",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "53f9ffd5d1c6e699",
@@ -99,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker certified developer/Docker Swarm.md",
+                "file": "Norwegian/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker certified developer/Docker Swarm.md",
+                "file": "Norwegian/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker certified developer/Docker Swarm.md"
+                "file": "Norwegian/CV.md"
               }
             }
           }
@@ -166,8 +173,10 @@
   },
   "active": "a54dbad57e2edb42",
   "lastOpenFiles": [
-    "Docker certified developer/Docker Compose.md",
+    "Norwegian/JobSøknad.md",
+    "Norwegian/CV.md",
     "Docker certified developer/Docker Swarm.md",
+    "Docker certified developer/Docker Compose.md",
     "Docker certified developer/Resources/DockerCompose/ExecuteCompose.ps1",
     "Docker certified developer/Resources/DockerCompose/mypythonapp/dbConnect.py.367019144ffc5ae830767f939aaa48ee.tmp",
     "Docker certified developer/Resources/DockerCompose/mypythonapp/wait-for-mysql.sh",
@@ -209,8 +218,6 @@
     "This is new note.md",
     "Untitled.canvas",
     "Comma.md",
-    "().md",
-    "202307301718.md",
     "Docker certified developer/Resources/DockerNetworkingOverlay.png",
     "Docker certified developer/Resources/Pasted image 20230729193500.png"
   ]
