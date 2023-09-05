@@ -4,35 +4,152 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9e694457005c26",
-        "type": "tabs",
+        "id": "c801f010353e4a33",
+        "type": "split",
         "children": [
           {
-            "id": "81800ac15fab2656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker certified developer/Docker Compose.md",
-                "mode": "source",
-                "source": false
+            "id": "0ad3c2aa368fad5b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3a45c2a2a7c0f5e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/Components and Interfaces.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e0b5a78e67da0602",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/Flashcards example.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5eacc4e64f1b7c7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/QuaSAr.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f9ebde29ffd1b6db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/QuaSAr.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "004092a1e1914005",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/Sequence Diagrams.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "52f5cae6f8ffb8e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/AArchitecture.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4f947501364600de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/AArchitecture.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "52ebbc4b0eb62bce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/Quality.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "68998bc55f0f91c3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/non-functional requirements.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3fd64ce0d8fea90c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Software Engineering and design advanced/Software Architecture Views.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "a54dbad57e2edb42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Norwegian/CV.md",
-                "mode": "source",
-                "source": false
+            "id": "bdaa805ab8366871",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef5eac89a36e9db5",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -106,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Norwegian/CV.md",
+                "file": "Software Engineering and design advanced/QuaSAr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Norwegian/CV.md",
+                "file": "Software Engineering and design advanced/QuaSAr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +263,48 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Norwegian/CV.md"
+                "file": "Software Engineering and design advanced/QuaSAr.md"
               }
             }
+          },
+          {
+            "id": "cb7e35c8f34109dc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "274e91b481ed7364",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "409b18b5e97d1754",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba74628b7f42d075",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,57 +317,67 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "whisper:Open recording controls": false,
+      "obsidian-tts:Text to Speech": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "flashcard-learning:Review flashcards": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Week plan": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "a54dbad57e2edb42",
+  "active": "f9ebde29ffd1b6db",
   "lastOpenFiles": [
-    "Norwegian/JobSøknad.md",
-    "Norwegian/CV.md",
-    "Docker certified developer/Docker Swarm.md",
+    "Software Engineering and design advanced/Components and Interfaces.md",
+    "Software Engineering and design advanced/Sequence Diagrams.md",
+    "Software Engineering and design advanced/QuaSAr.md",
+    "Software Engineering and design advanced/AArchitecture.md",
+    "Software Engineering and design advanced/Quality.md",
+    "Software Engineering and design advanced/non-functional requirements.md",
+    "Software Engineering and design advanced/Software Architecture Views.md",
+    "Software Engineering and design advanced/ATAM.md",
+    "Day Planners/Day Planner-20230905.md",
+    "Software Engineering and design advanced/Flashcards example.md",
+    "Software Engineering and design advanced/SEDA Overview.md",
+    "Docker certified developer/Docker Storage.md",
+    "Software Engineering and design advanced/Quality assurance of sofware architetures.md",
+    "Software Engineering and design advanced/Software Design Overview.md",
+    "README.md",
+    "Untitled 1.md",
+    "Software Engineering and design advanced/[Docker.md",
+    "Software Engineering and design advanced",
+    "Day Planners/Day Planner-20230904.md",
     "Docker certified developer/Docker Compose.md",
+    "Docker certified developer/Commands.md",
+    "Day Planners/Day Planner-20230831.md",
+    "Docker certified developer/Docker Images.md",
+    "Docker certified developer/Networking.md",
+    "Day Planners/Day Planner-20230830.md",
+    "Docker certified developer/Overview.md",
+    "Docker certified developer/Resources/Docker Repositories.md",
+    "Docker certified developer/Resources/DockerNetworking.png",
+    "Docker certified developer/Resources/DockerNetworkingOverlay.png",
+    "Docker certified developer/Resources/DockerLayeredFileSystem.png",
+    "Docker certified developer/Resources/DockerComposeArchitecture.png",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Darken background color.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Day Planners",
+    "Docker certified developer/Resources/Untitled",
     "Docker certified developer/Resources/DockerCompose/ExecuteCompose.ps1",
     "Docker certified developer/Resources/DockerCompose/mypythonapp/dbConnect.py.367019144ffc5ae830767f939aaa48ee.tmp",
     "Docker certified developer/Resources/DockerCompose/mypythonapp/wait-for-mysql.sh",
     "Docker certified developer/Resources/DockerCompose/mypythonapp/wait-for-myusql.sh",
-    "Docker certified developer/Resources/DockerCompose/mypythonapp/keepAlive.py",
-    "Docker certified developer/Resources/DockerCompose/mypythonapp/Dockerfile",
-    "Docker certified developer/Resources/DockerCompose/mypythonapp/docker-compose.yml",
-    "Docker certified developer/Resources/DockerCompose/mypythonapp/dbConnect.py",
-    "Docker certified developer/Resources/DockerCompose/mypythonapp",
-    "Docker certified developer/Resources/DockerCompose/buildPeopleDB.ps1",
-    "Docker certified developer/Resources/DockerCompose/mysql/Dockerfile.yaml.md",
-    "Docker certified developer/Resources/DockerArchitecture.png",
-    "Docker certified developer/Resources/DockerComposeArchitecture.png",
-    "Docker certified developer/Docker Images.md",
-    "Docker certified developer/Docker Storage.md",
-    "Docker certified developer/Networking.md",
-    "Docker certified developer/Overview.md",
-    "rsc/Pasted image 20230328180305.png.md",
-    "rsc/Pasted image 20230328165816.png.md",
-    "Norwegian/Arbeidvokabular.md",
-    "Docker certified developer/Resources/DockerVM.png",
-    "202307302051.md",
-    "202307302050.md",
-    "202307311348.md",
-    "Docker certified developer/Resources/DockerStorage.png",
-    "Docker certified developer/Resources/DockerManagedData.png",
-    "Docker certified developer/Resources/DockerPersistentStorage.png",
-    "202307302053.md",
-    "Docker certified developer/Resources/Untitled.md",
-    "202307302026.md",
-    "Docker certified developer/Resources/DockerLayeredFileSystem.png",
-    "202307302023.md",
-    "Docker certified developer/Resources/DockerRegistryServer.png",
-    "The sparks of AI.md",
-    "TagDocToProject.md",
-    "README.md",
-    "GAI.md",
-    "AI FORUM/AI_FORUM.md",
-    "This is new note.md",
-    "Untitled.canvas",
-    "Comma.md",
-    "Docker certified developer/Resources/DockerNetworkingOverlay.png",
-    "Docker certified developer/Resources/Pasted image 20230729193500.png"
+    "Untitled.canvas"
   ]
 }

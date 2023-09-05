@@ -1,5 +1,5 @@
 
-Are the building blocks through which containers are built.
+Building blocks through which containers are built.
 * Read-only template with instructions for running a docker container
 * Writable layer gets created once a container is spun from an image
 * Repositories hold multiple images

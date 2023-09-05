@@ -28,11 +28,24 @@ docker info | grep "Storage Driver"
 
 ___
 ## Storage drivers
-* Overlay2 - Preferred storage driver
-* Aufs
-* Devicemapper
-* Btrfs & zfs
-* Vfs
+
+[https://docs.docker.com/storage/storagedriver/select-storage-driver/](https://docs.docker.com/storage/storagedriver/select-storage-driver/)
+
+| Type         | Access level | Description                                          |
+| ------------ | ------------ | ---------------------------------------------------- |
+| Overlay2     | File         | Uses memory more efficiently                         |
+| Aufs         |              |                                                      |
+| DeviceMapper | Block        | Better for heacy workloads write ops                 |
+| Btrfs        | Block        | Better for heacy workloads write ops                 |
+| Vfs          |              |                                                      |
+| Zfs          | Block        | good choice for high-density workloads such as PaaS. |
+|              |              |                                                      |
+|              |              |                                                      |
+- `overlay2` operates at the file level rather than the block level. This uses memory more efficiently, but the container's writable layer may grow quite large in write-heavy workloads.
+- Block-level storage drivers such as `devicemapper`, `btrfs`, and `zfs` perform better for write-heavy workloads (though not as well as Docker volumes).
+- `btrfs` and `zfs` require a lot of memory.
+- `zfs` is a 
+
 ### To change storage driver:
 * Export data
 * Stop docker

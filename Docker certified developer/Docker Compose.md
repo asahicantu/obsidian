@@ -1,4 +1,4 @@
-Is a tool for defining and runnign multi-container Docker applications
+Is a tool for defining and running multi-container Docker applications
 Allows the use of YAML to configure applications services
 With a single command it allows to start all the services with a single configuration
 

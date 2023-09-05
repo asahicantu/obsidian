@@ -1,4 +1,7 @@
--   Install for Centos
+## Shortcuts
+* CTRL + P + Q  : When in command line this command exits the container without exiting the terminal
+
+Install for Centos
 ```bash
   Yum-utils
 -   Device-mapper-persistend-data
@@ -115,4 +118,14 @@ docker exec -i -t -u root /bin/bash
 ```
 
 
+## Swarm
+```bash
+docker swarm init
+docker swarm join token
+docker service ps
+docker service scale serive_name=n_replicas
+docker node ps
+docker node ls
 
+
+```
