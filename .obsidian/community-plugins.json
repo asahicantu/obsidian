@@ -25,5 +25,15 @@
   "dbfolder",
   "editing-toolbar",
   "podnotes",
-  "digitalgarden"
+  "digitalgarden",
+  "canvas-mindmap",
+  "obsidian-folder-index",
+  "obsidian-linter",
+  "obsidian-link-embed",
+  "obsidian-markmind",
+  "oz-image-plugin",
+  "obsidian-icons-plugin",
+  "obsidian-icon-shortcodes",
+  "obsidian-qrcode-plugin",
+  "simple-embeds"
 ]

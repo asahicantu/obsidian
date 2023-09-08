@@ -1,3 +1,16 @@
+[[Docker certified developer/Dockerfile|Dockerfile]]
+
+[[Docker Images]]
+
+[[Docker Registries]]
+
+[[Docker container]]
+  
+Build-Ship-Run
+CNCF (Cloud Native Computing Foundation)
+
+OCI Image standard
+
 ## Examination consists of
 * Docker
 * Docker Swarm

@@ -71,7 +71,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.17",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
     "libraryItems": [
       {
         "id": "Bi5IYJCZVsUtXXSWpl6GS",
@@ -731,7 +731,7 @@
             "containerId": null,
             "originalText": "100",
             "lineHeight": 1.391658604361542,
-            "baseline": 177
+            "baseline": 176
           }
         ],
         "id": "_EMK32IRZxnZmK5-MwRpB",
@@ -1243,7 +1243,7 @@
             "containerId": null,
             "originalText": "One Way",
             "lineHeight": 1.1663288909906169,
-            "baseline": 29
+            "baseline": 28
           }
         ],
         "id": "y7xxcTOHgJS9G-a5zLbvg",
@@ -1513,7 +1513,7 @@
             "containerId": null,
             "originalText": "Real\nGDP",
             "lineHeight": 1.275,
-            "baseline": 44
+            "baseline": 43
           },
           {
             "type": "text",
@@ -1550,7 +1550,7 @@
             "containerId": null,
             "originalText": "P",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -1671,7 +1671,7 @@
             "containerId": null,
             "originalText": "AD1",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -1708,7 +1708,7 @@
             "containerId": null,
             "originalText": "AS",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -1745,7 +1745,7 @@
             "containerId": null,
             "originalText": "D1",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -1782,7 +1782,7 @@
             "containerId": null,
             "originalText": "P1",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -1903,7 +1903,7 @@
             "containerId": null,
             "originalText": "AD2",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -2124,7 +2124,7 @@
             "containerId": null,
             "originalText": "P2",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -2161,7 +2161,7 @@
             "containerId": null,
             "originalText": "D2",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "arrow",
@@ -2294,7 +2294,7 @@
             "containerId": null,
             "originalText": "Real\nGDP",
             "lineHeight": 1.275,
-            "baseline": 44
+            "baseline": 43
           },
           {
             "type": "text",
@@ -2331,7 +2331,7 @@
             "containerId": null,
             "originalText": "P",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -2452,7 +2452,7 @@
             "containerId": null,
             "originalText": "AD1",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -2489,7 +2489,7 @@
             "containerId": null,
             "originalText": "AS",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -2526,7 +2526,7 @@
             "containerId": null,
             "originalText": "D1",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -2563,7 +2563,7 @@
             "containerId": null,
             "originalText": "P1",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -2684,7 +2684,7 @@
             "containerId": null,
             "originalText": "AD2",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -2905,7 +2905,7 @@
             "containerId": null,
             "originalText": "P2",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -2942,7 +2942,7 @@
             "containerId": null,
             "originalText": "D2",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "arrow",
@@ -3075,7 +3075,7 @@
             "containerId": null,
             "originalText": "Real\nGDP",
             "lineHeight": 1.275,
-            "baseline": 44
+            "baseline": 43
           },
           {
             "type": "text",
@@ -3112,7 +3112,7 @@
             "containerId": null,
             "originalText": "P",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -3233,7 +3233,7 @@
             "containerId": null,
             "originalText": "AD",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -3270,7 +3270,7 @@
             "containerId": null,
             "originalText": "AS",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "line",
@@ -3418,7 +3418,7 @@
             "containerId": null,
             "originalText": "De",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -3455,7 +3455,7 @@
             "containerId": null,
             "originalText": "Pe",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "95Ah8YoLKVVNacjHMn78i",
@@ -3546,7 +3546,7 @@
             "containerId": null,
             "originalText": "Real\nGDP",
             "lineHeight": 1.275,
-            "baseline": 44
+            "baseline": 43
           },
           {
             "type": "text",
@@ -3583,7 +3583,7 @@
             "containerId": null,
             "originalText": "P",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "2_f_nxLeSEK10CRou8t2b",
@@ -4550,7 +4550,7 @@
             "containerId": null,
             "originalText": "OFF",
             "lineHeight": 1.2500000000000007,
-            "baseline": 6
+            "baseline": 5
           },
           {
             "type": "rectangle",
@@ -4933,7 +4933,7 @@
             "containerId": null,
             "originalText": "OFF",
             "lineHeight": 1.2500000000000007,
-            "baseline": 6
+            "baseline": 5
           }
         ],
         "id": "7tabK7k55ocZXJq0qqMso",
@@ -6743,7 +6743,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.3083590942687764,
-            "baseline": 7
+            "baseline": 8
           },
           {
             "type": "line",
@@ -6915,7 +6915,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.3083590942687764,
-            "baseline": 7
+            "baseline": 8
           },
           {
             "type": "line",
@@ -7964,7 +7964,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.3083590942687764,
-            "baseline": 7
+            "baseline": 8
           },
           {
             "type": "rectangle",
@@ -8038,7 +8038,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.3083590942687764,
-            "baseline": 7
+            "baseline": 8
           },
           {
             "type": "text",
@@ -8077,7 +8077,7 @@
             "containerId": null,
             "originalText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis \nlacinia tellus vel euismod. Aenean eget volutpat libero. Duis ac \naugue consequat, fringilla elit ut, ullamcorper quam. Vestibulum \nante ipsum primis in faucibus orci luctus et ultrices posuere cubilia \ncurae; Nam ut nisi accumsan, eleifend dolor a, fermentum dui.\nAenean non consequat neque. In ac tortor convallis mauris auctor \nmaximus.",
             "lineHeight": 1.2298067371144559,
-            "baseline": 56
+            "baseline": 57
           },
           {
             "type": "line",
@@ -12040,7 +12040,7 @@
             "containerId": null,
             "originalText": "Person Name",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "PWRJOdtaexU9aRYZEgjkP",
@@ -12112,7 +12112,7 @@
             "containerId": null,
             "originalText": "Team Name",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "rectangle",
@@ -12242,7 +12242,7 @@
             "containerId": null,
             "originalText": "Team Name",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "rectangle",
@@ -12399,7 +12399,7 @@
             "containerId": null,
             "originalText": "Team Name",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "Sffh14R8Bgmsx1mTlUE3U",
@@ -12498,7 +12498,7 @@
             "containerId": null,
             "originalText": "Team Name",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "T9oCppoTFdQyp3C83XSPk",
@@ -12605,7 +12605,7 @@
             "containerId": null,
             "originalText": "Area",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -12644,7 +12644,7 @@
             "containerId": null,
             "originalText": "Person Name",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "LGZ16xg5F1GE1emzIabQs",
@@ -12720,7 +12720,7 @@
             "containerId": null,
             "originalText": "Person Name",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -12759,7 +12759,7 @@
             "containerId": null,
             "originalText": "Area",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "jnA1V3KboM-nRTtlUDRDq",
@@ -12901,7 +12901,7 @@
             "containerId": null,
             "originalText": "Person Name",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -12938,7 +12938,7 @@
             "containerId": null,
             "originalText": "Role / Area",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           },
           {
             "type": "text",
@@ -12977,7 +12977,7 @@
             "containerId": "ORBVXHyoDSGPiQI2LcOLq",
             "originalText": "PHOTO",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "WVlLJsYD3vCwrHukUfZ3J",
@@ -13129,7 +13129,7 @@
             "containerId": null,
             "originalText": "Person Name",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -13166,7 +13166,7 @@
             "containerId": null,
             "originalText": "Role",
             "lineHeight": 1.25,
-            "baseline": 25
+            "baseline": 24
           },
           {
             "type": "text",
@@ -13205,7 +13205,7 @@
             "containerId": "0jbNB4SLQ0oQDcf5dDgAg",
             "originalText": "PHOTO",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "oc5Q700JJ2XLKeHi7bY5X",
@@ -13702,7 +13702,7 @@
             "containerId": null,
             "originalText": "Web App",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "mMDGsGyXKMT5YxtBMsYJL",
@@ -14140,7 +14140,7 @@
             "containerId": null,
             "originalText": "App Service\nEnvironment",
             "lineHeight": 1.25,
-            "baseline": 43
+            "baseline": 41
           }
         ],
         "id": "CuuEY1d9IZp3l_keAXhpS",
@@ -14586,7 +14586,7 @@
             "containerId": null,
             "originalText": "API App",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "m4QmDtWy-LeegVJIBsC_e",
@@ -15098,7 +15098,7 @@
             "containerId": null,
             "originalText": "Web App",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "TI18HK8CAjmQ5Aat1hWD7",
@@ -15527,7 +15527,7 @@
             "containerId": null,
             "originalText": "Repos",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "Ny70zBbjctQDoTeAoKjvc",
@@ -15875,7 +15875,7 @@
             "containerId": null,
             "originalText": "Boards",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 16
           }
         ],
         "id": "b4DJ1ZdUUKQYevRi5N2xy",
@@ -22356,7 +22356,7 @@
             "containerId": null,
             "originalText": "x",
             "lineHeight": 1.2,
-            "baseline": 17
+            "baseline": 16
           },
           {
             "type": "text",
@@ -22395,7 +22395,7 @@
             "containerId": null,
             "originalText": "y",
             "lineHeight": 1.2,
-            "baseline": 17
+            "baseline": 16
           },
           {
             "type": "text",
@@ -22434,7 +22434,7 @@
             "containerId": null,
             "originalText": "z",
             "lineHeight": 1.2,
-            "baseline": 17
+            "baseline": 16
           },
           {
             "type": "line",
@@ -35624,7 +35624,7 @@
             "containerId": null,
             "originalText": "x",
             "lineHeight": 1.2,
-            "baseline": 17
+            "baseline": 16
           },
           {
             "type": "text",
@@ -35663,7 +35663,7 @@
             "containerId": null,
             "originalText": "z",
             "lineHeight": 1.2,
-            "baseline": 17
+            "baseline": 16
           },
           {
             "type": "text",
@@ -35702,7 +35702,7 @@
             "containerId": null,
             "originalText": "y",
             "lineHeight": 1.2,
-            "baseline": 17
+            "baseline": 16
           }
         ],
         "created": 1680957643805,

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3b22780bc7f42153","x":-240,"y":-440,"width":300,"height":60,"type":"text","text":"This is first example\n"},
+		{"id":"d2527fc84fce7430","x":-120,"y":-60,"width":250,"height":60,"type":"text","text":""},
+		{"id":"22da71875ebabf0e","x":-290,"y":60,"width":400,"height":400,"type":"file","file":"rsc/rsc.md"}
+	],
+	"edges":[
+		{"id":"7dd1daff8ee41f2f","fromNode":"d2527fc84fce7430","fromSide":"top","toNode":"3b22780bc7f42153","toSide":"bottom"},
+		{"id":"ce032bee88d9a2f9","fromNode":"d2527fc84fce7430","fromSide":"bottom","toNode":"22da71875ebabf0e","toSide":"top"}
+	]
+}

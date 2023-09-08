@@ -175,7 +175,15 @@ USing -> Maping using enityt types only
 Decoupling components , 
 
 Simple transfer object
-Composite transger object
+Composite transfer
+
+### Transactions
+#### A Transaction
+Native concept from the BL perspective
+Free of technical transaction details
+
+
+#### T Transaction
 
 > [!abstract]+
 > Abstract example

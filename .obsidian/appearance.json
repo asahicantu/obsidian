@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 24,
-  "cssTheme": "Dark Moss"
+  "cssTheme": "Dark Moss",
+  "enabledCssSnippets": [
+    "icons"
+  ]
 }

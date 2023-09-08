@@ -19,7 +19,7 @@ Things are getting weird
 
 GAI != AGI
 
-![[AGI.png|700]]
+![[rsc/AI/AGI.png|700]]
 
 ---
 # Generative AI
@@ -33,7 +33,7 @@ GAI != AGI
 * PALM
 ---
  #  Offline Generative AI
-![[llama.png]]
+![[rsc/AI/llama.png]]
 
 ---
 
@@ -53,16 +53,16 @@ More than 100m users first 2 months
 
 # GPT-4...
 
-![[task_rabbit.png]]
+![[rsc/AI/task_rabbit.png]]
 
 ---
 # GPT-4...
 
-![[arc_cyber.png]]
+![[rsc/AI/arc_cyber.png]]
 ---
 # Security Tests 
 [gpt-4.pdf (openai.com)](https://cdn.openai.com/papers/gpt-4.pdf)
-![[openai_gpt_train_paper.png|600]]
+![[rsc/AI/openai_gpt_train_paper.png|600]]
 ---
 
 # Chat GPT
@@ -127,7 +127,7 @@ Biased data (We were not ready)
 ---
 # Problems
 
-  ![[paper_data.png]]
+  ![[rsc/AI/paper_data.png]]
 
 
 
@@ -137,26 +137,26 @@ Biased data (We were not ready)
 
 ([Link to paper](https://arxiv.org/pdf/2303.12712.pdf))
 
-![[openai_agi_paper_1.png|600]]
+![[rsc/AI/openai_agi_paper_1.png|600]]
 
 ---
 # Sparks of AGI
 
-![[openai_agi_paper_2.png|600]]
+![[rsc/AI/openai_agi_paper_2.png|600]]
 
 ---
 # AI and emotions?
 
-![[gpt_emotion.png|500]]
+![[rsc/AI/gpt_emotion.png|500]]
 ---
 
 # AI and creativity?
 
-![[gpt_color.png|600]]
+![[rsc/AI/gpt_color.png|600]]
 
 ---
 # From GPT Prompt to Midjourney
-![[midjourney_color.png]]
+![[rsc/AI/midjourney_color.png]]
 ---
 
 # Final Insights
@@ -171,7 +171,7 @@ Biased data (We were not ready)
 ---
 
 # Let's talk :)
-![[ai.png]]
+![[rsc/AI/ai.png]]
 ---
 
 # Apendix

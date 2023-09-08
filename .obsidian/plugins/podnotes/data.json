@@ -20,6 +20,15 @@
   "playlists": {},
   "skipBackwardLength": 15,
   "skipForwardLength": 15,
+  "currentEpisode": {
+    "title": "MyFrstCanvas",
+    "description": "",
+    "content": "",
+    "podcastName": "local file",
+    "url": "![[MyFrstCanvas.canvas]]",
+    "streamUrl": "blob:app://obsidian.md/1d24cb39-7a56-4a77-89f1-720e03a575a8",
+    "episodeDate": "2023-09-06T07:44:07.430Z"
+  },
   "timestamp": {
     "template": "- {{time}} "
   },
@@ -30,12 +39,36 @@
   "download": {
     "path": ""
   },
-  "downloadedEpisodes": {},
+  "downloadedEpisodes": {
+    "local file": [
+      {
+        "title": "MyFrstCanvas",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "![[MyFrstCanvas.canvas]]",
+        "streamUrl": "blob:app://obsidian.md/1d24cb39-7a56-4a77-89f1-720e03a575a8",
+        "episodeDate": "2023-09-06T07:44:07.430Z",
+        "filePath": "EDC-AI/MyFrstCanvas.canvas",
+        "size": 590
+      }
+    ]
+  },
   "localFiles": {
     "icon": "folder",
     "name": "Local Files",
     "shouldEpisodeRemoveAfterPlay": false,
     "shouldRepeat": false,
-    "episodes": []
+    "episodes": [
+      {
+        "title": "MyFrstCanvas",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "![[MyFrstCanvas.canvas]]",
+        "streamUrl": "blob:app://obsidian.md/1d24cb39-7a56-4a77-89f1-720e03a575a8",
+        "episodeDate": "2023-09-06T07:44:07.430Z"
+      }
+    ]
   }
 }

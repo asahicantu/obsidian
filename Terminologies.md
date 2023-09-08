@@ -1,0 +1,3 @@
+# Terminologies
+## BL
+Business Logic~
