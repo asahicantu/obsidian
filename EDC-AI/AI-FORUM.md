@@ -8,15 +8,32 @@ enableTimeBar: "true"
 timeForPresentation: "2700"
 enableOverview: "true"
 enableChalkboard: "true"
+css: [css/videolayout.css]
 ---
 # AI / AGI
 Automation, usability and potential consequences for society
+
+
+---
+
+<iframe width="650" height="450" src="https://www.youtube.com/embed/jg9OqtXl6OY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
+
+
+---
+
+<iframe width="650" height="450" src="https://www.youtube.com/embed/lAEkK6Cl3Ys?si=2jauUDW0gmcMMgbb&amp;start=100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>
 
 ---
 # Intro
 > "There are decades where nothing happens; and there are weeks where decades happen..."
 
 \- Vladimir Ilyich Lenin
+
+---
+[css]
+<div class="iframe-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-P-ein58laA?si=M7p1yJ2tt0UB40Av&amp;controls=0&amp;autoplay=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 <video data-autoplay controls><source src="../rsc/AI/uncanny.mp4" type="video/mp4"></video>
@@ -314,6 +331,22 @@ I've seen things, you people wouldn't believe, hmmm. 	 ... attack ships on fire 
 ---
 ## Development of
 * Emotional intelligence
+
+---
+
+## In Norway
+[Statistisk sentralbyrå (ssb.no)](https://www.ssb.no/)
+<iframe src="https://www.ssb.no/" style="width: 100%; height: 600px; border: 0px none;"></frame>
+
+---
+<iframe src="https://ourworldindata.org/explorers/food-prices?facet=none&country=NGA~BGD~IND~ETH~MEX~USA~BRA~GBR&Diet=Healthy+diet&Cost+or+Affordability=Affordability&Affordability+metric=Share+that+cannot+affordhideControls&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+---
+<iframe src="https://www.worldometers.info/demographics/norway-demographics/#life-exp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+---
+<iframe src="https://www.worldometers.info/world-population/" style="width: 100%; height: 600px; border: 0px none;" ></iframe>
 
 ---
 ## The end

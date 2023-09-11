@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+
+  mypythonapp:
+    build: .
+    depends_on:
+      - customsql
+    container_name: pythonagent
+    hostname: pythonagent
+    command: ["./wait-for-mysql.sh", "customsql", "python", "dbConnect.py", "customsql", "python", "keepAlive.py"]
+    
+  customsql:
+    container_name: customsql
+    hostname: customsql
+    command: --default-authentication-plugin=mysql_native_password
+    image: asahicantu/customsql:latest
