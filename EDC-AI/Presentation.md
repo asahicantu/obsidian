@@ -8,56 +8,48 @@ enableTimeBar: "true"
 timeForPresentation: "2700"
 enableOverview: "true"
 enableChalkboard: "true"
-css: [css/videolayout.css]
+css:
+  - css/videolayout.css
+transition: fade
+---
 ---
 # AI / AGI
 Automation, usability and potential consequences for society
-
-
----
-
-<iframe width="650" height="450" src="https://www.youtube.com/embed/jg9OqtXl6OY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
-
+> By Asahi Cantu
 
 ---
-
-<iframe width="650" height="450" src="https://www.youtube.com/embed/lAEkK6Cl3Ys?si=2jauUDW0gmcMMgbb&amp;start=100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>
-
----
-# Intro
+## Prelude
 > "There are decades where nothing happens; and there are weeks where decades happen..."
 
 \- Vladimir Ilyich Lenin
 
 ---
-[css]
-<div class="iframe-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-P-ein58laA?si=M7p1yJ2tt0UB40Av&amp;controls=0&amp;autoplay=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
----
-<video data-autoplay controls><source src="../rsc/AI/uncanny.mp4" type="video/mp4"></video>
-
+<video data-autoplay controls>
+	<source src="../rsc/AI/uncanny.mp4" type="video/mp4"/>
+</video>
 ---
 <grid drag="100 20" drop="0 0">
 ## <i class="fas fa-user"/> About me ...  
 </grid>
 
-
-
 <grid drag="40 55" drop="0 20">
-Software engineer (insert pic here...)
+* Software engineer
+*  Msc. Data science
 </grid>
 
 <grid drag="60 55" drop="40 20">
 * Capgemini
 * Fullstack dev
 * STID Project
-*  MSC Data science
 </grid>
+---
+## About...
+
+<iframe width="650" height="450" src="https://www.youtube.com/embed/-P-ein58laA?si=M7p1yJ2tt0UB40Av&amp;controls=0&amp;autoplay=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>
 
 ---
-## About AI
+## In the beginning...
 * NLP (Natural language processing)
 	* Text vectorization
 	* Summarizing
@@ -66,18 +58,8 @@ Software engineer (insert pic here...)
 	* Bidirectional Encoder Representation from Transofrmers
 
 note: 
-In 2020 I was taking  a masters degree in computer science at the university of Stavanger, I remember working in a final project involving the creation of a language model by analyzing a corpus of data and probability distributions. 
-Back in those years text analysis and data mining were mature enough that i had already acces to python packages that would perform Natural Language processing in batch processes, which require intense computing power to analyze 20 GB of text and divide such data into tokens, 
-- Sentiment analysis: the dissection of data (text, voice, etc) in order to determine whether it’s positive, neutral, or negative.
-- Named Entity Recognition: identifying and classifying named entities in text into predefined categories.
-- Text Summary: generating a summary of a given text.
-- Topic Modeling: identifying topics present in a given text.
-- Text Classification: classifying text into predefined categories.
-- Keyword Extraction: identifying and extracting important words or phrases from a given text.
-- Lemmatization and Stemming: reducing words to their base or root form.
-I remember trying to analyze in my project the sentiment of determined text that I could search from my language model to give some king of meaning or bias information in the corpus that had been extracted. 
+![[notes/Slide1]]
 
-It was indeed a difficult approach since i did not have enough computational resources to run the models with the current technology, then after googling for a bit longer I found that not so long ago google had created a pseudo-trained language model through a technology called "BERT" I realized such framework could actually give me a boost in the project I was doing, it had been trained using deep learning and extensive resources to give a pre-trained model capable already of solving the problem I was looking for. I just needed to feed it with my corpus and move straight into research. 
 
 ---
 ## About transformers
@@ -93,56 +75,66 @@ It was indeed a difficult approach since i did not have enough computational res
 * Attention / Parallel
 * Fined-Tunning (Supervised)
 
-note:
-This  research by google was indeed so meaningful, back then I did not know the impact such paper had made to the computer science and Artificial intelligence research, IT turns out that all companies realized the breakthrough of the transformers and began to make use of it When this happened researchers realized how a massive change in the world of language models and Natural Language Processing could be achieved to process and generate "knowledge", text summarization, sentiment analysys and effective machine leargning under spoken language 
-I am highlighning this because 5 years ago we were just scratching and refining the science of what today is Chat GPT, and September 2022, a community version of ChatGPT was released to the public 
+note: 
+![[Slide2]]
 
 ---
-## The advent of GPT
-GPT (Generative Pre-Trained  Transformer)
+### The advent of GPT
+Generative Pre-Trained  Transformer (Nov. 2022) 
 ![[GPT.png|300]]
 
 note:
-It was in November 2022 (Not even a year ago) that the first version of ChatGPT was released to the public, 
-as you may know by now it, broke all statistics and records for people joining and testing it.
+![[notes/Slide3]]
 
 ---
-# Grief
+# AI-Grief
 ![[Grief.png]]
 
 note: 
-so I start using it,  i start having dialogs with it, i start coding with its help and I begin to read the news... I can say that I went and still going through my grief cycle which i will tell about in this presentation. 
-I can say it has taken a lot of time to reflect and think about the future of human kind and the way the tools we are developing might create a very different future in the years to come
+![[notes/slide4]]
 
----
---
-## Denial
-* People ~(exploited)~ hired in Kenya to  tag and fine tune the content thrown by ChatGPT
-* GPT published papers (Task Rabbit) - Deceiving humans
-
---
-## Denial
-### Has AI become sentient??
-- We are asking the wrong question…
-- AI has managed to "hack the Operating System" of humans:
-	- [Language](https://youtu.be/LWiM-LuRe6w?si=5tGJP3BH-KqtSPKc&t=1787)
 
 ---
 ## Denial
+* Generative
+	* Text
+	* Image
+	* Music
+	* Video
+	* Voice
 
+---
+## Denial
+![[AI_IQ.png|700x550]]
+
+---
+## Denial
+![[GPTPaperWithQRCode.png|700x400]]
+
+---
 * 23 July 2022. Blake Lemoine, (google) gets fired for claiming that LamDA is sentient
 * In 2022 we would be certain that words were generated by humans
-[Language](https://youtu.be/LWiM-LuRe6w?si=ISbwvrDPfiOYu0FH&t=810)
+<iframe width="650" height="450" src="https://www.youtube.com/embed/LWiM-LuRe6w?si=dHDQJgeK5cghLb8s&amp;start=812" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>
+
 
 note:
 At the beginning I could not believe it, it was scary to see what the model was capable of doing, dialogs were so deep and could even see myself asking for polite questions .. 
 
 ---
-## Anger/Anxiety
+
+#### Has AI become sentient?? 
+![[QRCodeAIAndTheFutureOfHumanityHarari.png|40]]
+<iframe width="650" height="450" src="https://www.youtube.com/embed/LWiM-LuRe6w?si=dHDQJgeK5cghLb8s&amp;start=1770" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>
+
+note:
+We are asking the wrong question…
+- AI has managed to "hack the Operating System" of humans 
+---
+## Anxiety
 * March 29th 2023
 	*  Calls to stop AI research for 6 months
 * Deep fakes
-* Generative....
+* Generative  *
 
 note: So i started developing anxiety
 Start consuming lots of content about catastrophic and bad use of AI
@@ -161,41 +153,50 @@ Generative…
 		Sam altman World coin 
 		AI Agents
 
+---
+## Anxiety
+
+![[2023_LLM_SIZE.png|700x550]]
+
 
 ---
-
-## Anger/Anxiety
-
-### The worst case scenarios
-* Loss of digital identity
-* Loss of perception of reality
-* Content manipulation
-* Irresponsible development
-* Hyper's ....
----
-## Anger/Anxiety
-
-![[2023_LLM_SIZE.png]]
-
-note: 
-Explosion of LLM
+## Anxiety
+![[2023-2024_Optimal_LLM.png|700x550]]
 
 ---
-## Anger/Anxiety
-![[2023-2024_Optimal_LLM.png]]
-note: 
-Explosion of LLM
-
+### AI crime-scenarios of high concern
+* Audio/Video Impersonation
+* Driverless vehicles as weapons
+* Tailored Phishing
+* Disrupting AI controlled systems
+* Large-scale blackmail
+* Authored fake news
+---
+### AI crime-scenarios of medium concern
+* Military Robots
+* Snake oil (fraudulent services)
+* Data poisoning
+* Learning-based cyber-attacks
+* Autonomous attack drones
+* Online eviction (denial of access)
+* Tricking face recognition
+* Finanical market manipulation
+---
+### AI crime-scenarios of low concern
+* Bias exploitation
+* Burglar bots
+* Evading AI detection
+* AI-authored fake reviews
+* Forgery (fake content generation)
 ---
 ## Depression
 
 ### Are we doomed?
-* Code in github
+* Code in github (Copilots)
 * Loss of self consciousness
 * Something is  going to break  - out of control 
 ---
-## Depression
-### Will be taken by AI shortly...
+## Job-fusion
 - Transport/Supply chain
 - Medicine
 - Code
@@ -204,20 +205,19 @@ Explosion of LLM
 
 ---
 ## Barganing
-...  But machines have no feelings ...
+> ...  But machines have no feelings ...
 * No need to have "human" feelings
 
 ---
 ## Barganing
 
-... But machines cannot do...
+> ... But machines cannot do...
 
 * Technology respected so far our 5 senses
 
-
 ---
 ## Barganing
-...  But machines have cannot code as good as...
+> ...  But machines cannot code as good as...
 * (GitHub)~30-40%  of  source code is being written by AI
 	* Copilot
 ---
@@ -230,41 +230,43 @@ Explosion of LLM
 * Have own offspring
 
 ---
-## Acceptance/optimism
+## Acceptance
+* The information you consume <span style="color:red">like it or not</span> will affect your behavior
+* Beware of the emergent properties of AI
+---
+### To face problems of tremendous complexity
 
-- Abortion
+- Social inequality / Famine / Democracy / Healthcare
 - Climate change
-- Gender equality
-- Democracy
 - Child education
-- Massive
 - Immigration
+- Wars
+- Future energy
 
 ---
-## Ask
+## Acceptance
 
-Why do you believe what you believe
-(What are your values)
-
----
-## Ask
-
-When is it enough?
-<p/>
-How much is enough?
+<iframe src="https://www.worldometers.info/world-population/" style="width: 100%; height: 600px; border: 0px none;" ></iframe>
 
 ---
-## Ask
+## Acceptance
+<iframe src="https://ourworldindata.org/explorers/food-prices?facet=none&country=NGA~BGD~IND~ETH~MEX~USA~BRA~GBR&Diet=Healthy+diet&Cost+or+Affordability=Affordability&Affordability+metric=Share+that+cannot+affordhideControls&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-What makes us human?
 
 ---
-## Awareness
 
-How to stop and be satisfied with what we have
-Learn how to be satisfied - not necessarly the happiest
+## Ask  - Conceal
+
+* Why do I  believe what I believe? / What are your values?
+* When is it enough? / How much is enough?
+* What is it that makes us human?
+* Biases and their multiplier effect
+* Emotional intelligence Development
+
 
 note: 
+How to stop and be satisfied with what we have
+Learn how to be satisfied - not necessarly the happiest
 We are very good in acquiring power, but Power does not makes us happy
 
 We are unstoppable, translate power into happiness
@@ -272,87 +274,69 @@ We are unstoppable, translate power into happiness
 Think if it is really necessary to….
 The prissoners dilemma
 Second order consequences
-Beware of our biases and the multiplier effect
-
-
-
----
-## Awareness
-
 How do we define sentient, how do we still define consciousness
 sentinent [born at a certain point on time]
 ability to sense the world environment
 Awarenesss and response to the environment
 
----
-## Intelligence is now a commodity
-* Our intelligence is now outsourced
-* Every bit  of information you consume like it or not will affect your behavior
-* brainwashed over and over by the capability of the machine
-* Beware of Emergent properties of AI
-
 
 ---
-## Awareness
+##  Regulations in the near future
+
+* Make it mandatory to disclose non-human generated content
+* Government protection and regulation
+* Enterprise accountability
+* Education
+
+---
+## Find the balance
+ * Develop critical thinking
+ * Educate your loved ones
+
+---
+## Our challenges as developers
+* Use for individual benefit
+* Tagging AI generated content 
+* Selective privacy
+* Create universal accessible systems
+---
+
+## Acceptance
+#### Do not miss the wave
+* Learn to behave ethically
+* Reinforcement learning with human feedbacks
+* Do not use AI in an unethical way
+---
+## Acceptance
+* This is...
+	* Out of my control
+	* A new reality
+* But I can
+	* Spend time and teach my beloved ones
+	* Be part of the new social fabric
+
+---
+#### Epilogue...
 Madmax (1979)...
-<video controls><source src="../rsc/AI/madmax.mp4" type="video/mp4"></video>
+<video controls witdh><source src="../rsc/AI/madmax.mp4" type="video/mp4"></video>
 
 note:
 I've seen things, you people wouldn't believe, hmmm. 	 ... attack ships on fire off the shoulder of Orion. 	I've watched see Beams glitter in the dark near the Tannhauser Gate. All those moments, will be lost in time like tears in rain..." Time to die...
 
 ---
-##  Regulations in the near future
-
-* Make it mandatory to disclose that is truly an AI
-* Government needs to protect and regulate...
-* Companie's accountability
-* Education
+## The end
+### Thank you (Are you?...)
+![[CircleOfEmotions.png|300]]
 
 ---
-## Find the balance
- * Do not miss the wave
- * Develop critical thinking
- * Educate your loved ones
-
 ---
-## Short/mid term challenges 
-* Use for individual benefit
-* Tagging all AI generated content 
-* Selective privacy
-* Universal anti capital economic systems
 ---
-### Regulation of
-* Film
-* Painting
-* Video/Audio content
-* Economy of attention
-* Unfair competition for job positions
-* Risky AI
----
-## Development of
-* Emotional intelligence
-
----
-
+# Draft slides
 ## In Norway
 [Statistisk sentralbyrå (ssb.no)](https://www.ssb.no/)
 <iframe src="https://www.ssb.no/" style="width: 100%; height: 600px; border: 0px none;"></frame>
-
----
-<iframe src="https://ourworldindata.org/explorers/food-prices?facet=none&country=NGA~BGD~IND~ETH~MEX~USA~BRA~GBR&Diet=Healthy+diet&Cost+or+Affordability=Affordability&Affordability+metric=Share+that+cannot+affordhideControls&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
----
 <iframe src="https://www.worldometers.info/demographics/norway-demographics/#life-exp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-
----
-<iframe src="https://www.worldometers.info/world-population/" style="width: 100%; height: 600px; border: 0px none;" ></iframe>
-
----
-## The end
-
-* Are you concern?
----
 
 > [!tip] Callouts can have custom titles
 
@@ -481,12 +465,53 @@ Moral code
 GAI
 The inevitable
 
-## dont miss the wave
-learn to behave ethically
-Reinforcement learning with human feedbacks
 
-Dont use AI in an unethical way
-out of my control - acceptance - live fully - this is a new reality - spend time with your loved ones, enjoy the journey - things out of our control do not really matter, but our journey for life
+
+
+Biased world, word embeddings example, master s9ave, let. Lene go
+Slavery nowaday
+Africa. 
+Uganda workers for open ai
+History is told bybwinners
+Biasd in DNA
+
+CLUSTERS. OF PEOPLE COMMON GROUND, IMPORTANCE TO FIND A GEBERAL TRUE MEANING SBOUT BEING A HUMAN
+HOW MUCH DOES A HUMAN LIGE COST
+
+EUROCENTEIC/WESTERN WHITE PATRIARCHAL SOCIETY 
+
+LOOK AT STSTISTICS
+
+MYSOGINISTIC
+BCOMOUTERS WERE GENERALLY BUOLT HY THESE PEOPLE
+
+DATA CORPUS
+OUR WORLD I DATA FOR GENDER AND POPULATUON
+
+
+Towards more neutral AI
+WE ALL ARE. PART OF THE FABRIC AND FNA OF LLMS, BY OUR SOCIAL MEDIA
+FB
+TICKTOCK
+TWITTER.. ETX
+
+Our la guava has been hacked because our ability to be surprised has changed 
+Consumarism
+The true beneath being human 
+
+
+Why is sentiment analysis omportsnt
+The building blocks for corpus  analysis in our llms
+
+MY PERSONAL VOIDS
+
+
+Hostory and the manipulation of history
+
+The truth matters 
+
+drug abuse, addictions
+Behavioural addictions
 
 ---
 
@@ -790,4 +815,11 @@ title: "GitHub Copilot AI Tech Upgraded, Already Generates 61% of Java Code -- V
 image: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
 description: "GitHub has again upgraded the AI tech behind its Copilot ‘AI pair programmer,’ which reportedly already generates 61 percent of Java Code in editors where it’s used and 46 percent across all languages."
 url: "https://visualstudiomagazine.com/articles/2023/02/15/copilot-upgrade.aspx"
+```
+
+```embed
+title: "Awesome ChatGPT Prompts"
+image: "https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
+description: "This repo includes ChatGPT prompt curation to use ChatGPT better."
+url: "https://prompts.chat/"
 ```

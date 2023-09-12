@@ -306,6 +306,33 @@ With a single command it allows to start all the services with a single configur
 3. Start the entire app
 ___
 ### Install docker compose
+Can be used with docker swarm 1.13
+Useful for local developments
+```bash
+docker-compose
+docker compose up -d
+docker compose down
+```
+
+```yaml
+version: 3.1
+
+services: # Containers, docker run...
+	servicename: # Friendly name
+		image: # Optional if build is used
+		command: # Optional, replace the default CMD specified by the image
+		environment: # Optional, same as -e in docker run
+			ENV_VAR_NAME: example
+		volumes: # Optional, same as -v in docker run
+			- .:/site
+			- ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+		ports:
+			- 80:8080
+		depends_on:
+	servicename2:
+volumes: # optional
+networks: #optional
+```
 ```bash
 sudo curl -L https://github.com/docker/compose/releases/download/<compose_version> /docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose
 # add executable permissions to the binary
@@ -631,43 +658,107 @@ docker run -itd --mount type=tmpfs,destination=/app  tomcat
 
 
 ## Docker Swarm
+Group of machines that are running Docker and joined into a cluster, can be physical or virtual
+* Secure by default
+* No need to install additionall tools
+* Swarmkit is builtin
+
+```bash
+docker swarm
+docker node
+docker service
+docker stack
+docker secret
+```
 
 ### Orchestration
+#### Managers
+Handle clusters
+TLS/Certificate Authority
+Encrypt the traffic
+Managers can be workers
+##### Manager node elements
+Running in raft mode
+###### API
+Accepts command from client and creates service object
+###### Orchestrator
+REconciliation loop for service objects and creates tasks
+###### Allocator
+Allocates IP Addresses to tasks
+###### Scheduler
+Assignes nodes to tasks
+###### Dispatcher
+Checks in on workers (health)
+#### Workers
+Receive an executable task
+Contain TLS
+##### Worker
+Connects to dispatcher to check on assgned tasks
+##### Executor
+Executes the tasks assigned to worker node
 
-A swarm is a group of machines that are running Docker and joined into a cluster, can be physical or virtual
-Secure by default
-No need to install additionall tools
-Swarmkit is builtin
 
-A swarm consists of multiple docker hosts. Act as managers and workers
-Manager nodes handle clusters
-Worker nodes receive an executable task
+
+#### Services
+Collection of replicas that contain a task
+each task has embedded a container
+#### Tasks
+Containers that run in managers or workers
+
+
+### Overlay Multihost networking
+for container to container traffic inside a single swarm
+optional IPSEC (AES) encryption on network creation
+Each service cna be connected to multiple networks
+`--driver overlay`
+### Routing mesh
+runs at OSI layer 3 (TCP)
+* ingress (incoming) oackets for a service to proper Task
+* spans all nodes in swarm
+* uses IPVS from linux kernel
+* load balances swarm services across their Tasks
+* two ways this works
+	* container to container in anoverlai network VIP
+	* external traffic incoming to published porta (all nodes listen)
+
 
 An entire swarm can be build from docker images
 By default manager nodes alsu run services as worker nodes
 Standalone containers can still run on any of the Docker hosts participating in the swarm
 ![DockerSwarm](./Resources/DockerSwarm.png)
 
+#### `docker swarm init`
+* Creates PKI and security automation
+	*  Root signing certificates created for swarm
+	*  Certificate is sissued for first manager node
+	* Join tokens are created
+ * Raft database created
+	 * Encrypted by default
+	 * No need for another key/value system to hold orchestration secrets
+	 * Replicates logs amongst managers via mutual TLS in "control plane"
+		 
+ 
+
 ```bash
-# Manager-1 35.212.248.228
-# Worker-1 35.212.192.14
-# Worker-2 35.212.211.95
-docker swarm init --advertise-addr 35.212.248.228
+
+docker swarm init --advertise-addr <ip-addr>
 docker swarm join-token manager
 docker swarm join-token worker
-docker node promote rvp6w1ax0wc26222k4rxnndau
+docker node promote <node-id>
 docker swarm leave -f
-
-# docker swarm join --token SWMTKN-1-5xfo13lc39rz5pn2o3zeeudrgjjcrfhoii0ydh9atwuqdhs3qt-2epdtspzy7e6xa890049k2zjq 35.212.248.228:2377
-
-#To add a manager to this swarm, run 'docker swarm join-token manager' and follow the instructions.
-
-docker pull docker
 docker service create --type=global
-
-
-
 ```
+### Docker Stacks
+Next layer to use compose with services in swarm
+Swarm cannot build images - ignores it
+`docker stacks deploy`
+
+
+### Docker secrets
+Only containers in assigned services can see them
+they live in memori fs
+a secret can have aliases
+run on `/run/secrets/<secret-name>` 
 
 ## Docker security
 * Scan docker host 

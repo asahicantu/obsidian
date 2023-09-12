@@ -1,0 +1,2 @@
+so I start using it,  i start having dialogs with it, i start coding with its help and I begin to read the news... I can say that I went and still going through my grief cycle which i will tell about in this presentation. 
+I can say it has taken a lot of time to reflect and think about the future of human kind and the way the tools we are developing might create a very different future in the years to come

@@ -1,0 +1,3 @@
+
+This  research by google was indeed so meaningful, back then I did not know the impact such paper had made to the computer science and Artificial intelligence research, IT turns out that all companies realized the breakthrough of the transformers and began to make use of it When this happened researchers realized how a massive change in the world of language models and Natural Language Processing could be achieved to process and generate "knowledge", text summarization, sentiment analysys and effective machine leargning under spoken language 
+I am highlighning this because 5 years ago we were just scratching and refining the science of what today is Chat GPT, and September 2022, a community version of ChatGPT was released to the public 
