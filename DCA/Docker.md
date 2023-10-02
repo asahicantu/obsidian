@@ -760,6 +760,151 @@ they live in memori fs
 a secret can have aliases
 run on `/run/secrets/<secret-name>` 
 
+
+## Docker UCP
+* Enterprise tool, 
+* Runs globally schedules service call ucp agent
+* Controls the node and manage UCP Serices based on whether the node is manager or worker node
+* runs several containers on the nodes
+	* Manager node - UCP Components, Web-UI and DataStore
+	* Worker node - Proxy service for authorization and subset of containers
+
+```bash
+docker container run --rm  -it --name ucp -v /var/run/docker.sock:/var/run/docker.sock docker/ucp:latest install --interactive
+```
+
+ucp-agent shcedules call runs globall
+	runs several containers on the nodes
+	Manager node = all UCP + WebUI Datastore
+	Workernode = proxy service for authorization and subset of containers
+	
+
+### RBAC
+Users, teams and organizations
+**Allows LDAP**
+
+#### Define custom roles
+#### Create grants (subject + role + resource set)
+![[Pasted image 20230919174539.png]]
+
+#### Group cluster resources
+##### Roles
+Restricted Control
+Full Control
+Scheduler
+View Only
+![[Pasted image 20230919174701.png]]
+
+#### Create grants
+![[Pasted image 20230919174815.png]]
+
+### UCP Client bundle
+Access UCP API through CLI client with a **client bundle**
+Contains <font color="#ffff00">private and public keys</font> to authorize requests in UCP
+Can be downloaded from the UCP Interface
+Contains utility scripts to configure Docker and KyubeCTL Tools to Talk to UCP
+
+#### Certificates
+CA used for all internal communication betweeen managers and workers Mutual TLS
+CA for en user communication
+
+
+## DTR Docker Trusted Registry
+Image storage solution
+Installed behind firewall
+Web based UI to browse docker images and review repo events
+Can be installed on-prem or on the cloud
+	Requires 80 and 443 ports for TCP
+Same authentication mechanism as UCP
+	LDAP Sync
+	RBAC
+
+#### Security
+Shares authentication with UDP
+Stores metadata layer and data in 2 separate locations
+
+External certificates can be addded to DTR
+
+#### Storage
+##### Filesystem
+NFS (Network File System), volumes, images or 
+##### Cloud
+Amazon S3
+Azure
+OpenStack Swift
+Google Cloud Storage
+
+#### Garbage collection
+Unreferences imades and layers are removed
+Job run: Until done, For x minutes, Never
+![[Pasted image 20230919182747.png]]
+
+#### Networks
+dtr-ol = overlay
+
+#### Monitor:
+* /_ping   - Load balancing
+* /nginx_status
+* /api/v0/meta/cluster_status  - Health status
+## Backup
+`/etc/docker/daemon.json`
+### Swarm
+`/var/lib/docker/swarm`
+	Stores state and manaer logs
+If autolock, retrieve the unlock key. 
+Stop docker and take a backup od the swarm dir.
+### UCP
+<font color="#ffff00">CREATES A TAR ARCHIVE</font>
+run `docker/ucp backup` command on a single UCP manager
+Restore from backup recovers 
+	Users, teams, permissions
+	Configuration options (Subscriptions, scheduling, content trust and authentication backends)
+	
+### DTR
+
+Can join multiple DTR Replicas for HA (n/2+1) = healhty cluster
+Failure scenarions
+1. Replica is unhealthi but cluster maintains quorum
+2. Cluster loses quorum but at least one replica is healthy
+3. All replicas are unhealthy
+
+run `docker/dtr backup` 
+Takes backup of
+	Configurations, repository metadata, access control, notary data, scan results and certificates/keys
+
+
+## Security scanning
+* Binary scan on each layer
+* Identifies software components
+* Indexes SHA
+* Compares SHA of each component against CVE db
+
+
+##### Enable image scanning from DTR
+Online mode:  DTR contacts docker servcer, downloads latest vulnerability db
+Offline mode: Upload and install security DB
+![[Pasted image 20230919183247.png]]
+
+## Image signing and docker content trust
+Digitally sign the images to validate its genuineness
+UCP can prevent untrusted images from being deployed
+Componentes
+	Notary server
+	Notary signer
+Enable signing and content trust
+DOCKER_CONTENT_TRUST=1
+`export DOCKER_CONTENT_TRUST=1`
+`docker pull --disable-content-trust`
+
+UCP can allow to run unly signed images
+![[Pasted image 20230919183815.png]]
+
+## Swarm security with MTLS
+CA on the manager node
+Worker and manager node tokens include the digest of the root CA's certificate and random gen secret
+New node joining the swarm, the manager issues a certificate to the node
+The swarm nodes use  MTLS Mutual transport Layer security to authenticate, authorize and encrypt communications
+`docker swarm ca --rotate` to generate CA certificate adn key
 ## Docker security
 * Scan docker host 
 	* use docker-bench-security (selinux)
@@ -788,6 +933,30 @@ run on `/run/secrets/<secret-name>`
 * do not enable docker TCP socket unless it is secured
 * image scanning
 * distroless images
+
+## Docker Swarm logs
+`docker service logs
+`/etc/docker/daemon.json`
+```bash
+vi /etc/docker/daemon.sjon
+# Write this in vi program
+{
+ "log-driver": local
+}
+# restart the systen]
+sudo systemctl restart docker
+
+```
+supported drivers:
+	-  json-file (default)
+	- none
+	- local
+	- splunk
+	- journald
+	- syslog
+
+
+docker plugin install - additional logging drivers
 ### Kernel namespaces
 * limit the scope per container
 

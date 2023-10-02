@@ -118,6 +118,8 @@ kubectl get pods
 
 kubectl delete deployment my-apache
 
+
+kubectl explain node --recursive
 ```
 ## Watch resources
 
@@ -342,7 +344,8 @@ kubectl get all -all-namespaces
 
 		kubectl config get-contexts
 
-kubectl config set*
+kubectl config set
+kubectl get pods -n kube-system
 ```
 
 

@@ -4,36 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb8e2d13f6eb885",
+        "id": "849e1f42becc134b",
         "type": "tabs",
         "children": [
           {
-            "id": "ea3a45a987cd0f2c",
+            "id": "d34ab64e41dbd07a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDC-AI/Presentation.md",
+                "file": "202309221321.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58e51fdc237e0a97",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "7cf5956ee59b9d66",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-02 09.29.38.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5e5276a101609dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DCA/multipass commans.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "73b69e55b570bcb5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98468c332f8674df",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file system",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDC-AI/Presentation.md",
+                "file": "Excalidraw/Drawing 2023-10-02 09.29.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDC-AI/Presentation.md",
+                "file": "Excalidraw/Drawing 2023-10-02 09.29.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDC-AI/Presentation.md"
+                "file": "Excalidraw/Drawing 2023-10-02 09.29.38.excalidraw.md"
               }
             }
           },
@@ -194,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,63 +236,64 @@
       "obsidian-tts:Text to Speech": false,
       "obsidian-day-planner:Week plan": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "flashcard-learning:Review flashcards": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-importer:Open Importer": false,
       "dbfolder:Create a new database table": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea3a45a987cd0f2c",
+  "active": "7cf5956ee59b9d66",
   "lastOpenFiles": [
-    "DCA/Resources/CircleOfEmotions.png",
-    "EDC-AI/Presentation.md",
-    "Excalidraw/Drawing 2023-09-12 21.23.16.excalidraw.md",
-    "DCA/Resources/Pasted Image 20230912212327_029.png",
-    "DCA/Resources/QRCodeAIAndTheFutureOfHumanityHarari.png",
-    "DCA/Resources/Pasted Image 20230912203824_583.png",
-    "rsc/AI/GPTPaperWithQRCode.png",
-    "Excalidraw/GPTPaperWithQRCode.md",
-    "DCA/Resources/GPT4ReportWithQRCode.png",
-    "notes/Slide3.md",
-    "DCA/Resources/QrCodeOpenAIGpt4TechicalReportPaper.png",
-    "DCA/Resources/Pasted image 20230912203121.png",
-    "AI FORUM/Presentation.md",
-    "AI FORUM/AI FORUM.md",
-    "DCA/Resources/AI_IQ.png",
-    "notes/slide4.md",
-    "rsc/AI/AI.md",
-    "rsc/AI/AGI (Medium).png",
-    "rsc/rsc.md",
-    "Untitled/Untitled.md",
-    "Terminologies.md",
-    "Untitled 1.md",
-    "Terminologies 1.md",
-    "202309101653.md",
-    "202309081143.md",
-    "202309060915.md",
-    "EDC-AI/Notes/Notes.md",
-    "notes/notes.md",
-    "notes",
-    "EDC-AI/EDC-AI.md",
-    "EDC-AI/MyFrstCanvas.canvas",
-    "EDC-AI/Untitled mindmap.md",
-    "EDC-AI/Untitled.md",
-    "EDC-AI/tpl-con-2-1-box.md",
-    "EDC-AI/Notes.md",
-    "EDC-AI/Notes/Slide2.md",
-    "EDC-AI/Notes/Slide1.md",
-    "EDC-AI/Notes",
-    "Norsk",
-    "EDC-AI/css/videolayout.css",
-    "EDC-AI/videolayout.css",
-    "EDC-AI/videoLayout.css",
-    "EDC-AI/css/videoLayout.css",
-    "EDC-AI/css/videoStyle.css",
-    "EDC-AI/css",
-    "DCA/Resources/DockerCommands2.0/DM S17 (Your Next Steps, and the Future of Kubernetes).txt"
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
+    "Excalidraw/Scripts/Downloaded/Fixed inner distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed inner distance.md",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
+    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.svg",
+    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.md",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.md",
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
+    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "Excalidraw/Scripts/Downloaded/Invert colors.md",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
+    "Excalidraw/Scripts/Downloaded/Rename Image.md",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
+    "Excalidraw/Scripts/Downloaded/Select Similar Elements.md",
+    "export/EDC-AI/DCA/Resources",
+    "export/EDC-AI/DCA",
+    "export/EDC-AI/rsc/AI",
+    "export/EDC-AI/rsc",
+    "export/EDC-AI/plugin/chalkboard/style.css",
+    "export/EDC-AI/plugin/chalkboard/_style.css",
+    "export/EDC-AI/plugin/chalkboard/plugin (copy).js",
+    "export/EDC-AI/plugin/chalkboard/plugin.js",
+    "export/EDC-AI/plugin/chalkboard/img",
+    "export/EDC-AI/plugin/chalkboard",
+    "EDC-AI/MyFrstCanvas.canvas"
   ]
 }

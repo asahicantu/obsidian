@@ -8,7 +8,6 @@
   "obsidian-day-planner",
   "obsidian-excalidraw-plugin",
   "calendar",
-  "table-editor-obsidian",
   "dataview",
   "templater-obsidian",
   "obsidian-tasks-plugin",
@@ -36,5 +35,6 @@
   "obsidian-icon-shortcodes",
   "obsidian-qrcode-plugin",
   "simple-embeds",
-  "terminal"
+  "terminal",
+  "table-editor-obsidian"
 ]
