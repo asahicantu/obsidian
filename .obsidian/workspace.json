@@ -18,22 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "73b69e55b570bcb5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "98468c332f8674df",
+            "id": "c497b5cd92daaec9",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDC-AI/Presentation.md",
+                "file": "Kubernetes/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDC-AI/Presentation.md",
+                "file": "Kubernetes/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDC-AI/Presentation.md"
+                "file": "Kubernetes/Kubernetes.md"
               }
             }
           },
@@ -223,14 +222,18 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-importer:Open Importer": false,
       "dbfolder:Create a new database table": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "terminal:Open terminal": false
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ea3a45a987cd0f2c",
+  "active": "c497b5cd92daaec9",
   "lastOpenFiles": [
-    "DCA/Resources/CircleOfEmotions.png",
+    "DCA/Kubernetes.md",
+    "DCA/DCA.md",
+    "Kubernetes/readme.md",
     "EDC-AI/Presentation.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes",
+    "DCA/Resources/CircleOfEmotions.png",
     "Excalidraw/Drawing 2023-09-12 21.23.16.excalidraw.md",
     "DCA/Resources/Pasted Image 20230912212327_029.png",
     "DCA/Resources/QRCodeAIAndTheFutureOfHumanityHarari.png",
@@ -261,11 +264,8 @@
     "EDC-AI/EDC-AI.md",
     "EDC-AI/MyFrstCanvas.canvas",
     "EDC-AI/Untitled mindmap.md",
-    "EDC-AI/Untitled.md",
     "EDC-AI/tpl-con-2-1-box.md",
     "EDC-AI/Notes.md",
-    "EDC-AI/Notes/Slide2.md",
-    "EDC-AI/Notes/Slide1.md",
     "EDC-AI/Notes",
     "Norsk",
     "EDC-AI/css/videolayout.css",
@@ -273,7 +273,6 @@
     "EDC-AI/videoLayout.css",
     "EDC-AI/css/videoLayout.css",
     "EDC-AI/css/videoStyle.css",
-    "EDC-AI/css",
-    "DCA/Resources/DockerCommands2.0/DM S17 (Your Next Steps, and the Future of Kubernetes).txt"
+    "EDC-AI/css"
   ]
 }
