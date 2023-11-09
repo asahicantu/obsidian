@@ -36,5 +36,7 @@
   "obsidian-icon-shortcodes",
   "obsidian-qrcode-plugin",
   "simple-embeds",
-  "terminal"
+  "terminal",
+  "table-extended",
+  "markdown-table-editor"
 ]
