@@ -245,6 +245,12 @@
   },
   "active": "d08a9ab29f94acf1",
   "lastOpenFiles": [
+    "Misc/Misc.md",
+    "Misc/List of Main DNS Servers.md",
+    "Misc",
+    "Kubernetes/readme.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes",
     "export/BlockchainPresentation/DCA/Resources/Resources.md",
     "export/BlockchainPresentation/DCA/DCA.md",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/rsc.md",
@@ -283,14 +289,8 @@
     "export/BlockchainPresentation/plugin/chalkboard/style.css",
     "export/BlockchainPresentation/plugin/chalkboard/plugin.js",
     "export/BlockchainPresentation/plugin/chalkboard/README.md",
-    "export/BlockchainPresentation/plugin/chalkboard/plugin (copy).js",
-    "export/BlockchainPresentation/plugin/chalkboard/img",
     "export/BlockchainPresentation/plugin/chart/README.md",
     "export/BlockchainPresentation/plugin/customcontrols/README.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/output/chtml/fonts/woff-v2/woff-v2.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/output/chtml/fonts/fonts.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/output/svg/fonts/fonts.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/sre/mathmaps/mathmaps.md",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }
