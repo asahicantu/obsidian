@@ -6,53 +6,48 @@
       {
         "id": "849e1f42becc134b",
         "type": "tabs",
+        "dimension": 49.17302798982188,
         "children": [
           {
-            "id": "d34ab64e41dbd07a",
+            "id": "d08a9ab29f94acf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309221321.md",
+                "file": "Presentations/Blockchain/BlockchainPresentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58e51fdc237e0a97",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "7cf5956ee59b9d66",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-02 09.29.38.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5e5276a101609dbb",
+            "id": "8a291243d59006c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DCA/multipass commans.md",
+                "file": "Presentations/Blockchain/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "8413e5b1dc21b649",
+        "type": "tabs",
+        "dimension": 50.82697201017812,
+        "children": [
+          {
+            "id": "064d8145de6a2fcd",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "tareas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-02 09.29.38.excalidraw.md",
+                "file": "Presentations/Blockchain/BlockchainPresentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-02 09.29.38.excalidraw.md",
+                "file": "Presentations/Blockchain/BlockchainPresentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-02 09.29.38.excalidraw.md"
+                "file": "Presentations/Blockchain/BlockchainPresentation.md"
               }
             }
           },
@@ -208,7 +203,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -246,54 +243,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7cf5956ee59b9d66",
+  "active": "d08a9ab29f94acf1",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md",
-    "Excalidraw/Scripts/Downloaded/Fixed inner distance.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed inner distance.md",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.md",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
-    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.svg",
-    "Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.md",
-    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
-    "Excalidraw/Scripts/Downloaded/Grid Selected Images.md",
-    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.svg",
-    "Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md",
-    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
-    "Excalidraw/Scripts/Downloaded/Invert colors.md",
-    "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
-    "Excalidraw/Scripts/Downloaded/Lighten background color.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
-    "Excalidraw/Scripts/Downloaded/Organic Line.md",
-    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
-    "Excalidraw/Scripts/Downloaded/Palette loader.md",
-    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
-    "Excalidraw/Scripts/Downloaded/Rename Image.md",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
-    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
-    "Excalidraw/Scripts/Downloaded/Select Similar Elements.md",
-    "export/EDC-AI/DCA/Resources",
-    "export/EDC-AI/DCA",
-    "export/EDC-AI/rsc/AI",
-    "export/EDC-AI/rsc",
-    "export/EDC-AI/plugin/chalkboard/style.css",
-    "export/EDC-AI/plugin/chalkboard/_style.css",
-    "export/EDC-AI/plugin/chalkboard/plugin (copy).js",
-    "export/EDC-AI/plugin/chalkboard/plugin.js",
-    "export/EDC-AI/plugin/chalkboard/img",
-    "export/EDC-AI/plugin/chalkboard",
+    "export/BlockchainPresentation/DCA/Resources/Resources.md",
+    "export/BlockchainPresentation/DCA/DCA.md",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/rsc.md",
+    "export/BlockchainPresentation/Presentations/Blockchain/Blockchain.md",
+    "export/BlockchainPresentation/Presentations/Presentations.md",
+    "export/BlockchainPresentation/plugin/chalkboard/img/img.md",
+    "export/BlockchainPresentation/plugin/chalkboard/chalkboard.md",
+    "export/BlockchainPresentation/plugin/chart/chart.md",
+    "export/BlockchainPresentation/plugin/customcontrols/customcontrols.md",
+    "export/BlockchainPresentation/plugin/elapsed-time-bar/elapsed-time-bar.md",
+    "export/BlockchainPresentation/plugin/highlight/highlight.md",
+    "export/BlockchainPresentation/plugin/markdown/markdown.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/a11y/a11y.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/adaptors/adaptors.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/input/mml/extensions/extensions.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/input/tex/extensions/extensions.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/input/tex/tex.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/input/mml/mml.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/input/input.md",
+    "export/BlockchainPresentation/DCA/Resources/Pasted image 20240311171123.png",
+    "export/BlockchainPresentation/DCA/Resources",
+    "export/BlockchainPresentation/DCA",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/TimothyMay.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/RSAAlgorithm.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/PhilZimmermann.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313195522.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313195034.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313193622.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/MattBlaze.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/JulianAssange.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc/JohnGilmore.png",
+    "export/BlockchainPresentation/Presentations/Blockchain/rsc",
+    "export/BlockchainPresentation/Presentations/Blockchain",
+    "export/BlockchainPresentation/Presentations",
+    "export/BlockchainPresentation/plugin/chalkboard/_style.css",
+    "export/BlockchainPresentation/plugin/chalkboard/style.css",
+    "export/BlockchainPresentation/plugin/chalkboard/plugin.js",
+    "export/BlockchainPresentation/plugin/chalkboard/README.md",
+    "export/BlockchainPresentation/plugin/chalkboard/plugin (copy).js",
+    "export/BlockchainPresentation/plugin/chalkboard/img",
+    "export/BlockchainPresentation/plugin/chart/README.md",
+    "export/BlockchainPresentation/plugin/customcontrols/README.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/output/chtml/fonts/woff-v2/woff-v2.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/output/chtml/fonts/fonts.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/output/svg/fonts/fonts.md",
+    "export/BlockchainPresentation/plugin/math/mathjax/sre/mathmaps/mathmaps.md",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }
