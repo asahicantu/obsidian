@@ -148,7 +148,7 @@ DigiCash (1989)
 
 ---
 #### Bitcoin now (Coinmarketcap)
-![[Pasted image 20240313195034.png|700]]
+![[BTCChart.png|700]]
 
 ---
 ## The story of money  (is a story)
@@ -157,11 +157,11 @@ DigiCash (1989)
 ---
 ### The way to Web 3.0
 
-![[Pasted image 20240311171123.png|700]]
+![[Web3.png|700]]
 
 ---
 
-![[Pasted image 20240313195522.png]]
+![[ProofOfHumanity.png]]
 [Proof of Humanity](https://proofofhumanity.id/)
 
 ---

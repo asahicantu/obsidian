@@ -188,7 +188,7 @@ Technologies available in web 3.0
 
 ---
 
-![[Pasted image 20240311171123.png]]
+![[Web3.png]]
 
 ![[WEb3.0.png]]
 ---

@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "170ee68cdb29820a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Presentations/Blockchain/rsc/ProofOfHumanity.png"
+              }
+            }
+          },
+          {
             "id": "8a291243d59006c3",
             "type": "leaf",
             "state": {
@@ -32,7 +42,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8413e5b1dc21b649",
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/Blockchain/BlockchainPresentation.md",
+                "file": "Presentations/Blockchain/rsc/ProofOfHumanity.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentations/Blockchain/BlockchainPresentation.md",
+                "file": "Presentations/Blockchain/rsc/ProofOfHumanity.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentations/Blockchain/BlockchainPresentation.md"
+                "file": "Presentations/Blockchain/rsc/ProofOfHumanity.png"
               }
             }
           },
@@ -243,8 +254,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d08a9ab29f94acf1",
+  "active": "170ee68cdb29820a",
   "lastOpenFiles": [
+    "Presentations/Blockchain/rsc/BTCChart.png",
+    "Presentations/Blockchain/rsc/ClipperChip2.png",
+    "Presentations/Blockchain/rsc/Web3.png",
+    "Presentations/Blockchain/BlockchainPresentation.md",
     "Misc/Misc.md",
     "Misc/List of Main DNS Servers.md",
     "Misc",
@@ -280,8 +295,6 @@
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313195034.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313193622.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/MattBlaze.png",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/JulianAssange.png",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/JohnGilmore.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc",
     "export/BlockchainPresentation/Presentations/Blockchain",
     "export/BlockchainPresentation/Presentations",
@@ -289,8 +302,6 @@
     "export/BlockchainPresentation/plugin/chalkboard/style.css",
     "export/BlockchainPresentation/plugin/chalkboard/plugin.js",
     "export/BlockchainPresentation/plugin/chalkboard/README.md",
-    "export/BlockchainPresentation/plugin/chart/README.md",
-    "export/BlockchainPresentation/plugin/customcontrols/README.md",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }
