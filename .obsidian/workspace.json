@@ -6,37 +6,22 @@
       {
         "id": "849e1f42becc134b",
         "type": "tabs",
-        "dimension": 49.17302798982188,
         "children": [
           {
             "id": "d08a9ab29f94acf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentations/Blockchain/BlockchainPresentation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "170ee68cdb29820a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Presentations/Blockchain/rsc/ProofOfHumanity.png"
-              }
-            }
-          },
-          {
-            "id": "8a291243d59006c3",
+            "id": "16015e2583649fb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentations/Blockchain/Notes.md",
+                "file": "Capgemini/ConnectedManager/On leadership.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,21 +29,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "8413e5b1dc21b649",
-        "type": "tabs",
-        "dimension": 50.82697201017812,
-        "children": [
-          {
-            "id": "064d8145de6a2fcd",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/Blockchain/rsc/ProofOfHumanity.png",
+                "file": "Capgemini/ConnectedManager/On leadership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentations/Blockchain/rsc/ProofOfHumanity.png",
+                "file": "Capgemini/ConnectedManager/On leadership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentations/Blockchain/rsc/ProofOfHumanity.png"
+                "file": "Capgemini/ConnectedManager/On leadership.md"
               }
             }
           },
@@ -238,28 +208,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "whisper:Open recording controls": false,
-      "obsidian-tts:Text to Speech": false,
-      "obsidian-day-planner:Week plan": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "flashcard-learning:Review flashcards": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-importer:Open Importer": false,
-      "dbfolder:Create a new database table": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "terminal:Open terminal": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "170ee68cdb29820a",
+  "active": "16015e2583649fb4",
   "lastOpenFiles": [
+    "Capgemini/ConnectedManager/Team Rituals.md",
+    "Capgemini/ConnectedManager/On leadership.md",
+    "Capgemini",
+    "Capgemini/ConnectedManager",
+    "Presentations/Blockchain/Notes.md",
+    "Presentations/Blockchain/BlockchainPresentation.md",
+    "Presentations/Blockchain/rsc/ProofOfHumanity.png",
     "Presentations/Blockchain/rsc/BTCChart.png",
     "Presentations/Blockchain/rsc/ClipperChip2.png",
     "Presentations/Blockchain/rsc/Web3.png",
-    "Presentations/Blockchain/BlockchainPresentation.md",
     "Misc/Misc.md",
     "Misc/List of Main DNS Servers.md",
     "Misc",
@@ -284,7 +247,6 @@
     "export/BlockchainPresentation/plugin/math/mathjax/input/tex/extensions/extensions.md",
     "export/BlockchainPresentation/plugin/math/mathjax/input/tex/tex.md",
     "export/BlockchainPresentation/plugin/math/mathjax/input/mml/mml.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/input/input.md",
     "export/BlockchainPresentation/DCA/Resources/Pasted image 20240311171123.png",
     "export/BlockchainPresentation/DCA/Resources",
     "export/BlockchainPresentation/DCA",
@@ -293,15 +255,10 @@
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/PhilZimmermann.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313195522.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313195034.png",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313193622.png",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/MattBlaze.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc",
     "export/BlockchainPresentation/Presentations/Blockchain",
     "export/BlockchainPresentation/Presentations",
     "export/BlockchainPresentation/plugin/chalkboard/_style.css",
-    "export/BlockchainPresentation/plugin/chalkboard/style.css",
-    "export/BlockchainPresentation/plugin/chalkboard/plugin.js",
-    "export/BlockchainPresentation/plugin/chalkboard/README.md",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }

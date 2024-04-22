@@ -192,6 +192,38 @@ Technologies available in web 3.0
 
 ![[WEb3.0.png]]
 ---
+
+
+I have been willing to present something about blockchain since it is one of my favourite topis, 
+and one of the reasons i want to do it is because it involves so many social and political factors that just conglomerate themselves into an idea, 
+a solution that is disrupting the way society works, cooperates and trusts.
+
+I will try my best to explain why is so important now a days, its origins and why it challenges politics, is controversial, contestant and challenges the status quio of modern society
+
+
+I would like to begin first with a small gallery of people, 
+
+let me know if you know them and lets have some gossip about them shall we?
+
+Snowden
+Assange
+Zimmemrmann
+WEy Dai
+CryptoAnarchist movement
+
+
+[and so on]
+
+These people are the founders of modern cryptography, they called themselves cryptoanarchists and cyberpunks, back in the first cold war, were internet was just being launched and governments controlled
+infomration, media etc.
+The web 1.0 emerges, and with that a new way of war emerges, on one side governments find a way to 
+
+
+I would like first to go through a small gallery of people
+
+Will bombard you with some information to try to make sense of the reason why i am showing you this, but before, let me start with this...
+
+
 <iframe width="700" height="450" src="https://www.youtube.com/embed/5CREwPtkcJY?si=Il8cT-Ow3VQSnCZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
