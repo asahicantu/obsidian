@@ -11,8 +11,12 @@
             "id": "d08a9ab29f94acf1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capgemini/ConnectedManager/On leadership.md",
+                "file": "202405140928.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capgemini/ConnectedManager/On leadership.md",
+                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capgemini/ConnectedManager/On leadership.md",
+                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capgemini/ConnectedManager/On leadership.md"
+                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md"
               }
             }
           },
@@ -211,12 +214,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16015e2583649fb4",
+  "active": "d08a9ab29f94acf1",
   "lastOpenFiles": [
-    "Capgemini/ConnectedManager/Untitled.md",
+    "linux/bashjournal.md",
+    "linux",
+    "Capgemini/ConnectedManager/Emotional intelligence worksheets/Evaluate your emotional intelligence capabilities.md",
+    "Capgemini/ConnectedManager/01-Proximity.md",
+    "Capgemini/ConnectedManager/03-Perspective.md",
+    "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
+    "Capgemini/ConnectedManager/Emotional intelligence worksheets",
+    "Presentations/Blockchain/rsc/LeadingPeople_AddressABreachOfTrust_Infographic.svg",
+    "Presentations/Blockchain/rsc/LeadingPeople_TrustTriangle_Infographic.svg",
+    "Capgemini/ConnectedManager/02-Performance.md",
     "Capgemini/ConnectedManager/On leadership.md",
+    "202405140928.md",
     "Presentations/Blockchain/rsc/Pasted image 20240422164737.png",
-    "Capgemini/ConnectedManager/Team Rituals.md",
     "Capgemini",
     "Capgemini/ConnectedManager",
     "Presentations/Blockchain/Notes.md",
@@ -243,22 +255,13 @@
     "export/BlockchainPresentation/plugin/elapsed-time-bar/elapsed-time-bar.md",
     "export/BlockchainPresentation/plugin/highlight/highlight.md",
     "export/BlockchainPresentation/plugin/markdown/markdown.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/a11y/a11y.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/adaptors/adaptors.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/input/mml/extensions/extensions.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/input/tex/extensions/extensions.md",
-    "export/BlockchainPresentation/plugin/math/mathjax/input/tex/tex.md",
     "export/BlockchainPresentation/DCA/Resources/Pasted image 20240311171123.png",
     "export/BlockchainPresentation/DCA/Resources",
     "export/BlockchainPresentation/DCA",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/TimothyMay.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/RSAAlgorithm.png",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/PhilZimmermann.png",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/Pasted image 20240313195522.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc",
     "export/BlockchainPresentation/Presentations/Blockchain",
-    "export/BlockchainPresentation/Presentations",
-    "export/BlockchainPresentation/plugin/chalkboard/_style.css",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }
