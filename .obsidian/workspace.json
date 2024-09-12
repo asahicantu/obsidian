@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
+                "file": "Presentations/HelloStavanger/Notes raw.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
+                "file": "Presentations/HelloStavanger/Notes raw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
+                "file": "Presentations/HelloStavanger/Notes raw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md"
+                "file": "Presentations/HelloStavanger/Notes raw.md"
               }
             }
           },
@@ -216,12 +216,16 @@
   },
   "active": "d08a9ab29f94acf1",
   "lastOpenFiles": [
+    "Presentations/HelloStavanger/Notes.md",
+    "Presentations/HelloStavanger/Notes raw.md",
+    "Presentations/Blockchain/Notes.md",
+    "Presentations/HelloStavanger",
+    "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
     "linux/bashjournal.md",
     "linux",
     "Capgemini/ConnectedManager/Emotional intelligence worksheets/Evaluate your emotional intelligence capabilities.md",
     "Capgemini/ConnectedManager/01-Proximity.md",
     "Capgemini/ConnectedManager/03-Perspective.md",
-    "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
     "Capgemini/ConnectedManager/Emotional intelligence worksheets",
     "Presentations/Blockchain/rsc/LeadingPeople_AddressABreachOfTrust_Infographic.svg",
     "Presentations/Blockchain/rsc/LeadingPeople_TrustTriangle_Infographic.svg",
@@ -231,7 +235,6 @@
     "Presentations/Blockchain/rsc/Pasted image 20240422164737.png",
     "Capgemini",
     "Capgemini/ConnectedManager",
-    "Presentations/Blockchain/Notes.md",
     "Presentations/Blockchain/BlockchainPresentation.md",
     "Presentations/Blockchain/rsc/ProofOfHumanity.png",
     "Presentations/Blockchain/rsc/BTCChart.png",
@@ -253,15 +256,12 @@
     "export/BlockchainPresentation/plugin/chart/chart.md",
     "export/BlockchainPresentation/plugin/customcontrols/customcontrols.md",
     "export/BlockchainPresentation/plugin/elapsed-time-bar/elapsed-time-bar.md",
-    "export/BlockchainPresentation/plugin/highlight/highlight.md",
-    "export/BlockchainPresentation/plugin/markdown/markdown.md",
     "export/BlockchainPresentation/DCA/Resources/Pasted image 20240311171123.png",
     "export/BlockchainPresentation/DCA/Resources",
     "export/BlockchainPresentation/DCA",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/TimothyMay.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/RSAAlgorithm.png",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc",
-    "export/BlockchainPresentation/Presentations/Blockchain",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }
