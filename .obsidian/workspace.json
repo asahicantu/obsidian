@@ -13,7 +13,87 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37141a31be7b954d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capgemini/ConnectedManager/01-Proximity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e1eacbe5ea81e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECCOUNCIL/Network security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eacbc4e28db2b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Presentations/HelloStavanger/Notes raw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e47e27457a65be14",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3e73f8534d4241b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECCOUNCIL/Risk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e91827c01b804221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECCOUNCIL/Network security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df2a9ac7af208cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECCOUNCIL/Asymetric Encryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,54 +295,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d08a9ab29f94acf1",
+  "active": "5e98ea81e5b98f7e",
   "lastOpenFiles": [
+    "Presentations/HelloStavanger/Resources/QR_AviyalBalwitB.png",
+    "Presentations/HelloStavanger/Resources/blog.png",
+    "Presentations/HelloStavanger/Resources",
     "Presentations/HelloStavanger/Notes.md",
+    "ECCOUNCIL/CSF.md",
     "Presentations/HelloStavanger/Notes raw.md",
-    "Presentations/Blockchain/Notes.md",
     "Presentations/HelloStavanger",
+    "ECCOUNCIL/Network security.md",
+    "ECCOUNCIL/Risk.md",
+    "Capgemini/ConnectedManager/01-Proximity.md",
     "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
+    "202405140928.md",
+    "ECCOUNCIL/Asymetric Encryption.md",
+    "ECCOUNCIL/PEOPLE.md",
+    "ECCOUNCIL/Attack.md",
+    "AI-900 ANSWERS.md",
+    "ECCOUNCIL/Social engineering.md",
+    "ECCOUNCIL/Hacking.md",
+    "ECCOUNCIL/Malware.md",
+    "ECCOUNCIL/Threat.md",
+    "AI-102.md",
+    "ECCOUNCIL",
     "linux/bashjournal.md",
     "linux",
     "Capgemini/ConnectedManager/Emotional intelligence worksheets/Evaluate your emotional intelligence capabilities.md",
-    "Capgemini/ConnectedManager/01-Proximity.md",
     "Capgemini/ConnectedManager/03-Perspective.md",
     "Capgemini/ConnectedManager/Emotional intelligence worksheets",
     "Presentations/Blockchain/rsc/LeadingPeople_AddressABreachOfTrust_Infographic.svg",
     "Presentations/Blockchain/rsc/LeadingPeople_TrustTriangle_Infographic.svg",
     "Capgemini/ConnectedManager/02-Performance.md",
     "Capgemini/ConnectedManager/On leadership.md",
-    "202405140928.md",
     "Presentations/Blockchain/rsc/Pasted image 20240422164737.png",
     "Capgemini",
     "Capgemini/ConnectedManager",
+    "Presentations/Blockchain/Notes.md",
     "Presentations/Blockchain/BlockchainPresentation.md",
     "Presentations/Blockchain/rsc/ProofOfHumanity.png",
     "Presentations/Blockchain/rsc/BTCChart.png",
     "Presentations/Blockchain/rsc/ClipperChip2.png",
     "Presentations/Blockchain/rsc/Web3.png",
     "Misc/Misc.md",
-    "Misc/List of Main DNS Servers.md",
     "Misc",
-    "Kubernetes/readme.md",
-    "Kubernetes/Kubernetes.md",
     "Kubernetes",
-    "export/BlockchainPresentation/DCA/Resources/Resources.md",
-    "export/BlockchainPresentation/DCA/DCA.md",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/rsc.md",
-    "export/BlockchainPresentation/Presentations/Blockchain/Blockchain.md",
-    "export/BlockchainPresentation/Presentations/Presentations.md",
-    "export/BlockchainPresentation/plugin/chalkboard/img/img.md",
-    "export/BlockchainPresentation/plugin/chalkboard/chalkboard.md",
-    "export/BlockchainPresentation/plugin/chart/chart.md",
-    "export/BlockchainPresentation/plugin/customcontrols/customcontrols.md",
-    "export/BlockchainPresentation/plugin/elapsed-time-bar/elapsed-time-bar.md",
     "export/BlockchainPresentation/DCA/Resources/Pasted image 20240311171123.png",
     "export/BlockchainPresentation/DCA/Resources",
-    "export/BlockchainPresentation/DCA",
     "export/BlockchainPresentation/Presentations/Blockchain/rsc/TimothyMay.png",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/RSAAlgorithm.png",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }

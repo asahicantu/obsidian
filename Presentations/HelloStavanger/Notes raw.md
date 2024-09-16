@@ -254,3 +254,63 @@ my Personal human MVP in this new world
 Would it be possible to ignore AI
 
 How to kill a god?
+
+
+# My Last Five Years of Work
+>“I am 25. These next five years might be the last few years that I work. I am not ill, nor am I becoming a stay-at-home mom, nor have I been so financially fortunate to be on the brink of voluntary retirement. I stand at the edge of a technological development that seems likely, should it arrive, to end employment as I know it.
+> - <cite>Avital Balwit (Chief of staff at Anthropic)[17.05.2024]</cite>
+> 
+
+![[QR_AviyalBalwitB.png]]
+
+These were the words of one of the top AI researchers at anthropic in May 2024, few days after Chat GPT-4o was deployed. 
+
+Presentations like this tend to age fast, and bad. The amount of people talking on this topic with apocaliptic/concerning results is astonishing.
+Meanwhile the researches, discoveries and inovations in this fieald do not cease to amaze me.
+I have reached the point in which I begin to imagin how impossible the world without AI will be.
+
+I can also imagine at the same time how the old days and days were digitalization was not so present may come back eventyally
+
+My goal for this talk is to expose my thoughts as a story, try to dive into this words and worlds with a different perspective
+
+
+## The reality of the world
+
+In the beginning there was the word
+
+
+Image/ video used to be the constant (As something verifiable and taken by truth)
+I am in my late 30's I grew with the massification of computers and internet while we still needed a modem connected to the telephone line.
+
+## Invasion of synthetic data
+All the knowledge of the word has already been uploaded into the internet
+That alone is no
+
+Simulations, digital twinds, 3-D worlds emulating our behaviour, our physics, our way of thinking
+So whether it is real or not no longer matters as we are redefining the new meaning of being real.
+
+
+
+On friday 13th 2024 Chatgpt 01 PHD level, capable of reasoning, and yet we are not close to AGI
+
+
+## Redefinitions
+Researchers are intending now to rename, give a new meaning to the acronym AI. As for now of artifitial has no longer relevange. It is not artificial, on the contrary, it is very real and a constant, as a developer it is becoming irreplazable and valuable for our daily job
+AI = Alien | Augmented Intelligence
+
+
+This is not intended to be a pessimistic speech, it is relevant that we intend now to be more human approachable, create and engage in communities. 
+
+  We already fail with social media for our lack of knowledge on how our brain works.
+  New generations are developing dependency and addiction to not only digital content, but also to synthetic conversations, videogames, and little by little simulations become a cheaper more comfortable way to live a life rather than the one actually known.
+
+
+Where is this taking us in a capitalist world were leaders insist on making wars were global warming demands prompt advances solutions for our complex problems. And yet.. the application of AI does not seem to meet our final requirements as humanity.
+
+I believe we have the power to change same as we have the power to lift / clean our own shit.
+Acknowledge our mistakes, welcome the failure and be open to change of opinion, 
+
+Use the technology, educate yourself and your families, talk about it with your colleagues, your concerns matter and deserve to be listened in forums like this one. 
+
+
+Image polution image internet contamination
