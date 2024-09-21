@@ -3,6 +3,30 @@ A new approach to a world dominated by tech-ai
 # Disclaimier
 The following notes are a set of self reflections and my aim to bring/contribute with questions and toughts which might help us humans to challenge our status quo, bring into our attention span situations that are happening in our world, circle of concern and potentially contribute to surf the coming wave of post tech ai
 
+# I will try to
+encourage you to resignify the concept of 
+intelligence
+dependece
+humanity
+
+## H2.0
+in the past...
+
+It seems it was easier to anthropomorphize natural phenomenons
+
+now they have a scientific explanation, 
+and little by little we aproach to an all-known, all accurate corpus of knowledge
+
+
+---
+We have the power to choose how we create solution for the current world problems
+probably more than we realize
+
+I believe it is more important to look at each other now, to avoid repeating the mistakes that as a world we are currently suffering. 
+If we had time, we could have done things differently
+
+## Lost connections
+
 ## Renaming
 Artifitial
 Alien
@@ -162,7 +186,33 @@ we want to love and be loved
 >A species that is capable of love is divine
     Mo gawdat
 >
+___
+
+I can look myself at the mirror
+I feel
+I am organic
+I make mistakes (lots of)
+Some day I will day
+I am biased
+I am wrong
+
 ____
+# Redefinition to avoid our present mistakes
+War
+Deshumanization
+
+___
+
+# Deshumanization
+The horrors we commit to our selves at this degree  of collective knowledge/consciousness will come back harder to oursleves
+
+Think of the meaning of these words
+War
+Fear
+Terror
+
+---
+Now how these words make you feel?
 # FROM Notes set
 
 
@@ -314,3 +364,54 @@ Use the technology, educate yourself and your families, talk about it with your 
 
 
 Image polution image internet contamination
+
+
+
+The words do not come up yet, i feel that i have so much to say bur i keep thinking and thinking without getting somewhere
+would it be because i thinkg in different languages. i do not feel capable of myself or i am simply exhausted with so many thoughts on my own?
+
+Whatever the sitatuion is I try to find answers fro this presentation but at the same time I cannot. it is like my emotions problems and the conflicts with my wife little by little steal and eat space in my mind, drain mye motions and imprison me to a point it makes it really difficult to begint to operate/coordinate ideas and have better self control/
+
+feeling energetic and with a good lever of energy helps to better have control over my feelings, like if it was always a boiling pot willing to emerge but being cold from time to time, which help diminisht he feelings of anger, remorse, regret, rage, sadness.
+
+problems is what makes me human
+feeling
+seeing a reality?
+
+
+How do psychologicla problems emerge
+
+A wolrd dominated by algorithms
+Alogrithms controlling what we snould see, think, say, feel
+
+it is likely that we feel ashamed for our overusage of social media in the same way smoking and drinking / lead paint/ radioactive toys are now outrageous and impossible to be
+
+it seems we have learned from our mistakes, and yet....
+
+i feel so focking baddedededede
+disspaointned tired, without any spirit fo salvation
+
+salvation
+salvation
+frustration
+forever, eber
+
+
+what is this iever
+ig i ever have i ever
+ehat is this
+what id this
+what is this
+
+who aom i
+what am i
+when is i tgioing to stiop\22
+
+
+lets not loose the ability to talk to each other
+reasonale conversation are breaking down when we need them the most
+with the most advanced technology at hte moment
+information is not truth
+we are overflodded
+we do not have more knowledge nor wisdom
+it is rather becoming scarce
