@@ -493,3 +493,10 @@ I fear for the time that internet dies for human beings, information becomes so 
 
 
 I will try not to bombard you with all the things that 
+
+
+It happens to me know, that i have free time, possiblity to browse the internet, and feel already numb, fool of "cookie " , a youtube video "and have to watch two commercials", a spotify paid subscription and still have to listen to something i did not ask for, a reddit account and still have to scroll up over advertisements every five posts. I check my email and even there i have once more advertisements.
+
+Internet feels like empty to me, even it is  paradoxicaly becoming bigger and bigger
+
+Bit activity is probably more that 80%

@@ -295,8 +295,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e98ea81e5b98f7e",
+  "active": "4eacbc4e28db2b15",
   "lastOpenFiles": [
+    "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
     "Presentations/HelloStavanger/Resources/QR_AviyalBalwitB.png",
     "Presentations/HelloStavanger/Resources/blog.png",
     "Presentations/HelloStavanger/Resources",
@@ -307,7 +308,6 @@
     "ECCOUNCIL/Network security.md",
     "ECCOUNCIL/Risk.md",
     "Capgemini/ConnectedManager/01-Proximity.md",
-    "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
     "202405140928.md",
     "ECCOUNCIL/Asymetric Encryption.md",
     "ECCOUNCIL/PEOPLE.md",
@@ -342,7 +342,6 @@
     "Kubernetes",
     "export/BlockchainPresentation/DCA/Resources/Pasted image 20240311171123.png",
     "export/BlockchainPresentation/DCA/Resources",
-    "export/BlockchainPresentation/Presentations/Blockchain/rsc/TimothyMay.png",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }
