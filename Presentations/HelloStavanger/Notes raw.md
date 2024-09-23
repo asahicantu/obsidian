@@ -195,7 +195,13 @@ I make mistakes (lots of)
 Some day I will day
 I am biased
 I am wrong
+I sleep
+I get tired
+## We are breaking down
+for excitement excess
+misuse of words
 
+## The choices we make every day
 ____
 # Redefinition to avoid our present mistakes
 War
@@ -415,3 +421,75 @@ information is not truth
 we are overflodded
 we do not have more knowledge nor wisdom
 it is rather becoming scarce
+
+
+
+# My Speech
+
+Hello everyone, 
+
+Thank you so much for taking part of your time and give me  your attention for the next 30 minutes,
+I will try to hold your attention for the next 30 minutes and if I cannot succeed on my attempt I offer my apologies. Really wanted to be at the stage at this day for the things that I want to share and normally talk about among my friends and colleagues. 
+
+Let me tell you that before the Generative AI and agents hype I was already keen and concern for the speed at which technology evolves and change our lives; and the little time we have to adapt, understand and digest the information we consume, the cultural transformation and the impact on societies.
+
+I hope then this topic results as interesting as it is for me and I can contribute to grab your attention into matters like this to make us believe that we do have the power for
+* well being,
+* deconstruction
+* transformation
+* re-definition
+### (Disclaimer goes here)
+
+But first let me warn you that some of these ideas are a compilation of many writers, researchers and youtubers. All of which resonated on me and let me to share my perspective of our present and future. Arguments like this are based on my own opinion and I invite you to let yourselves feel the uncomfortability of such topics if so. Just please hold your tomatoes.
+
+Before I start please let me raise a samll survey here
+How many of you were not born in Norway ? ok, you can thank you//
+
+---- 
+Look at this space.. I like the initiative were people interested in those topics have the opportunity to gather, talk and help themselves in those matters
+# Human redefinition
+What is a human?
+
+Not so long time ago it was a matter of religion to give us a meaning
+Things began to tremble as science developed and told us we were no longer sons of good but a gradual evolution of apes capable of thiking, reflecting, using its vocal cords for language and telling stories.
+
+I think back in those days it was easy to fit into a certain social class, religious group, and our tasks/ time would be more mundane.
+
+With the arrival of capitalism and industrial revolution the concept of human transformed into automata, en extension for a machine, a worker an labor capable of operating and transforming / terraforming our world, 
+
+
+How would you define a human now?
+How would you define yourselves
+
+I think and think and for most of the time the words that try to distringuish and classify me as something different from other species rely on:
+
+Biological organism with 4 main extremities, able to talk, see, smell, hear, listen,  think, reflect, AND FEEL
+
+Technology is little by little dismembering us from the qualities that previously would define us, displacing us from being the center of the universe to more than 8 billion individuals with their own opinion, perspective and reality.
+
+
+What is reality?
+
+Does it really matter now if something that you see is or not?
+Because if it feels like to you or is able to change your feelings, affect the way you think, then it no longer matters.
+
+And that is is the reason of my concern. 
+I do not know how technological development will lead us to transform into something that will need to be re-defined.
+
+Emergence phenommenon
+
+The possibility that in 3 years we may no longer have to work or trade our time for money
+
+
+The potential we have to deconstruct ourselves and come back to our roots while at the same time accept technological development as and extension and a tool to outperform.
+
+The dangers of creating synthetic information make it impossible for a single individual to digest, understand and communicate at the speed at which AI agents do it now.
+
+I fear for the time that internet dies for human beings, information becomes so vast that makes is extremely hard for users to sail around it.
+
+
+
+
+
+
+I will try not to bombard you with all the things that 
