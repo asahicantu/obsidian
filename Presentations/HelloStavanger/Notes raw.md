@@ -500,3 +500,5 @@ It happens to me know, that i have free time, possiblity to browse the internet,
 Internet feels like empty to me, even it is  paradoxicaly becoming bigger and bigger
 
 Bit activity is probably more that 80%
+
+## Your synthetic "you"
