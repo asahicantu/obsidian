@@ -192,7 +192,7 @@ I can look myself at the mirror
 I feel
 I am organic
 I make mistakes (lots of)
-Some day I will day
+Some day I will die
 I am biased
 I am wrong
 I sleep
@@ -502,3 +502,144 @@ Internet feels like empty to me, even it is  paradoxicaly becoming bigger and bi
 Bit activity is probably more that 80%
 
 ## Your synthetic "you"
+
+
+DO you think "everything" will be AI generated?
+Is it time to move out? Create a new internet?
+IF so it means that will be the place of all the living AI agents
+
+"You do not realize it but you are being programmed"
+
+Victim of the multiplier effect
+
+"When was the last time you read a book"?
+
+"Hello... is there anybody in there?"
+
+"Gen AI is the nuclear bomb of information age"
+
+# The end?
+Transformation
+
+W
+
+## The reverse turing test
+
+Surveillance
+
+Amazon
+
+
+Ensurification
+
+How to leave, when to leave?
+
+Feels to me that I am stuck
+
+## TRUST
+
+
+## Can humans be quantifieable?
+
+Defined into an equation?
+
+Enclosed in a box in a tiny moment of a time that an algorithm decides and yet....
+Do we know who we are?
+Do we know ourselves better than machines?
+
+
+
+### NOTES
+
+1. Good morning everyone, before I begin I would like to thank the person or people who had to evaluate my proposal for speech, approve it and validate it. Then I will have the opportunity to share with you for 30 minutes some of my visions and concerns for the society/state-of-the-art technlodogy. 
+2. Secondly, i want to thank you for giving mi a chance to be in front of you and hopefully challenge you with a new set of ideas, concept and perspectives about the global s ociety we are becoming now.
+3. And last, this content was created without any Gen-AI tool and are my complete reflection, sources extration over my research.
+4. 
+5. So lets begind, my name is Asahi Cantu, I work at capgemini as a senior program engineer, many of my interests and hobbies are tech related, such as blockchain, ai, software, cybersecurity, among others.
+6. (Why PoH) Why proof of humanyt?
+	1. I deceided to name my talk like that for the following reasons:
+	2. PoW ] See, when bitcoin and blockchain paper was issued in 2008 the algorithm highlighted to allow an entity to inject information into the blockchain was by coming to a solution to a complex computational problem called Proof of Work. Basically the machine had to spent enormous amount of power to find a seed alphanumeric that hased gives the result of 0x0000000XXXXXX or vicwversa, is basically high speed brute forcing to come to a result.
+	3. Therefore and because it seems to me that now we have to perform certain way of work, approvakm 
+7. DISCLAIMERS
+	1. These are my opinions and based on my on research and realities
+	2. This presentation-talk is already obsolete
+	3. (WHAT WAS MY THIRD ONE?)
+8. Reudctionism, manipulation
+9. We are indeed at the edge of a singularity moment
+10. Waiting for the black swan, or the miracle that AI promises to provides to us
+	1. Yet, we fail to realize that mos of this development originated by companies who make profit from the time - emotions. opinions, feelings we develope accrsoss them,
+	2. And even one of the greates inventions in the decade (Chat GPT) comes from a company that claimed to be open and provide AI solutions for society in an attempt to countermeasure the dark technological development
+11. So what makes me human?
+12. My Last Five Years of Work
+>“I am 25. These next five years might be the last few years that I work. I am not ill, nor am I becoming a stay-at-home mom, nor have I been so financially fortunate to be on the brink of voluntary retirement. I stand at the edge of a technological development that seems likely, should it arrive, to end employment as I know it.
+> - <cite>Avital Balwit (Chief of staff at Anthropic)[17.05.2024]</cite>
+> 
+
+![[QR_AviyalBalwitB.png]]
+
+These were the words of one of the top AI researchers at anthropic in May 2024, few days after Chat GPT-4o was deployed. 
+We are indeed
+11. The dead internet - The dark forest
+	1. I have witnessed the transition of internet from the asdl modem that used to make funny noises, from webpages such as myspace, msn messenger, to nowadays
+	2. Paradoxically I believe I was among you one of the few lucky generations who saw the internet grow and become what it is now today.
+	3. If you are not in technology and have parents, maybe they struggle with such development and you have to help them configure or browse pages, maybe the technological tools they know how to use are a web browser and a faceboor messenger, instagram snapchat or whatsapp
+	4. On the other hand, if you are a centenial or younger generation and you are not involved in technology, probably you are as techa gnositc as our parents-grandparents but you are skilled in the world that social media provides, every single step further and further from the knowledge and information that builds the roots of the digital society.
+	5. The result, a digital analphabetism
+	6. Our attentions span
+		1. When was the last time you read a book? a news paper? a magazine? an article?
+		2. When was the last time you could gather with friends and discuss certain sensitive topic without looking at your mobile?
+	7. It feels to me that we let that 
+	8. Internet iceberg, up to 90% of all social content is "inaccessible " to us
+	9. Think that modern language models have been trained with such information, and even if they do not show or advertise what is hidden, the recipe on how to create them is already public, and allwhat you need is now the corpus of these web pages and computational resources in order to get there.
+	10. Think about this:
+		1. How many differetn sources of information - web pages, newspapers, video platforms, etc do you browse in a week?
+		2. How many of those run under big corporations (non public content)
+		3. How many of those project advertisements to you?
+		4. How many of these websites are telling you that they are intentionally trakcing every step you make in order to get information from you that you do not even know you are sharing just because you do not want to read a whole legal paper telling you what will happen during your user experience and then what they will do with such information, anyways i already agree...
+		5. It feels empty to me, i do no know where to go, or what to browse, i can be stuck to hours of content in a censored youtube who already knows my taste and preferences so it always keeps showing me the data and making me feel safe, that the world agrees with my opinions and that i am right. There are no experiences anymore.
+		6. Sadly it is becoming less and less, feels more plastic and makes me tired every time i see a Gen-AI image, at least now i can distinguis, one month later I will not, Which means I will not be able to rationally trust this
+		7. iT FEELS  EMPTY, tha information is repeating over and over...
+	11. IN THE BEGNINNING THERE WAS THE WORD.... 
+	12. Whether I like it or not, I h
+	
+
+12. It is no longer a platform in which we can share and discuss or read and put knowledge-information to the masses
+	1. 
+13. There is no time to wait, dont read, skip terms and conditions, keep scrolling, keep watching...
+14. My brain is exhausted, to me that is enough
+15. Generative content
+16. Time to say goodbye
+17. Time to deconstruct 
+	1. take what you love - liked the most
+	2. Try to move away from such platforms, to build back something better, for us
+18. So what it feels to be human
+19. What I am trying to tell you is that I, you we as a community have a tremendous power, because we know part of the building blocks that form all this conglomerate of tech-digital superstructure. With every piece of knowledge or agent or code you put into this universe you are building the future of the new society. how do you want it to be? what kind of moral, ethic, religious, human thoughts come to you when you develop such technologies. What do you believe are your weaknesses and fears as a person that may end up shaping your behaviour, the way you work, your interactions as an employee, member of this community?
+20. I still remember the first time I experienced true loneliness, it was 7 years ago in October the 2nd, When I came for the first time to Stavanger in a rainy sunday. From mexico.
+21. DO NOT IGNORE YOUR INSTINCT. TRY TO HELP, DROP A HAND, A SMILE, SOME HELP TO WHOMEVER YOU CAN
+22.  We all integrate an atom and element of this great fabric tha tI like to call it "the lattice", and like stones in water, our actions good or bad create wavews, impact and affect people in ways that we do not imagine
+23. Think on the multiplier effect and second-third degree of consequences effect
+24. Our actions have great consequences, whether we like them or not.
+25. Time to redefine who we are, important for our future in which yes, we will be displaced in certain areas of our human world that onece believed make us part of who we are?
+26. So what is next, what can help us redefine and keep going so we can build better societis, 
+27. We as humanity have been there before, when suddenly we have scientific discoveries that told us we are no longer the center of the universe, the solar system, nor a divine creation, and now we are not the only species in this world able to think and rationate, 
+28. Will be the only ones to "feel" , in a reality that already denies other species than ours to feel and have emotions?
+
+
+29. 
+
+
+
+MAgical thinking
+Simple solutions to complex problems
+
+
+Think and acknowledge that "the good side of technology moves much slower" than
+the dark side of technology
+
+What is real?
+
+What makes us human?
+
+Good and evil
+
+
