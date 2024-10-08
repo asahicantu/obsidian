@@ -624,8 +624,28 @@ We are indeed
 27. We as humanity have been there before, when suddenly we have scientific discoveries that told us we are no longer the center of the universe, the solar system, nor a divine creation, and now we are not the only species in this world able to think and rationate, 
 28. Will be the only ones to "feel" , in a reality that already denies other species than ours to feel and have emotions?
 
+### .... And how much money are you worth?
 
-29. 
+29. With these final words I will fnish with my own definition, what is helping me surf and traverse these difficult challenging times...
+30. What is being human?
+	1. Is a sunny day, brething fresh air, the taste of the water, the lost of a loved one, the feeling that everything is collapsing, the fear for the future, the guilt and regret of the past, being human is feeling lost, the touch of a hand, the warm of a hug. The tears in my eyes, the pain of life, the joy of the present, and the candle of the hearth that lights in the shine and in the dark, being human is this flow of duality, this inability to know one self, nor know it all, and be ok with it..
+	2. Being human is accept the journey, accept that one day I will go, and legacy will traverse bodies, will touch minds, will be this moment trying to do something for good, to be better
+	3. Accept my mistakes, dare to live, dare to try again, and again...
+	4. Is health and disease, is all these entangled things that let me know that I am finite..
+	5. A feel of belonging, the feeling of loneliness. the struggle and the fight, the hope and the faith... Rainbows of feelings, mixture of senses, that this world offers to us to realize, that the only thing we have for certain and for granted, is this very present.
+	6. Is more than 8 billion ways of interpreting reality at the same time, every second....
+31. I know one day I will have to look at that and redefine it, but as for this present is helping me, is daring me to keep on trying, 
+32. Leave traces, leave traces everywhere, leave steps, smiles, kindness, make your voice be heard, your face be shown, your steps be strong, your eyes be looked at... so we can acknoledge your existence and your uniqueness... Irrepetible in this world.
+33. May it be that... you dare to jump to life?
+34.  May you be happy, may you be strong, may you feel like you belong.....
+
+To ne alive
+[What are the odds of being alive? — The Mortal Atheist](https://www.themortalatheist.com/blog/what-are-the-odds-of-being-alive)
+
+
+[The Mortal Atheist](https://www.themortalatheist.com/)
+
+
 
 
 
@@ -641,5 +661,6 @@ What is real?
 What makes us human?
 
 Good and evil
+
 
 
