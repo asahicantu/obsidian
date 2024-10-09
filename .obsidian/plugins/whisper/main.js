@@ -2313,7 +2313,9 @@ var AudioHandler = class {
     const baseFileName = getBaseFileName(fileName);
     const audioFilePath = `${this.plugin.settings.saveAudioFilePath ? `${this.plugin.settings.saveAudioFilePath}/` : ""}${fileName}`;
     const noteFilePath = `${this.plugin.settings.createNewFileAfterRecordingPath ? `${this.plugin.settings.createNewFileAfterRecordingPath}/` : ""}${baseFileName}.md`;
-    new import_obsidian2.Notice(`Sending audio data size: ${blob.size / 1e3} KB`);
+    if (this.plugin.settings.debugMode) {
+      new import_obsidian2.Notice(`Sending audio data size: ${blob.size / 1e3} KB`);
+    }
     if (!this.plugin.settings.apiKey) {
       new import_obsidian2.Notice(
         "API key is missing. Please add your API key in the settings."
@@ -2324,8 +2326,25 @@ var AudioHandler = class {
     formData.append("file", blob, fileName);
     formData.append("model", this.plugin.settings.model);
     formData.append("language", this.plugin.settings.language);
+    if (this.plugin.settings.prompt)
+      formData.append("prompt", this.plugin.settings.prompt);
     try {
-      new import_obsidian2.Notice("Sending audio data:" + fileName);
+      if (this.plugin.settings.saveAudioFile) {
+        const arrayBuffer = await blob.arrayBuffer();
+        await this.plugin.app.vault.adapter.writeBinary(
+          audioFilePath,
+          new Uint8Array(arrayBuffer)
+        );
+        new import_obsidian2.Notice("Audio saved successfully.");
+      }
+    } catch (err) {
+      console.error("Error saving audio file:", err);
+      new import_obsidian2.Notice("Error saving audio file: " + err.message);
+    }
+    try {
+      if (this.plugin.settings.debugMode) {
+        new import_obsidian2.Notice("Parsing audio data:" + fileName);
+      }
       const response = await axios_default.post(
         this.plugin.settings.apiUrl,
         formData,
@@ -2336,20 +2355,6 @@ var AudioHandler = class {
           }
         }
       );
-      if (response.data.error) {
-        console.error("Error sending audio data:", response.data.error);
-        new import_obsidian2.Notice("Error sending audio data: " + response.data.error);
-        return;
-      }
-      console.log("Audio data sent successfully:", response.data.text);
-      if (this.plugin.settings.saveAudioFile) {
-        const arrayBuffer = await blob.arrayBuffer();
-        await this.plugin.app.vault.adapter.writeBinary(
-          audioFilePath,
-          new Uint8Array(arrayBuffer)
-        );
-        console.log("write to ", audioFilePath);
-      }
       const activeView = this.plugin.app.workspace.getActiveViewOfType(import_obsidian2.MarkdownView);
       const shouldCreateNewFile = this.plugin.settings.createNewFileAfterRecording || !activeView;
       if (shouldCreateNewFile) {
@@ -2379,8 +2384,8 @@ ${response.data.text}`
       }
       new import_obsidian2.Notice("Audio parsed successfully.");
     } catch (err) {
-      console.error("Error sending audio data:", err);
-      new import_obsidian2.Notice("Error sending audio data: " + err.message);
+      console.error("Error parsing audio:", err);
+      new import_obsidian2.Notice("Error parsing audio: " + err.message);
     }
   }
 };
@@ -2400,11 +2405,13 @@ var WhisperSettingsTab = class extends import_obsidian3.PluginSettingTab {
     this.createApiKeySetting();
     this.createApiUrlSetting();
     this.createModelSetting();
+    this.createPromptSetting();
     this.createLanguageSetting();
     this.createSaveAudioFileToggleSetting();
     this.createSaveAudioFilePathSetting();
     this.createNewFileToggleSetting();
     this.createNewFilePathSetting();
+    this.createDebugModeToggleSetting();
   }
   getUniqueFolders() {
     const files = this.app.vault.getMarkdownFiles();
@@ -2457,6 +2464,18 @@ var WhisperSettingsTab = class extends import_obsidian3.PluginSettingTab {
       this.plugin.settings.model,
       async (value) => {
         this.plugin.settings.model = value;
+        await this.settingsManager.saveSettings(this.plugin.settings);
+      }
+    );
+  }
+  createPromptSetting() {
+    this.createTextSetting(
+      "Prompt",
+      "Optional: Add words with their correct spellings to help with transcription. Make sure it matches the chosen language.",
+      "Example: ZyntriQix, Digique Plus, CynapseFive",
+      this.plugin.settings.prompt,
+      async (value) => {
+        this.plugin.settings.prompt = value;
         await this.settingsManager.saveSettings(this.plugin.settings);
       }
     );
@@ -2531,6 +2550,18 @@ var WhisperSettingsTab = class extends import_obsidian3.PluginSettingTab {
       });
     });
   }
+  createDebugModeToggleSetting() {
+    new import_obsidian3.Setting(this.containerEl).setName("Debug Mode").setDesc(
+      "Turn on to increase the plugin's verbosity for troubleshooting."
+    ).addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.debugMode).onChange(async (value) => {
+        this.plugin.settings.debugMode = value;
+        await this.settingsManager.saveSettings(
+          this.plugin.settings
+        );
+      });
+    });
+  }
 };
 
 // src/SettingsManager.ts
@@ -2538,9 +2569,11 @@ var DEFAULT_SETTINGS = {
   apiKey: "",
   apiUrl: "https://api.openai.com/v1/audio/transcriptions",
   model: "whisper-1",
+  prompt: "",
   language: "en",
   saveAudioFile: true,
   saveAudioFilePath: "",
+  debugMode: false,
   createNewFileAfterRecording: true,
   createNewFileAfterRecordingPath: ""
 };
@@ -2563,7 +2596,7 @@ var SettingsManager = class {
 // src/AudioRecorder.ts
 var import_obsidian4 = require("obsidian");
 function getSupportedMimeType() {
-  const mimeTypes = ["audio/mp4", "audio/mpeg", "audio/webm"];
+  const mimeTypes = ["audio/webm", "audio/ogg", "audio/mp3", "audio/mp4"];
   for (const mimeType of mimeTypes) {
     if (MediaRecorder.isTypeSupported(mimeType)) {
       return mimeType;

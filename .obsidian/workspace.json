@@ -6,6 +6,7 @@
       {
         "id": "849e1f42becc134b",
         "type": "tabs",
+        "dimension": 78.78787878787878,
         "children": [
           {
             "id": "d08a9ab29f94acf1",
@@ -13,106 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37141a31be7b954d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capgemini/ConnectedManager/01-Proximity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e1eacbe5ea81e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECCOUNCIL/Network security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eacbc4e28db2b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentations/HelloStavanger/Notes raw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e47e27457a65be14",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f3e73f8534d4241b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECCOUNCIL/Risk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e91827c01b804221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECCOUNCIL/Network security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df2a9ac7af208cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECCOUNCIL/Asymetric Encryption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16015e2583649fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202405140928.md",
+                "file": "Presentations/HelloStavanger/Proof Of Humanity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "7ed7295d884bdcfb",
+        "type": "tabs",
+        "dimension": 21.21212121212121,
+        "children": [
+          {
+            "id": "9c2f10a797964ae0",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/HelloStavanger/Notes raw.md",
+                "file": "Presentations/HelloStavanger/Proof Of Humanity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentations/HelloStavanger/Notes raw.md",
+                "file": "Presentations/HelloStavanger/Proof Of Humanity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentations/HelloStavanger/Notes raw.md"
+                "file": "Presentations/HelloStavanger/Proof Of Humanity.md"
               }
             }
           },
@@ -273,9 +196,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "f9ad2c2e78ffb0f8",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -292,36 +223,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4eacbc4e28db2b15",
+  "active": "d08a9ab29f94acf1",
   "lastOpenFiles": [
-    "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
-    "Presentations/HelloStavanger/Resources/QR_AviyalBalwitB.png",
-    "Presentations/HelloStavanger/Resources/blog.png",
-    "Presentations/HelloStavanger/Resources",
-    "Presentations/HelloStavanger/Notes.md",
-    "ECCOUNCIL/CSF.md",
     "Presentations/HelloStavanger/Notes raw.md",
-    "Presentations/HelloStavanger",
-    "ECCOUNCIL/Network security.md",
-    "ECCOUNCIL/Risk.md",
-    "Capgemini/ConnectedManager/01-Proximity.md",
+    "Presentations/HelloStavanger/Proof Of Humanity.md",
+    "Presentations/HelloStavanger/Resources/QR/QR_PROB_BEING_ALIVE_httpsvisual.lycommunityInfographicssciencewhat-are-odds.png",
+    "Presentations/HelloStavanger/Resources/QR/QR_PROB_BEING_ALIVE_.png",
+    "Presentations/HelloStavanger/Resources/QR/QR Code d3a173cc-f7f1-4bc0-b68d-631f1eb6ef07.png",
+    "Presentations/HelloStavanger/Resources/QR",
+    "Presentations/HelloStavanger/Notes.md",
     "202405140928.md",
-    "ECCOUNCIL/Asymetric Encryption.md",
-    "ECCOUNCIL/PEOPLE.md",
-    "ECCOUNCIL/Attack.md",
-    "AI-900 ANSWERS.md",
-    "ECCOUNCIL/Social engineering.md",
-    "ECCOUNCIL/Hacking.md",
-    "ECCOUNCIL/Malware.md",
+    "Presentations/Presentations.md",
+    "Presentations/HelloStavanger/Resources/QR_AviyalBalwitB.png",
+    "Presentations/HelloStavanger/Resources",
     "ECCOUNCIL/Threat.md",
-    "AI-102.md",
+    "ECCOUNCIL/Social engineering.md",
+    "ECCOUNCIL/Risk.md",
+    "ECCOUNCIL/PEOPLE.md",
+    "ECCOUNCIL/Network security.md",
+    "ECCOUNCIL/Malware.md",
+    "ECCOUNCIL/Hacking.md",
+    "ECCOUNCIL/CSF.md",
+    "ECCOUNCIL/Attack.md",
+    "ECCOUNCIL/Asymetric Encryption.md",
     "ECCOUNCIL",
+    "AI-900 ANSWERS.md",
+    "AI-102.md",
+    "Presentations/Blockchain/Notes.md",
+    "Presentations/HelloStavanger",
+    "Capgemini/ConnectedManager/Emotional intelligence worksheets/Rebuild broken trust.md",
     "linux/bashjournal.md",
     "linux",
     "Capgemini/ConnectedManager/Emotional intelligence worksheets/Evaluate your emotional intelligence capabilities.md",
+    "Capgemini/ConnectedManager/01-Proximity.md",
     "Capgemini/ConnectedManager/03-Perspective.md",
     "Capgemini/ConnectedManager/Emotional intelligence worksheets",
     "Presentations/Blockchain/rsc/LeadingPeople_AddressABreachOfTrust_Infographic.svg",
@@ -331,17 +271,11 @@
     "Presentations/Blockchain/rsc/Pasted image 20240422164737.png",
     "Capgemini",
     "Capgemini/ConnectedManager",
-    "Presentations/Blockchain/Notes.md",
-    "Presentations/Blockchain/BlockchainPresentation.md",
     "Presentations/Blockchain/rsc/ProofOfHumanity.png",
     "Presentations/Blockchain/rsc/BTCChart.png",
     "Presentations/Blockchain/rsc/ClipperChip2.png",
-    "Presentations/Blockchain/rsc/Web3.png",
-    "Misc/Misc.md",
     "Misc",
     "Kubernetes",
-    "export/BlockchainPresentation/DCA/Resources/Pasted image 20240311171123.png",
-    "export/BlockchainPresentation/DCA/Resources",
     "EDC-AI/MyFrstCanvas.canvas"
   ]
 }

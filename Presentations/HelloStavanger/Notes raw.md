@@ -639,6 +639,9 @@ We are indeed
 33. May it be that... you dare to jump to life?
 34.  May you be happy, may you be strong, may you feel like you belong.....
 
+
+Being human is absurd, this constant void, the need to adapt to things we do not udnerstand, for us not fully being to explain how we feel, what we feel, the assumptions of societies.
+
 To ne alive
 [What are the odds of being alive? — The Mortal Atheist](https://www.themortalatheist.com/blog/what-are-the-odds-of-being-alive)
 
@@ -664,3 +667,85 @@ Good and evil
 
 
 
+
+
+
+Being human is to know we will die, stuggle to ind meaning, purpose, moments are scarce, comples, painful
+
+Scarcity
+The scarcity of life is represented by death
+
+DEath nd life colive together
+
+A entence is awaiting for a new word to resignify
+I want
+I want to kill you
+I want to kill you with kisse
+
+REsignify your life with every step
+
+I learned to open myself to the world, to be humble and kind to myself,  
+
+Transcendence... A better place, or whatever that means
+
+8 billion pixels shaping the picture of this world and the society as we understand it as a global consciousness
+
+Physical I
+The symbolic I
+
+What this world needs the most is what each one of us has come to give ot it....
+
+Love and Grief
+
+
+My concern that we are not accepting reality as it is, and put upon soundrack, filters, makeup, smiley faces, 
+Reality does not give a shit, it will change and punch you in the face whether you accept it or not
+
+Reality just is
+
+Human is posiblity
+To change
+To choose to be something different
+
+
+
+
+
+
+
+Being human is to know we will die, stuggle to ind meaning, purpose, moments are scarce, comples, painful
+
+Scarcity
+The scarcity of life is represented by death
+
+DEath nd life colive together
+
+A entence is awaiting for a new word to resignify
+I want
+I want to kill you
+I want to kill you with kisse
+
+REsignify your life with every step
+
+I learned to open myself to the world, to be humble and kind to myself,  
+
+Transcendence... A better place, or whatever that means
+
+8 billion pixels shaping the picture of this world and the society as we understand it as a global consciousness
+
+Physical I
+The symbolic I
+
+What this world needs the most is what each one of us has come to give ot it....
+
+Love and Grief
+
+
+My concern that we are not accepting reality as it is, and put upon soundrack, filters, makeup, smiley faces, 
+Reality does not give a shit, it will change and punch you in the face whether you accept it or not
+
+Reality just is
+
+Human is posiblity
+To change
+To choose to be something different
