@@ -1,49 +1,39 @@
 # Proof of humanity
 
-  A humanistic approach in a world dominated by Tech/AI[^1]
+  A new approach in a world dominated by Tech/AI
 
-[^1]: Powered by ==Asahi Cantu==
+```bash
+Asahi Cantu
+```
 
 ---
-
-> "There are decades where nothing happens; and there are weeks where decades happen"
-
- \- Vladimir Ilyich Lenin 
+> [!tip] Vladimir Ilyich 
+> "There are DECADES where nothing happens;
+>  and there are weeks where DECADES happen" 
+<!-- element style="font-size:30px" rotate="0"-->
 
 ---
 ## Disclaimer I
-! Sorry 
+... Self reflections ... 
 
 ---
 
 ## Disclaimer II
 
-Challenge
+Difficult topics
 
 ---
 ## Disclaimer III
-```c#
-[Obsolete("This presentation is already outdated")]
-public class MyPresentation()
-{
-	.
-	.
-	.
-}
-```
+Obsolete?
+
 ---
 ## What has changed?
 
 ---
-## Biased technology
->“I am 25. These next five years might be the last few years that I work. I am not ill, nor am I becoming a stay-at-home mom, nor have I been so financially fortunate to be on the brink of voluntary retirement. I stand at the edge of a technological development that seems likely, should it arrive, to end employment as I know it.
-> - <cite>Avital Balwit (Chief of staff at Anthropic)[17.05.2024]</cite>
+##  The reverse Turing test
 
----
-## 
+Machines using tools to confirm 'internet entities' are not humans
 
-
----
 ---
 ### Tech
 
@@ -52,29 +42,66 @@ Behavioral change
 ---
 ### AI
 
-We were not ready
+* ~Artifitial~ Alien Intelligence
 
----
-## Meaning vs Significant
-
-### Love :heart:
-
----
-## Meaning vs Significant
-
-### War :fire:
-
----
-## Lost Connections
+* Synthetic data
 
 ---
 
+## The dead internet
+
+---
+## Techno feudalism
+---
 ## What is real?
 
 📱🖼️📷
 
 ---
-## Our programmed obsolescence
+## The end of non-repudiation
+
+ 🚫  🎥 📷  🤳🏽 ➿ 🖼
+
+
+---
+## Copilots
+To be given before I  know what I want
+
+🧠
+
+---
+## Heavenbanning
+
+👤💬
+  ⛔ 
+
+💻🤖🤖🤖🤖🤖🤖
+
+---
+## Programmed obsolescence
+
+### 🙈 < 🤦🏽‍♂️ < 🤖    < 💻
+
+---
+## On political systems
+
+... Simple solutions to complex problems
+
+---
+## Lost Connections
+
+
+---
+## On Singularity
+>“I am 25. These next five years might be the last few years that I work. I am not ill, nor am I becoming a stay-at-home mom, nor have I been so financially fortunate to be on the brink of voluntary retirement. I stand at the edge of a technological development that seems likely, should it arrive, to end employment as I know it.
+> - <cite>Avital Balwit (Chief of staff at Anthropic)[17.05.2024]</cite>
+
+---
+## On awareness
+
+* Emergent phenomena
+* Multiplier effect
+* 2nd  and 3rd  degree consequences
 
 ---
 ## On being alive...
@@ -83,6 +110,39 @@ $$
 1 : 10^{2685000} \approx 0
 $$
 
+## 👩🏻‍🤝‍🧑🏽👩🏻‍🤝‍🧑🏾👩🏻‍🤝‍🧑🏼👩🏻‍🤝‍🧑🏻👩🏻‍🤝‍🧑🏽👩🏼‍🤝‍🧑🏼👩🏽‍🤝‍🧑🏾👩🏽‍🤝‍🧑🏽👩🏾‍🤝‍🧑🏽👩🏾‍🤝‍🧑🏼👩🏾‍🤝‍🧑🏾👩🏾‍🤝‍🧑🏻👩🏼‍🤝‍🧑🏾👩🏼‍🤝‍🧑🏽👩🏽‍🤝‍🧑🏼👩🏽‍🤝‍🧑🏽👩🏽‍🤝‍🧑🏾
+
 ---
 
-# I am going to die
+## The lattice
+
+![[lattice.gif]]
+
+---
+## On dealing with indifference
+
+
+---
+## The Meaning and the Significant
+
+#  Love :heart:
+# War :fire:
+---
+
+## Our proof of humanity...
+PoH
+
+---
+## ...For a shameless future
+# 🕊
+
+---
+##  Grateful for
+
+![[norway.png]]
+
+note: Living in Norway
+in a place that allows me to think and perform the things I want to do
+
+---
+## The end

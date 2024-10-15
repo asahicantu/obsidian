@@ -749,3 +749,31 @@ Reality just is
 Human is posiblity
 To change
 To choose to be something different
+
+
+
+
+
+To ne alive
+[What are the odds of being alive? — The Mortal Atheist](https://www.themortalatheist.com/blog/what-are-the-odds-of-being-alive)
+
+
+[The Mortal Atheist](https://www.themortalatheist.com/)
+
+
+
+
+
+MAgical thinking
+Simple solutions to complex problems
+
+
+Think and acknowledge that "the good side of technology moves much slower" than
+the dark side of technology
+
+What is real?
+
+What makes us human?
+
+Good and evil
+
