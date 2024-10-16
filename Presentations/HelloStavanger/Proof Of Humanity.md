@@ -13,7 +13,8 @@ css:
 transition: fade
 ---
 ---
-# Proof of humanity
+## Proof of humanity
+PoH
 
 
   A new approach in a world dominated by Tech/AI
@@ -74,7 +75,7 @@ To be given before I  know what I want
 ---
 ### AI
 
-* ~Artifitial~ Alien Intelligence
+* ~Artificial~ Alien Intelligence
 
 * Synthetic data
 
@@ -177,7 +178,5 @@ note: Living in Norway
 in a place that allows me to think and perform the things I want to do
 
 ---
-### What is your proof of humanity?
-
----
 # THE END
+### What is your PoH?
