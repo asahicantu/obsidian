@@ -12,10 +12,7 @@ css:
   - css/videolayout.css
 transition: fade
 ---
----
-## Proof of humanity
-PoH
-
+## Proof of humanity PoH
 
   A new approach in a world dominated by Tech/AI
 
