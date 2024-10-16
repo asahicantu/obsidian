@@ -712,6 +712,14 @@ To choose to be something different
 
 
 
+To be human...
+The fear of death
+The struggle to find purpose, 
+The beautiful moments, 
+The scarcity of life, 
+As beautiful as complex, 
+As simple as painful
+
 
 Being human is to know we will die, stuggle to ind meaning, purpose, moments are scarce, comples, painful
 
